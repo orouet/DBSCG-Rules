@@ -5,5 +5,6 @@ You can find here copies of the officials rules of Dragon Ball Super Card Game i
 
 Sources :
 English rules : http://www.dbs-cardgame.com/pdf/rulemanual.pdf
+
 French rules : http://www.dbs-cardgame.com/europe-fr/pdf/rulemanual.pdf
 
