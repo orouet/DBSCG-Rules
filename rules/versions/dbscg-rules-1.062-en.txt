@@ -334,6 +334,7 @@ General Rules
 6-4-1-2. A checkpoint occurs. After resolving all necessary processes for the checkpoint, all effects that last “Until the end of the turn” end.
 6-4-1-3. If at this timing there are no [Auto] skills with unfulfilled”at the end of the turn” trigger conditions, the opposing player of the current turn player becomes the turn player, ending the turn and proceeding to the next turn’s Charge Phase. If not, carry out the End Phase procedure once again from the beginning.
 
+
 7. Card Attacking and Battle
 7-1. During the Main Phase, the turn player can switch an Active Mode Leader Card/Battle Card in their Leader Area or Battle Area to Rest Mode in order to attack the opponent’s Leader Card, or a Battle Card in Rest Mode. If the player chooses to attack, a battle occurs. The attacking card becomes an attack card and the attacked card becomes a guard card until the attack is negated or the battle ends. Then, follow procedures 7-1-1. to 7-1-3 in order.
 7-1-1. The trigger conditions “When this card attacks,” “When this card is attacked,” (the trigger conditions for [Blocker]) occur.
@@ -640,7 +641,9 @@ General Rules
 10-22-2. Cards removed from the game do not exist in any areas.
 10-17-3. Cards removed from the game must be faced up, and open to all players to see.
 
+
 11. Other
+
 11-1. Infinite Loop
 11-1-1. When carrying out some processes, there may be some occasions where an action can be or must be carried out infinitely. This is called an infinite loop, and 1 cycle of action from the start to the end of loop is called a loop action. If such an event occurs, follow the procedure below.
 11-1-1-1. If neither player can stop that infinite loop, the game ends as draw.
