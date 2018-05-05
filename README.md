@@ -13,15 +13,16 @@ Vous retrouverez ici une copie des règles officielles de **Dragon Ball Super Ca
 You can find here copies of the officials rules of **Dragon Ball Super Card Game** in different languages and different formats.
 
 
-# Mentions et licence - Acknowledgements and license
+## Mentions et licence - Acknowledgements and license
 
 ![](https://github.com/orouet/DBSCG-Rules/blob/master/site/img/flags/fr-FR.png?raw=true)
+Les illustrations de **Dragon Ball Super Card Game** sont la propriété de BIRD STUDIO/SHUEISHA, TOEI ANIMATION.
 
 ![](https://github.com/orouet/DBSCG-Rules/blob/master/site/img/flags/en-GB.png?raw=true)
+**Dragon Ball Super Card Game** visuals are copyrighted by BIRD STUDIO/SHUEISHA, TOEI ANIMATION.
 
-**©BIRD STUDIO/SHUEISHA, TOEI ANIMATION**
 
-# Sources
+## Sources
 
 - English rules : http://www.dbs-cardgame.com/pdf/rulemanual.pdf
 
