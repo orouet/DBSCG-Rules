@@ -1,3 +1,8 @@
+<p align="center">
+<img src ="https://github.com/orouet/DBSCG-Rules/blob/master/site/img/mv_union-force.jpg?raw=true"/>
+<br/>
+</p>
+
 # DBSCG-Rules
 ## Dragon Ball Super Card Game - Rules
 
