@@ -55,8 +55,7 @@ General Rules
 2-3-2-1-1. If a card text refers to a “Leader” or “Leader Card” it is referring to the Leader Card in the Leader Area.
 2-3-2-1-2. Leader Cards have descriptions on both the front and back of the card. During play, only the descriptions of the side facing up are relevant; the descriptions on the other side are regarded as absent.
 2-3-2-1-3. When the back of the card is facing up, all descriptions on that side are relevant and all descriptions on the front of the cards are irrelevant.
-2-3-2-2. Battle Cards are primarily placed in the Battle Area
-and Combo Area.
+2-3-2-2. Battle Cards are primarily placed in the Battle Area and Combo Area.
 2-3-2-2-1. If a card text refers to a “Battle Card,” it is referring to a card of the card type “Battle Card.”
 2-3-2-3. Extra Cards are cards that activate skills by being placed into the Drop Area from the hand.
 2-3-2-3-1. If a card text refers to an “Extra Card,” it is referring to a card of the card type “Extra Card.”
@@ -97,13 +96,13 @@ and Combo Area.
 2-10. Combo Cost
 2-10-1. This indicates how much it costs to place this card from a player’s hand or Battle Area into the Combo Area. Check “7.Card Attacking and Battle” for details.
 2-10-2. Only Battle Cards have Combo cost.
+
 2-11. Energy Cost
 2-11-1. This is the cost necessary to play this card from a player’s hand or activate its skill. The cost can be separated into 2 types of cost: the total cost and specified cost.
 2-11-1-1. When playing Battle Cards from a player’s hand, first the player must reveal that card from their hand and switch the same number of cards in their Energy Area as its total cost to Rest Mode. If the cost of the card the player wishes to play includes a specified cost, the cards they switch to Rest Mode in the Energy Area must include that many cards of that color.
 2-11-1-1-1. When the specified cost of the card a player wishes to play is greater than the total cost, they must choose the same number of cards from their Energy Area with the same color as the specified cost, and switch them to Rest Mode.
-2-11-1-2. When activating Extra Card skills from a player’s hand, first they must reveal that card from their hand and switch the same number of cards in their Energy Area as its total cost to Rest Mode. If the cost of the card they wish to activate includes a specified cost, the cards they switch to Rest Mode in the Energy
-Area must include that many cards of that color.
-2-11-1-2-1. When the specified cost of the Extra Card a player wants to activate is greater than the total cost, theymust choose the same number of cards from their energy area with the same color as the specified cost, and switch them to Rest Mode.
+2-11-1-2. When activating Extra Card skills from a player’s hand, first they must reveal that card from their hand and switch the same number of cards in their Energy Area as its total cost to Rest Mode. If the cost of the card they wish to activate includes a specified cost, the cards they switch to Rest Mode in the Energy Area must include that many cards of that color.
+2-11-1-2-1. When the specified cost of the Extra Card a player wants to activate is greater than the total cost, they must choose the same number of cards from their energy area with the same color as the specified cost, and switch them to Rest Mode.
 2-11-2. Only Battle Cards and Extra Cards have Energy Costs.
 
 2-12. Skill (Card Text)
@@ -244,8 +243,7 @@ Area must include that many cards of that color.
 4-7-3-2. The master of the pending [Counter] proceeds to 4-7-3-6 or chooses to activate one of the pending [Counter] skills.
 4-7-3-3. The player who didn’t activate the [Counter] skill before either proceeds to 4-7-3-5 or activates one of the pending [Counter] skills.
 4-7-3-4. The player who didn’t activate the [Counter] skill before either proceeds to 4-7-3-5 or activates one of the pending [Counter] skills. If the [Counter] is activated, return to 4-7-3-3.
-4-7-3-5. Resolve activated [Counter] skills. Resolve the skills in the opposite order they were activated (start from
-the last one and proceed backwards) regardless of the turn player.
+4-7-3-5. Resolve activated [Counter] skills. Resolve the skills in the opposite order they were activated (start from the last one and proceed backwards) regardless of the turn player.
 4-7-3-6. End the counter timing, carry out the original action or skill that triggered the counter timing (if possible), then proceed with the game.
 
 4-8. Card Positions
@@ -330,8 +328,7 @@ the last one and proceed backwards) regardless of the turn player.
 6-3-1-3. Main Phase End Step
 6-3-1-3-1. End the turn’s Main Phase in this step. Perform the step following the procedure below.
 6-3-1-3-1-1. The trigger conditions “At the end of the Main Phase” occurs and a checkpoint occurs.
-6-3-1-3-1-2. A checkpoint occurs. After resolving all necessary
-processing for the checkpoint, all effects that last “Until the end of the Main Phase” end.
+6-3-1-3-1-2. A checkpoint occurs. After resolving all necessary processing for the checkpoint, all effects that last “Until the end of the Main Phase” end.
 6-3-1-3-1-3. Proceed to the End Phase
 
 6-4. End Phase
@@ -367,8 +364,7 @@ processing for the checkpoint, all effects that last “Until the end of the Mai
 7-2-1-3. If the turn player chooses to do nothing, proceed to the Defense Step.
 
 7-3. Defense Step
-7-3-1. The non-turn player carries out various actions in this step.
-Perform the Defense Step by following the procedure below.
+7-3-1. The non-turn player carries out various actions in this step. Perform the Defense Step by following the procedure below.
 7-3-1-1. The trigger conditions “At the beginning of the Defense Step” occurs and a checkpoint occurs。
 7-3-1-2. The non-turn player is granted a free timing. Checkpoints and counter timing also occur if the player combos or activates skills. The player may choose and carry out the following actions at this free timing
 7-3-1-2-1. The non-turn player can move any of their Active Mode Battle Cards other than their guard card to the Combo Area to combo.
@@ -385,8 +381,7 @@ Perform the Defense Step by following the procedure below.
 7-4-1-1. The trigger condition “At the beginning of your Damage Step” occurs and a checkpoint occurs.
 7-4-1-2. Add all Combo Power of the turn player’s cards in the Combo Area to the power of the attack card.
 7-4-1-3. Add all Combo Power of the non-turn player’s cards in the Combo Area to the power of the guard card.
-7-4-1-4. Compare the power of the attack card and the guard card. If the attack card’s power is higher than or equal to the guard card's power, follow the procedure below. If not, do not carry out any procedures reflecting the result of the battle, but proceed to
-7-4-1-5 instead.
+7-4-1-4. Compare the power of the attack card and the guard card. If the attack card’s power is higher than or equal to the guard card's power, follow the procedure below. If not, do not carry out any procedures reflecting the result of the battle, but proceed to 7-4-1-5 instead.
 7-4-1-4-1. If the guard card is the Leader Card, the trigger condition “when you deal damage” occurs and a checkpoint occurs.
 7-4-1-4-1-1. The attack card inflicts 1 damage to the non-turn player.
 7-4-1-4-1-2. The trigger condition “when you dealt damage” occurs..
@@ -431,7 +426,7 @@ Perform the Defense Step by following the procedure below.
 
 8-4. Skill Cost
 8-4-1. An [Activate] skill may have certain actions specified before a colon. Those actions are called skill costs.
-8-4-2. “To pay the skill cost”means to “carry out the action specified in the skill cost.”
+8-4-2. “To pay the skill cost” means to “carry out the action specified in the skill cost.”
 8-4-2-1. If a single skill cost includes multiple actions, carry them out from the beginning of the text.
 8-4-2-2. If a player cannot pay a part or all of a skill cost, that means the player cannot pay the cost at all.
 8-4-2-3. Some skill costs are described with symbols such as ①. This means to choose and switch that many of your energy to Rest Mode.
@@ -555,8 +550,7 @@ Perform the Defense Step by following the procedure below.
 10-4-2. “Negate [Blocker]” is a special procedure in which the target of the attack is switched back to the original target.
 
 10-5. [Evolve] (EX-Evolve)
-10-5-1. [Evolve] ([EX-Evolve]) is an [Activate: Main] keyword skill
-that can be activated by paying the skill cost and choosing a Battle Card(s) of the specified name fulfilling the specified conditions is in play in your Battle Area. If a player cannot choose the specified Battle Card, they cannot activate [Evolve] ([EX-Evolve]).
+10-5-1. [Evolve] ([EX-Evolve]) is an [Activate: Main] keyword skill that can be activated by paying the skill cost and choosing a Battle Card(s) of the specified name fulfilling the specified conditions is in play in your Battle Area. If a player cannot choose the specified Battle Card, they cannot activate [Evolve] ([EX-Evolve]).
 10-5-2. [Evolve] ([EX-Evolve]) can only be activated from a player’s hand.
 10-5-3. [Evolve] ([EX-Evolve]) is described as the following: [Evolve] ([EX-Evolve]): skill cost condition <character name> .
 10-5-3-1. Sometimes conditions are not specified. In these cases, no condition is required.
@@ -598,11 +592,10 @@ that can be activated by paying the skill cost and choosing a Battle Card(s) of 
 10-11-3. Skills without “once per turn” limitations can be activated as many times as a player wishes, as long as they can pay the skill cost and the conditions are fulfilled.
 
 10-12. [Indestructible]
-10-12-1. [Indestructible] is a [Permanent] keyword skill. Cards with [Indestructible] cannot be KO-ed nor can be removed from the Battle Area by card’s skills of the owner’s opponent or battle results.
+10-12-1. [Indestructible] is a [Permanent] keyword skill. Cards with [Indestructible] cannot be KO-ed nor can be removed from the Battle Area by card's skills of the owner’s opponent or battle results.
 
 10-13. [Union-Fusion]
-10-13-1. [Union-Fusion] is an [Activate: Main] keyword skill that can be activated when a player has one of each specified
-character’s Battle Cards in their hand, and each Battle Card’s power is equal.
+10-13-1. [Union-Fusion] is an [Activate: Main] keyword skill that can be activated when a player has one of each specified character’s Battle Cards in their hand, and each Battle Card’s power is equal.
 10-13-2. [Union-Fusion] can only be activated from a player’s hand.
 10-13-3. [Union-Fusion] is described in [Union-Fusion] skill cost: <Character Name A> and <Character Name B>.
 10-13-4. When activating [Union-Fusion], players place 1 each of the specified Battle Cards with the same power from their hand in the Drop Area and play the Battle Card in Active Mode.
