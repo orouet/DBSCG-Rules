@@ -10,7 +10,7 @@ Update History
     Added update details.
 
 11/16/2017 — ver. 1.03
-    Added specifications clarifying  that skills which do not target a certain player only affect cards which belong to the same master.
+    Added specifications clarifying that skills which do not target a certain player only affect cards which belong to the same master.
 
 12/13/2017 — ver. 1.04
 
