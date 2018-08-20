@@ -1,0 +1,14 @@
+Historique des mises à jour
+
+
+13/04/2018 - ver. 1.062
+
+07/27/2018 - ver. 1.064
+    10-14-4-1. rajouté à [Union-Potara].
+    10-15-4. rajouté à [Union-Absorption].
+    10-17-5.  Précision sur la limite de tours d’[Espace-Temps] et [Espace-Temps obscur].
+    10-25. Section rajoutée : [Déflexion].
+    10-26. Section rajoutée : [Lien].
+    10-27. Section rajoutée : [Échange].
+    10-28. Section rajoutée : [Espace-Temps obscur].
+    10-29. Section rajoutée : [Vortex].

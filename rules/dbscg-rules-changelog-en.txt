@@ -1,0 +1,65 @@
+Update History
+
+
+05/08/2017 - ver. 1.00
+
+07/27/2017 - ver. 1.01
+    Added update details.
+
+10/08/2017 - ver. 1.02
+    Added update details.
+
+11/16/2017 — ver. 1.03
+    Added specifications clarifying  that skills which do not target a certain player only affect cards which belong to the same master.
+
+12/13/2017 — ver. 1.04
+
+01/26/2018 — ver. 1.05
+
+02/16/2018 - ver. 1.06
+
+03/02/2018 - ver. 1.061
+
+04/13/2018 - ver. 1.062
+    Revised 1-2. Victory conditions.
+    Revised 1-3-6.
+    Revised 1-3-7.
+    Revised 3-1-7.
+    Supplemented 3-1-7-1.
+    Revised 4-2. Owner.
+    Revised 6-3-1-1.
+    Clarified the timing of trigger condition “When you play this card”  in 6-3-1-2-1-4.
+    Revised 6-4-1-3.
+    Supplemented treatment of Battle Cards played on top of an attack card or guard card in 7-1-4.
+    Clarified the existence of counter timings before and after a skill’s resolution in 7-2-1-2-3-1.
+    Clarified the existence of counter timings before and after a skill’s resolution in 7-3-1-2-3-1.
+    Revised  the  damage step and clarified the  timing of trigger conditions “When you deal damage,” “When you dealt damage,” and “When you KO” in 7-4.
+    Interchanged 7-4-1-8. and 7-4-1-9.
+    Clarified cost symbols in 8-4-2-3. and 8-4-2-4.
+    Added 8-4-1-2.
+    Deleted 8-5-2-2.
+    Clarified the process of [Evolve] ([Ex-Evolve]) in 10-5.
+    Defined “evolve” in 10-5-5.
+    Defined “evolved” in 10-5-6.
+    Clarified the process of [Union-Potara] in 10-14.
+    Clarified the process of [Xeno-Evolve] in 10-18.
+    Added 11-3-2-1.
+
+05/25/2018 — ver. 1.063
+    Added 2-1-3.
+    Added 2-5-5.
+    Added 2-6-6.
+    Added 10-23.
+    Added 10-23-1.
+    Added 10-24.
+    Added 10-24-1.
+
+07/06/2018 — ver. 1.064
+    10-14-4-1 added to [Union-Potara].
+    10-15-4 added to [Union-Absorb].
+    10-17-5. Clarified details on [Over Realm] and [Dark Over Realm] turn restrictions.
+    10-25. Added section on [Deflect].
+    10-26. Added section on [Bond].
+    10-27. Added section on [Swap].
+    10-28. Added section on [Dark Over Realm].
+    10-29. Add section on [Wormhole].
