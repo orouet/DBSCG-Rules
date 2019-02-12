@@ -1,10 +1,23 @@
 DRAGON BALL SUPER CARD GAME OFFICIAL RULE MANUAL
-ver.1.064
-Last update: 7/6/2018
+ver.1.070
+Last update: 11/2/2018
+
+
+Table of Contents
+1. Game Outline
+2. Card Data
+3. Game Areas
+4. Basic Terms
+5. Game Preparation
+6. Game Progression
+7. Card Attacking and Battle
+8. Activating and Resolving Skills
+9. Rule Processing
+10. Keywords and Keyword Skills
+11. Other
 
 
 General Rules
-
 
 1. Game Outline
 
@@ -85,16 +98,16 @@ General Rules
 2-7-3. Only Leader Cards and Battle Cards have Era indications.
 
 2-8. Power
-2-8-1. This indicates the card’s power in battle. Check “7.Card Attacking and Battle” for details.
+2-8-1. This indicates the card’s power in battle. Check “7. Card Attacking and Battle” for details.
 2-8-2. Only Leader Cards and Battle Cards have power.
 2-8-3. Effects that reduce power can reduce power to less than 0 (negative values).
 
 2-9. Combo Power
-2-9-1. This indicates how much power this card adds in a combo. Check “7.Card Attacking and Battle” for details.
+2-9-1. This indicates how much power this card adds in a combo. Check “7. Card Attacking and Battle” for details.
 2-9-2. Only Battle Cards have Combo Power.
 
 2-10. Combo Cost
-2-10-1. This indicates how much it costs to place this card from a player’s hand or Battle Area into the Combo Area. Check “7.Card Attacking and Battle” for details.
+2-10-1. This indicates how much it costs to place this card from a player’s hand or Battle Area into the Combo Area. Check “7. Card Attacking and Battle” for details.
 2-10-2. Only Battle Cards have Combo cost.
 
 2-11. Energy Cost
@@ -104,12 +117,15 @@ General Rules
 2-11-1-2. When activating Extra Card skills from a player’s hand, first they must reveal that card from their hand and switch the same number of cards in their Energy Area as its total cost to Rest Mode. If the cost of the card they wish to activate includes a specified cost, the cards they switch to Rest Mode in the Energy Area must include that many cards of that color.
 2-11-1-2-1. When the specified cost of the Extra Card a player wants to activate is greater than the total cost, they must choose the same number of cards from their energy area with the same color as the specified cost, and switch them to Rest Mode.
 2-11-2. Only Battle Cards and Extra Cards have Energy Costs.
+2-11-3. When card text refers to an energy cost, it refers only to total cost.
+2-11-3-1. When card text refers to specified costs, it generally represents specified cost.
 
 2-12. Skill (Card Text)
 2-12-1. This indicates the individual skill this card possesses.
 2-12-2. If not specified otherwise, the skills (card text) of Leader Cards and Battle Cards are only relevant in the Leader Area and Battle Area.
 2-12-3. Some text has detailed explanations of keyword skills and other card skills inside parentheses. These are called explanatory notes. Explanatory notes are part of the text, but their purpose is providing further explanations of skills and they themselves do not influence gameplay.
 2-12-3-1. In some specific cases, skill text is included in parentheses to make understanding the skill easier.
+2-12-4. In text, cards that lack card text are sometimes referred to as being “skill-less.”
 
 2-13. Copyright Inscription
 2-13-1. This is the card’s copyright inscription.
@@ -149,7 +165,7 @@ General Rules
 3-2-4. If a player is requested to shuffle their deck, they rearrange the order of the cards of their deck in a random fashion. This action is carried out by the owner of the deck, regardless to who activated or possesses the effect requesting the action.
 
 3-3. Hand
-3-3-1. This is the area where each players place the cards they drew from their deck.
+3-3-1. This is the area where each player places the cards they drew from their deck.
 3-3-2. The hand is a secret area, but a player can freely view the contents and change the order of cards in their hand.
 3-3-3. Players cannot view the contents of cards in other player’s hands.
 
@@ -193,7 +209,7 @@ General Rules
 4. Basic Terms
 
 4-1. Skills and Effects
-4-1-1. Skills are the descriptions given in the card text..
+4-1-1. Skills are the descriptions given in the card text.
 4-1-1-1. Skills can be largely divided into 3 categories: [Activate], [Permanent], and [Auto].
 4-1-2. Effects are the actual details of the orders given to players by skills.
 4-1-2-1. Effects can be divided into immediate effects, continuous effects, and replacement effects.
@@ -259,7 +275,7 @@ General Rules
 4-9-4. If a player is directed to draw “up to X cards,” nothing happens is the X is 0. If X is 1 or higher, the player carries out the following actions.
 4-9-4-1. The player can end this action.
 4-9-4-2. The player draws a card.
-4-9-4-3. If a player have carried out 4-9-4-2. X times, end this action. If not, return to 4-9-4-1.
+4-9-4-3. If a player has carried out 4-9-4-2. X times, end this action. If not, return to 4-9-4-1.
 
 4-10. Damage Processing
 4-10-1. The act of “inflicting damage (to the opponent’s life)” is called damage processing.
@@ -293,7 +309,7 @@ General Rules
 5-2-1-5. Decide which player goes first randomly using the following criteria:
 5-2-1-5-1. Deciding the first player cannot be in anyway a conscious choice. A player, even if chosen randomly, cannot have a choice on whether they play first or not.
 5-2-1-6. Each player draws 6 cards from their deck as their opening hand. Then, from the starting player, each player has 1 chance to redraw their hand following the procedure below.
-5-2-1-6-1. A player nay return any number of cards to their deck. They shuffle their deck, then draw that many cards from their deck.
+5-2-1-6-1. A player may return any number of cards to their deck. They shuffle their deck, then draw that many cards from their deck.
 5-2-1-7. Each player places the top 8 cards of their deck face-down in their Life Area.
 5-2-1-8. The first player begins the game and starts their turn.
 
@@ -344,7 +360,7 @@ General Rules
 7-1-1. The trigger conditions “When this card attacks,” “When this card is attacked,” (the trigger conditions for [Blocker]) occur.
 7-1-2. A counter timing occurs. The non-turn player can activate a [Counter: Attack] skill which condition has been fulfilled.
 7-1-3. A checkpoint occurs.
-7-1-4. If the attack has been negated, proceed to 7-1-4-1.If the attack has not been negated, proceed to 7-2. Offense Step. If an effect has caused the number of Attack Cards or Guard Cards to be reduced to 0, proceed to 7-1-4-1. However if a Battle Card has been played on top of the attack card or guard card, that card is treated as the new attack card or guard card.
+7-1-4. If the attack has been negated, proceed to 7-1-4-1. If the attack has not been negated, proceed to 7-2. Offense Step. If an effect has caused the number of Attack Cards or Guard Cards to be reduced to 0, proceed to 7-1-4-1. However, if a Battle Card has been played on top of the attack card or guard card, that card is treated as the new attack card or guard card.
 7-1-4-1. All Battle Cards in each player’s Combo Area are placed in their owner’s Drop Areas.
 7-1-4-2. The trigger condition “End of battle” occurs, and a checkpoint occurs.
 7-1-4-3. Effects that last for the duration of a battle end.
@@ -384,7 +400,7 @@ General Rules
 7-4-1-4. Compare the power of the attack card and the guard card. If the attack card’s power is higher than or equal to the guard card's power, follow the procedure below. If not, do not carry out any procedures reflecting the result of the battle, but proceed to 7-4-1-5 instead.
 7-4-1-4-1. If the guard card is the Leader Card, the trigger condition “when you deal damage” occurs and a checkpoint occurs.
 7-4-1-4-1-1. The attack card inflicts 1 damage to the non-turn player.
-7-4-1-4-1-2. The trigger condition “when you dealt damage” occurs..
+7-4-1-4-1-2. The trigger condition “when you dealt damage” occurs.
 7-4-1-4-2. If the guard card is a Battle Card, it is KO-ed and moved to the Drop Area. Refer to “10-1. KO” for further details.
 7-4-1-4-2-1. The trigger condition “when you KO a card” occurs.
 7-4-1-5. A checkpoint occurs.
@@ -444,12 +460,12 @@ General Rules
 8-5-2-5-1. If a player activated an Extra Card skill, place the card in the Drop Area and carry out the skill’s effect.
 8-5-2-5-2. If a player activated the [Activate] or [Auto] of a card in the Leader Area, Battle Area, or Combo Area, carry out the skill’s effect.
 8-5-2-6. A counter timing occurs.
-8-5-3. If the skill describes to “choose... ” choose the indicated target card or player (target) when required to do so during the resolution of the skill.
+8-5-3. If the skill describes to “choose...” choose the indicated target card or player (target) when required to do so during the resolution of the skill.
 8-5-3-1. If the number of targets a player chooses is specified, they must choose as close a number to that number as possible. They cannot purposefully choose fewer targets than the specified number.
 8-5-3-2. If the number is specified as “up to...” or “...or less,” they can select any number of targets from 0 to the specified number.
 8-5-3-3. If the number of targets is specified, but some of the targets cannot be chosen, the player chooses as many targets as possible and resolves the specified effect against them.
 8-5-3-4. If the number of targets is specified, but none of the targets can be chosen, no targets are chosen. All effects concerning those targets are ignored.
-8-5-3-5. If the specified target is a card in a secret area, and if the choice requires information of the card, players cannot guarantee that the target is a card that meets the required conditions. Thus a player can decide not to choose a card from a secret area, even if it may fulfill the conditions.
+8-5-3-5. If the specified target is a card in a secret area, and if the choice requires information of the card, players cannot guarantee that the target is a card that meets the required conditions. Thus, a player can decide not to choose a card from a secret area, even if it may fulfill the conditions.
 8-5-3-6. If the text does not specify a target, the following rules apply: if the effect concerns a card, it is targeting the source of the effect, or if the effect concerns a player it is targeting the master of the effect.
 8-5-3-7. When choosing a card from a deck, search while viewing the front face of the deck, then select the specified card from within.
 8-5-4. Unless specified otherwise, if the text refers to a “Battle Card,” it’s referring to a Battle Card in the Battle Area.
@@ -463,7 +479,7 @@ General Rules
 8-6-4. When a checkpoint occurs, a player being requested to activate an [Auto] skill chooses 1 pending [Auto] which they are the master of and activates it. After resolving the activated skill, decrease the number of those pending [Auto] skills (of that skill) by 1.
 8-6-4-1. If for some reason the chosen pending [Auto] skill cannot be chosen, cancel 1 of those pending [Auto] skills (of that skill).
 8-6-5. There are [Auto] skills for which the trigger condition is a card moving areas. This is called an area movement trigger.
-8-6-5-1. An [Auto] skill activated by an area movement trigger may request information of the card that triggered the skill. Is such an occasion, track the information following the procedure below.
+8-6-5-1. An [Auto] skill activated by an area movement trigger may request information of the card that triggered the skill. In cases like these, track the information following the procedure below.
 8-6-5-1-1. If an [Auto] skill triggered by the movement of a card/cards from an open area to a secret area (or vice versa) requests information of the card, use the information of the card as it was/is in the open area.
 8-6-5-1-2. If an [Auto] skill triggered by the movement of a card/cards in the Battle Area to any other area or an [Auto] skill concerning the inter-player area movement requests information of the card, use the information of the card as it was/is in the Battle Area.
 8-6-5-1-3. If an [Auto] skill (other than those described in 8-6-5-1-2) triggered by the movement of a card/cards from an open area to an open area requests information of the card, use the information of the card as it is in the new area.
@@ -518,10 +534,11 @@ General Rules
 9-4. Processes for when placed on top of specific cards.
 9-4-1. Placing card(s) on top of specific card(s) is interruptive rule processing.
 9-4-2. When a new card is placed on an existing card either in the Battle Area or Leader Area, continuous effects regarding additions/subtractions to the card’s power and position of the existing card are carried over to the card placed on top of it.
+
 9-5. Processing when a Battle Card’s power drops to 0 or below.
 9-5-1. Confirmative rules processing is used when a Battle Card’s power drops to 0 or below.
-9-5-2. If a Battle Card’s power drops to 0 or below, that card is KO-ed.
-9-5-2-1. After an effect causes a card’s power to change, if that Battle Card’s power drops to 0 or below and is KO-ed as a result of rules processing dictating Battle Cards be KO-ed when their power drops to 0 or below, that Battle Card is considered to have been KO-ed by that effect.
+9-5-2. If a Battle Card’s power drops to 0 or below, that card is placed in its owner’s Drop Area
+9-5-2-1. After an effect causes a card’s power to change, if that Battle Card’s power drops to 0 or below and is placed in its owner’s Drop Area as a result of rules processing dictating Battle Cards be placed in Drop Areas when their power drops to 0 or below, that Battle Card is considered to have been placed in its owner’s Drop Area by that effect.
 
 
 10. Keywords and Keyword Skills
@@ -531,8 +548,8 @@ General Rules
 10-1-2. A card is only KO-ed when an effect says to “KO” a card, or because of a rule that specifies to KO a card. Battle Cards in an owner’s Drop Area that were placed there for other reasons weren’t necessarily “KO”-ed.
 
 10-2. [Awaken]
-10-2-1. [Awaken] is an [Activate] skill that players can activate by fulfilling the conditions and paying the cost.
-10-2-2. [Awaken] is described as the following: [Awaken] (condition) (effect).
+10-2-1. [Awaken] is an [Activate] skill that players can activate by fulfilling conditions and paying associated costs.
+10-2-2. [Awaken] is described as follows: “[Awaken] (condition) (effect).”
 10-2-3. A card for which [Awaken] is activated is turned over, but is treated as the same card.
 10-2-3-1. “The same card” means that the card is 1 card with different information on the front and back.
 10-2-4. If a card is turned over due to [Awaken], it is still treated as the same card.
@@ -548,14 +565,15 @@ General Rules
 10-4-1. [Blocker] is an [Auto] keyword skill which is activated by switching the card to Rest Mode when any other of a player’s cards is attacked. When activated, switch the guard card of the attack to the card which activated [Blocker].
 10-4-2. “Negate [Blocker]” is a special procedure in which the target of the attack is switched back to the original target.
 
-10-5. [Evolve] (EX-Evolve)
-10-5-1. [Evolve] ([EX-Evolve]) is an [Activate: Main] keyword skill that can be activated by paying the skill cost and choosing a Battle Card(s) of the specified name fulfilling the specified conditions is in play in your Battle Area. If a player cannot choose the specified Battle Card, they cannot activate [Evolve] ([EX-Evolve]).
-10-5-2. [Evolve] ([EX-Evolve]) can only be activated from a player’s hand.
-10-5-3. [Evolve] ([EX-Evolve]) is described as the following: [Evolve] ([EX-Evolve]): skill cost condition <character name> .
+10-5. [Evolve] ([EX-Evolve] [Xeno-Evolve])
+10-5-1. [Evolve] ([EX-Evolve] [Xeno-Evolve]) is an [Activate: Main] keyword skill that can be activated by paying the skill cost and choosing a Battle Card(s) of the specified name fulfilling the specified conditions in play in your Battle Area. If a player cannot choose the specified Battle Card, they cannot activate [Evolve] ([EX-Evolve] [Xeno-Evolve]).
+10-5-2. [Evolve] ([EX-Evolve] [Xeno-Evolve]) can only be activated from a player’s hand.
+10-5-3. [Evolve] ([EX-Evolve] [Xeno-Evolve]) is described as the following: [Evolve] ([EX-Evolve] [Xeno-Evolve]): skill cost condition <character name>
 10-5-3-1. Sometimes conditions are not specified. In these cases, no condition is required.
-10-5-4. A card which activated [Evolve] ([EX-Evolve]) is played on top of the Battle Card chosen in 10-5-1. Henceforth, the whole stack of cards is treated as 1 card, but the position and any effects affecting the prior card’s power are carried on.
-10-5-5. When a card says to “evolve” it means to play the card as if you were to play it with [Evolve] ([EX-Evolve]).
-10-5-6. When a card says “evolved” it means a card that was played with [Evolve] ([EX-Evolve]).
+10-5-4. A card which activated [Evolve] ([EX-Evolve] ) is played on top of the Battle Card chosen in 10-5-1. Henceforth, the whole stack of cards is treated as 1 card, but the position and any effects affecting the prior card’s power are carried on.
+10-5-5. A card which activated [Xeno-Evolve] is played in Active Mode after sending the Battle Card chosen in 10-5-1. to its owner’s Warp.
+10-5-6. When a card says to “evolve” it means to play the card as if you were to play it with [Evolve] ([EX-Evolve] [Xeno-Evolve]).
+10-5-7. When a card says “evolved” it means a card that was played with [Evolve] ([EX-Evolve] [Xeno-Evolve]).
 
 10-6. [Critical]
 10-6-1. [Critical] is a [Permanent] effect which is described, “When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.”
@@ -586,124 +604,143 @@ General Rules
 10-10-5. “Negate [Counter]” refers to preventing the effect from an already active [Counter] skill from resolving.
 
 10-11. [Once per Turn]
-10-11-1. [Once per turn] is a keyword that specifies that an [Auto] or [Activate] skill can only be activated once during a turn.
+10-11-1. [Once per turn] is a keyword that specifies an [Auto] or [Activate] skill can only be activated once during a turn.
 10-11-2. The “once per turn” limitation is set individually for each skill. If there are multiple cards with the same “once per turn” skill, they can each be activated once during a turn.
 10-11-3. Skills without “once per turn” limitations can be activated as many times as a player wishes, as long as they can pay the skill cost and the conditions are fulfilled.
+10-11-4. When an [Auto] skill with [Once per turn] enters pending simultaneously multiple times, only one of the skills is resolved, and the rest are nullified.
+10-11-5. After a skill with [Once per turn] is resolved once, it won’t be triggered for the rest of the turn even if its cost and conditions are fulfilled, and can’t be activated.
 
 10-12. [Indestructible]
-10-12-1. [Indestructible] is a [Permanent] keyword skill. Cards with [Indestructible] cannot be KO-ed nor can be removed from the Battle Area by card's skills of the owner’s opponent or battle results.
+10-12-1. [Indestructible] is a [Permanent] keyword skill. Cards with [Indestructible] cannot be KO-ed nor can be removed from the Battle Area by card Skills of the owner's opponent or battle results.
 
-10-13. [Union-Fusion]
-10-13-1. [Union-Fusion] is an [Activate: Main] keyword skill that can be activated when a player has one of each specified character’s Battle Cards in their hand, and each Battle Card’s power is equal.
-10-13-2. [Union-Fusion] can only be activated from a player’s hand.
-10-13-3. [Union-Fusion] is described in [Union-Fusion] skill cost: <Character Name A> and <Character Name B>.
-10-13-4. When activating [Union-Fusion], players place 1 each of the specified Battle Cards with the same power from their hand in the Drop Area and play the Battle Card in Active Mode.
+10-13. [Union]
+10-13-1. [Union] is a shorthand for a subset of skills that play Battle Cards from specific areas when certain costs and conditions are met.
+10-13-2. [Union] skills are generally formatted [Union-X].
+10-13-3. [Union-Fusion]
+10-13-3-1. [Union-Fusion] is an [Activate: Main] keyword skill that can be activated when a player has one of each specified character’s Battle Cards in their hand, and each Battle Card’s power is equal.
+10-13-3-2. [Union-Fusion] can only be activated from a player’s hand.
+10-13-3-3. [Union-Fusion] is described in [Union-Fusion] skill cost: <Character Name A> and <Character Name B>.
+10-13-3-4. When activating [Union-Fusion], players place 1 each of the specified Battle Cards with the same power from their hand in the Drop Area and play the Battle Card in Active Mode.
+10-13-4. [Union-Potara]
+10-13-4-1. [Union-Potara] is an [Activate: Main] keyword skill that can be activated by paying a skill cost and choosing each specified character’s Battle Card is in the Battle Area. If the player cannot choose all of the specified Battle Cards, they cannot activate [Union-Potara].
+10-13-4-2. [Union-Potara] can only be activated from a player’s hand.
+10-13-4-3. [Union-Potara] is described as “[Union-Potara] Skill Cost] <Character Name A> and <Character Name B>.”
+10-13-4-4. Cards that activate [Union-Potara] are placed on top of the two Battle Cards chosen in 10-14-1, and appear in Activate Mode.
+10-13-4-4-1. All permanent effects affecting power on each of the below Battle Cards carries over.
+10-13-5. [Union-Absorb]
+10-13-5-1. [Union-Absorb] is an [Activate: Main] keyword skill that can be activated by placing specified cards from specified areas onto cards that have activated [Union-Absorb].
+10-13-5-2. [Union-Absorb] can be activated from the Battle Area.
+10-13-5-3. [Union-Absorb] is described as “[Union-Absorb] Skill Cost: Effect.”
+10-13-5-4. Place the card chosen in 10-15-1. on top of the Battle Card which activated [Union-Absorb].
+10-13-5-4-1. All permanent effects affecting power on each of the below Battle Cards carries over, along with their position (Active or Rest Mode).
 
-10-14. [Union-Potara]
-10-14-1. [Union-Potara] is an [Activate: Main] keyword skill that can be activated by paying a skill cost and choosing each specified character’s Battle Card is in the Battle Area. If the player cannot choose all of the specified Battle Cards, they cannot activate [Union-Potara].
-10-14-2. [Union-Potara] can only be activated from a player’s hand.
-10-14-3. [Union-Potara] is described as “[Union-Potara] Skill Cost] <Character Name A> and <Character Name B>.”
-10-14-4. Cards that activate [Union-Potara] are placed on top of the 2 Battle Cards chosen in 10-14-1, and appear in Activate Mode.
-10-14-4-1. Any effects modifying the power of cards that were in play are carried on to the card played with [Union-Potara].
+10-14. [Ultimate]
+10-14-1. [Ultimate] is a [Permanent] keyword skill related to deck construction. A player may only have one card with [Ultimate] in their deck.
 
-10-15. [Union-Absorb]
-10-15-1. [Union-Absorb] is an [Activate: Main] keyword skill that can be activated by placing specified cards from specified areas onto cards that have activated [Union-Absorb].
-10-15-2. [Union-Absorb] can be activated when it is in the Battle Area.
-10-15-3. [Union-Absorb] is described as “[Union-Absorb] Skill Cost: Effect.”
-10-15-4. Place the card chosen in 10-15-1. on the very top of the Battle Card which activated [Union-Absorb].
+10-15. [Over Realm] ([Over Realm X])
+10-15-1. [Over Realm] is an [Activate: Main] keyword skill that can be activated when a player has X or more cards in thieir Drop Area.
+10-15-2. [Over Realm] is described as follows: “[Over Realm X] skill cost.”
+10-15-3. When a player activates [Over Realm] when it’s in their hand, they can play the card with [Over Realm] by sending all cards in their Drop Area to their Warp.
+10-15-4. If the card played with [Over Realm] is still in the Battle Area at the end of the turn it was played with [Over Realm], it is sent to the Warp.
+10-15-5. [Over Realm] and [Dark Over Realm] can only be activated a combined total of once per turn.
 
-10-16. Any effects modifying the power of card that was in play and the position of the card are carried on to the card played with [Union-Potara].
+10-16. [Barrier]
+10-16-1. [Barrier] is a permanent keyword skill that reads “This card can't be chosen by the skills of your opponent's cards.”
 
-10-17. [Ultimate]
-10-17-1. [Ultimate] is a [Permanent] keyword skill related to deck construction. A player may only have one card with [Ultimate] in their deck.
+10-17. [Super Combo] is a permanent keyword skill affecting deck construction that states “When including cards with [Super Combo] in a deck, you can only include four cards total with [Super Combo].”
 
-10-18. [Over Realm] ([Over Realm X])
-10-18-1. [Over Realm] is an [Activate: Main] keyword skill that can be activated when a player has X or more cards in thieir Drop Area.
-10-18-2. [Over Realm] is described as follows: “[Over Realm X] skill cost.”
-10-18-3. When a player activates [Over Realm] when it’s in their hand, they can play the card with [Over Realm] by sending all cards in their Drop Area to their Warp.
-10-18-4. If the card played with [Over Realm] is still in the Battle Area at the end of the turn it was played with [Over Realm], it is sent to the Warp.
-10-18-5. [Over Realm] and [Dark Over Realm] can only be activated a combined total of once per turn.
+10-18. Token
+10-18-1. A token is a Battle Card created by the ability processing of cards.
+10-18-2. Tokens have the same information as cards. When referencing the token’s information for skills, etc., refer to the specified information of the effect when creating the token.
+10-18-3. If nothing is particularly specified, the token appears in the Battle Area of the Owner of the effect that created the Token.
+10-18-4. When creating a ‘(Name) Token,’ the token will have the same name as the (Name).
+10-18-5. Unless particularly regulated by rules, tokens will be dealt with similarly as cards.
+10-18-6. When selecting a card from a specific area, a player may also select a token. Similarly, when effects are applied to cards in a specific area, the effect will also be applied to tokens.
+10-18-7. When tokens are moved from the Battle Area or Combo Area to different areas, remove the token from its current area. The token will no longer exist in any areas of the game.
 
-10-19. [Xeno-Evolve]
-10-19-1. [Xeno-Evolve] is an [Activate: Main] keyword skill that can be activated by paying the skill’s cost and choosing the Battle Card(s) with the specified character name is in play in the player’s Battle Area. If the player cannot choose the specified Battle Card, they cannot activate [Xeno-Evolve].
-10-19-2. [Xeno-Evolve] can only be activated from a player’s hand.
-10-19-3. [Xeno-Evolve] is described as “[Xeno-Evolve] Skill Cost: <Character Name>.”
-10-19-4. By activating [Xeno-Evolve], a player sends the Battle Card chosen in 10-18-1 to their Warp and puts the card with [Xeno-Evolve] into play in Active Mode.
-10-19-5. This is treated the same as if the player played the card via [Evolve].
+10-19. Remove from the game
+10-19-1. Remove from the game means to remove specified cards outside of the game.
+10-19-2. Cards removed from the game do not exist in any areas.
+10-19-3. Cards removed from the game must be faced up, and open to all players to see.
 
-10-20. [Barrier]
-10-20-1. [Barrier] is a permanent keyword skill that reads “This card can't be chosen by the skills of your opponent's cards.”
+10-20. [Victory Strike]
+10-20-1. [Victory Strike] is a [Permanent] keyword skill that reads, “When you deal life damage by attacking with this card, you win the game.”
 
-10-21. [Super Combo] is a permanent keyword skill affecting deck construction that states “When including cards with [Super Combo] in a deck, you can only include four cards total with [Super Combo].”
+10-21. [Warrior of Universe 7]
+10-21-1. [Warrior of Universe 7] is a [Permanent] keyword skill that reads, “Treat 《Universe 7》 in all areas as if they had no specified cost.”
 
-10-22. Token
-10-22-1. A token is a Battle Card created by the ability processing of cards.
-10-22-2. Tokens have the same information as cards. When referencing the token’s information for skills, etc., refer to the specified information of the effect when creating the token.
-10-22-3. If nothing is particularly specified, the token appears in the Battle Area of the Owner of the effect that created the Token.
-10-22-4. When creating a ‘(Name) Token,’ the token will have the same name as the (Name).
-10-22-5. Unless particularly regulated by rules, tokens will be dealt with similarly as cards.
-10-22-6. When selecting a card from a specific area, a player may also select a token. Similarly, when effects are applied to cards in a specific area, the effect will also be applied to tokens.
-10-22-7. When tokens are moved from the Battle Area or Combo Area to different areas, remove the token from its current area. The token will no longer exist in any areas of the game.
+10-22. [Deflect]
+10-22-1. [Deflect] is a [Permanent] keyword skill that reads, “This card isn't affected by [Counter : Play] skills.”
+10-22-2. [Deflect] remains in effect in the time between when a player announces they’re going to play a Battle Card with [Deflect] to the Battle Card actually coming into play.
+10-22-3. [Deflect] remains in effect when a Battle Card with [Deflect] is played with a skill.
 
-10-23. Remove from the game
-10-23-1. Remove from the game means to remove specified cards outside of the game.
-10-23-2. Cards removed from the game do not exist in any areas.
-10-23-3. Cards removed from the game must be faced up, and open to all players to see.
+10-23. [Bond] ([Bond X])
+10-23-1. [Bond] is a keyword skill that only allows skills with [Bond] to take effect when you have X or more Battle Cards in your Battle Area.
+10-23-2. [Bond] skills are written as either “[Bond X]” or “[Bond X] Specified Battle Card”.
+10-23-2-1. If a specified Battle Card is mentioned, the skill with [Bond] only takes effect when you have X or more of the specified Battle Cards in your Battle Area.
 
-10-24. [Victory Strike]
-10-24-1. [Victory Strike] is a [Permanent] keyword skill that reads, “When you deal life damage by attacking with this card, you win the game.”
+10-24. [Swap] ([Swap X])
+10-24-1. [Swap] is an [Activate : Main] keyword skill.
+10-24-2. [Swap] is described as follows: “[Swap X] skill cost: specified Battle Card with energy cost X.”
+10-24-3. When activating [Swap], choose up to 1 specified Battle Card from your hand with an energy cost of X and play it, then return the Battle Card that activated [Swap] to its owner’s hand.
 
-10-25. [Warrior of Universe 7]
-10-25-1. [Warrior of Universe 7] is a [Permanent] keyword skill that reads, “Treat 《Universe 7》 in all areas as if they had no specified cost.”
+10-25. [Dark Over Realm] ([Dark Over Realm X])
+10-25-1. [Dark Over Realm] is an [Activate : Main] keyword skill that can be activated when you have X or more black cards in your Drop Area.
+10-25-2. [Dark Over Realm] is described as follows: “[Dark Over Realm X] skill cost.”
+10-25-3. [Dark Over Realm] can be activated from your hand, sending all of the cards in your Drop Area to your Warp and putting the card with [Dark Over Realm] into play.
+10-25-4. [Over Realm] and [Dark Over Realm] can only be activated a combined total of once per turn.
 
-10-26. [Deflect]
-10-26-1. [Deflect] is a [Permanent] keyword skill that reads, “This card isn't affected by [Counter : Play] skills.”
-10-26-2. [Deflect] remains in effect in the time between when a player announces they’re going to play a Battle Card with [Deflect] to the Battle Card actually coming into play.
-10-26-3. [Deflect] remains in effect when a Battle Card with [Deflect] is played with a skill.
+10-26. [Wormhole]
+10-26-1. [Wormhole] is a [Permanent] keyword skill that reads “(You can activate [Over Realm] and [Dark Over Realm] up to a total of 2 times a turn.)”
 
-10-27. [Bond] ([Bond X])
-10-27-1. [Bond] is a keyword skill that only allows skills with [Bond] to take effect when you have X or more Battle Cards in your Battle Area.
-10-27-2. [Bond] skills are written as either “[Bond X]” or “[Bond X] Specified Battle Card”.
-10-27-2-1. If a specified Battle Card is mentioned, the skill with [Bond] only takes effect when you have X or more of the specified Battle Cards in your Battle Area.
+10-27. “Choose X”
+10-27-1. Some [Activate] and [Auto] skills allow you to choose one or more options from a list of effects to activate.
+10-27-2. Choose X skills break up each of the selectable options with bullet points ( ・)
+10-27-3. When choosing multiple effects, the player activating the skill chooses which effects they want to activate and in what order.
 
-10-28. [Swap] ([Swap X])
-10-28-1. [Swap] is an [Activate : Main] keyword skill.
-10-28-2. [Swap] is described as follows: “[Swap X] skill cost: specified Battle Card with energy cost X.”
-10-28-3. When activating [Swap], choose up to 1 specified Battle Card from your hand with an energy cost of X and play it, then return the Battle Card that activated [Swap] to its owner’s hand.
+10-28. [Wish]
+10-28-1. [Wish] is a keyword skill that can be activated by meeting conditions and paying costs.
+10-28-2. [Wish] is described as follows: “[Wish] condition: (effect)”
+10-28-3. A card for which [Wish] is activated is flipped over to its back side, but is treated as the same card.
+10-28-3-1. “The same card” means that the card is 1 card with different information on the front and back.
+10-28-4. If a card is flipped to it’s front side due to [Wish], it is still treated as the same card..
+10-28-5. When a card’s facing is flipped due to [Wish], the card’s pre-flipped position and any continuous effects affecting the card’s power are carried over.
 
-10-29. [Dark Over Realm] ([Dark Over Realm X])
-10-29-1. [Dark Over Realm] is an [Activate : Main] keyword skill that can be activated when you have X or more black cards in your Drop Area.
-10-29-2. [Dark Over Realm] is described as follows: “[Dark Over Realm X] skill cost.”
-10-29-3. [Dark Over Realm] can be activated from your hand, sending all of the cards in your Drop Area to your Warp and putting the card with [Dark Over Realm] into play.
-10-29-4. [Over Realm] and [Dark Over Realm] can only be activated a combined total of once per turn.
+10-29. [Sparking]
+10-29-1. [Sparking] is a keyword skill that modifies other skills, preventing them from activating unless the number of cards in their owner’s Drop Area is greater than or equal to a specified number.
+10-29-2. [Sparking] is described as follows: “[Sparking X].”
 
-10-30. [Wormhole]
-10-30-1. [Wormhole] is a [Permanent] keyword skill that reads “(You can activate [Over Realm] and [Dark Over Realm] up to a total of 2 times a turn.)”
+10-30. [Burst]
+10-30-1. A skill with [Burst] can only be activated if its owner chooses to place the specified number of cards from the top of their deck into their Drop Area.
+10-30-2. [Burst] is described as follows: “[Burst X].”
+
+10-31. [Dragon Ball]
+10-31-1. [Dragon Ball] is a keyword skill that has a permanent effect on deckbuilding, which reads as follows: “You can include as many copies of cards with [Dragon Ball] in your deck as you like, as long as the total number doesn't exceed 7.”
+
+10-32. Infinite Loop
+10-32-1. When carrying out some processes, there may be some occasions where an action can be or must be carried out infinitely. This is called an infinite loop, and 1 cycle of action from the start to the end of loop is called a loop action. If such an event occurs, follow the procedure below.
+10-32-1-1. If neither player can stop that infinite loop, the game ends as draw.
+10-32-1-2. If only one player has the choice to stop the infinite loop within the loop action, that player declares how many times they wish to carry out the loop action. Carry out the loop action that many times and finish it at the timing with which that player can make a choice to stop the infinite loop. The player cannot choose to restart the loop even if in the exactly same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
+10-32-1-3. If both players have the choice to stop the infinite loop within the loop action, the turn player first decides how many times they wish to carry out the loop action. Then the non-turn player decides how many times they wish to carry out the loop action. Carry out the loop action the fewer amount of times declared by the players and finish it at the timing which that player can make a choice to stop the infinite loop. The player that decided on a larger number cannot choose to restart the loop even if in the exact same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
+
+10-33. Revealing Cards
+10-33-1. When moving cards from a Secret Area to another Secret Area in certain conditions, such as “Add <Son Goku> from the deck to your hand,” moved cards must be revealed, even when there is no direction that specifically states so.
 
 
 11. Other
-
-11-1. Infinite Loop
-11-1-1. When carrying out some processes, there may be some occasions where an action can be or must be carried out infinitely. This is called an infinite loop, and 1 cycle of action from the start to the end of loop is called a loop action. If such an event occurs, follow the procedure below.
-11-1-1-1. If neither player can stop that infinite loop, the game ends as draw.
-11-1-1-2. If only one player has the choice to stop the infinite loop within the loop action, that player declares how many times they wish to carry out the loop action. Carry out the loop action that many times and finish it at the timing with which that player can make a choice to stop the infinite loop. The player cannot choose to restart the loop even if in the exactly same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
-11-1-1-3. If both players have the choice to stop the infinite loop within the loop action, the turn player first decides how many times they wish to carry out the loop action. Then the non-turn player decides how many times they wish to carry out the loop action. Carry out the loop action the fewer amount of times declared by the players and finish it at the timing which that player can make a choice to stop the infinite loop. The player that decided on a larger number cannot choose to restart the loop even if in the exact same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
-
-11-2. Revealing Cards
-11-2-1. When moving cards from a Secret Area to another Secret Area in certain conditions, such as “Add <Son Goku> from the deck to your hand,” moved cards must be revealed, even when there is no direction that specifically states so.
 
 11-3. Cards on the Bottom
 11-3-1. Depending on Skills, etc., cards in the Battle Area, Combo Area, and Leader Area, may have cards placed on top or below them.
 11-3-2. The Skills of cards placed beneath specific cards will be nullified, and will be treated as the same card as the card placed on top of it as a single card.
 11-3-2-1. When referring to cards placed under other cards, those cards are treated as different cards from the card placed on top of them.
-11-3-3.When new cards are placed underneath cards with a card already underneath it, the new card will be placed on the very bottom.
+11-3-3. When new cards are placed underneath cards with a card already underneath it, the new card will be placed on the very bottom.
 11-3-4. When cards are moved from the Battle Area to anywhere else than the Combo Area, or if cards are moved from the Combo Area to anywhere else than the Battle Area, cards underneath that card will be moved from its original area to the Drop Area. During this time, the bottom card’s [Auto] abilities, triggered by Area Movement, do not activate.
 11-3-5. When a specific card is moved from one player’s area to another player’s area, all of the cards placed beneath the card move with it.
 11-3-6. When only the card on top is to be moved, the bottom card will not move from the area where the card on top was in, and will gain any effects concerning additions/subtractions to the top card’s power and its position.
 
-11-4. Send to the Warp
-11-4-1. Sending a card to the Warp means to place the specified card face up in its Owner’s Warp.
+10-4. Send to the Warp
+10-4-1. Sending a card to the Warp means to place the specified card face up in its Owner’s Warp.
 
-11-5. Gain Control
-11-5-1. To gain control of a card means to move a player’s card to the area of the skill’s owner and become its master.
-11-5-1-1. A card retains its original positioning after you gain control of it. Any effects in place on the card remain as well.
+10-5. Gain Control
+10-5-1. To gain control of a card means to move a player’s card to the area of the skill’s owner and become its master.
+10-5-1-1. A card retains its original positioning after you gain control of it. Any effects in place on the card remain as well.
