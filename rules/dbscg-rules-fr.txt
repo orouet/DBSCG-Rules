@@ -1,9 +1,20 @@
 DRAGON BALL SUPER Jeu de cartes à collectionner / Règles officielles
-Version 1.070
-Dernière mise à jour : 02/11/2018
+Version 1.071
+Dernière mise à jour : 12/12/2018
 
 
 Sommaire
+1. Généralités
+2. Informations des cartes
+3. Zones de jeu
+4. Vocabulaire de base
+5. Préparations de jeu
+6. Progression du jeu
+7. Combat et attaque des cartes
+8. Activation et résolution des Capacités
+9. Application de règle
+10. Mots-clefs et Capacités-clefs
+11. Autres
 
 
 1. Généralités
@@ -321,7 +332,7 @@ Sommaire
 6-3-1-2-1-4. Les conditions de déclenchement « Quand vous jouez cette carte » se lancent, et un point de contrôle se présente.
 6-3-1-2-2. Le joueur actif peut activer les Capacités [Activation : Principale] de sa carte Leader, de ses cartes de Combat et Extra.
 6-3-1-2-2-1. Une fenêtre de contre se présente avant et après l’activation de la Capacité. (Le joueur non-actif peut activer une Capacité [Contre] aux conditions de jeu remplies.)
-6-3-1-2-2-2. [Éveil] est un type de Capacité [Activation]. Elle peut être activée à cet instant.
+6-3-1-2-2-2. [Éveil] et [Voeu] sont des types de Capacité [Activation]. Ils peuvent être activés à cet instant.
 6-3-1-2-3. Le joueur actif peut attaquer les cartes de son adversaire avec les cartes dont il est le maître. Pour les détails concernant les combats, consultez le paragraphe 7 « Combat et attaque des cartes ».
 6-3-1-2-4. Le joueur actif peut choisir de mettre fin à sa phase principale. S’il le fait, il passe à l’étape de Fin de la phase principale.
 6-3-1-3. Étape de Fin de la phase principale
@@ -360,7 +371,7 @@ Sommaire
 7-2-1-2-2-1. Le joueur passe en mode Inertie le nombre de sources d’énergie correspondant au coût de Combo nécessaire, déclare une Combo et l’effectue. S’il ne peut pas passer le nombre de sources d’énergie nécessaire en mode Inertie, il ne peut pas déclarer de Combo.
 7-2-1-2-3. Le joueur actif peut activer les Capacités [Activation : Combat] de son Leader, de ses cartes de Combat ou de ses cartes Extra.
 7-2-1-2-3-1. Une fenêtre de contre se présente avant et après la résolution de la Capacité (Le joueur non-actif peut activer les Capacités [Contre] aux conditions de jeu remplies.).
-7-2-1-2-3-2. [Éveil] est une Capacité [Activation]. Elle peut s’activer à cet instant.
+7-2-1-2-3-2. [Éveil] et [Voeu] sont des types de Capacité [Activation]. Ils peuvent être activés à cet instant.
 7-2-1-3. Si le joueur actif choisit de ne rien faire, passez à l’étape de Défense.
 
 7-3. Étape de Défense
@@ -373,7 +384,7 @@ Sommaire
 7-3-1-2-2-1. Le joueur passe en mode Inertie le nombre de sources d’énergie correspondant au coût de Combo nécessaire, déclare une Combo et l’effectue. S’il ne peut pas passer le nombre de sources d’énergie correspondant en mode Inertie, il ne peut pas déclarer de Combo.
 7-3-1-2-3. Le joueur non-actif peut activer la Capacité [Activation : Combat] de son Leader, de ses cartes de Combat ou de ses cartes Extra.
 7-3-1-2-3-1. Une fenêtre de contre se présente. (Le joueur actif peut activer les Capacités [Contre] aux conditions de jeu remplies.)
-7-3-1-2-3-2. [Éveil] est une Capacité [Activation]. Elle peut s’activer à cet instant.
+7-3-1-2-3-2. [Éveil] et [Voeu] sont des types de Capacité [Activation]. Ils peuvent être activés à cet instant.
 7-3-1-2-3-1. Une fenêtre de contre se présente avant et après la résolution de la Capacité (Le joueur actif peut activer les Capacités [Contre] aux conditions de jeu remplies.).
 7-3-1-3. Si le joueur non-actif choisit de ne rien faire, passez à l’étape des Dégâts.
 
@@ -434,7 +445,7 @@ Sommaire
 8-4-2-4. Certains coûts de Capacité possèdent un ou plusieurs cercles de couleur. Ce symbole indique la couleur des sources d’énergie à choisir et à passer en mode Inertie.
 
 8-5. Activation et résolution
-8-5-1. En activant les Capacités [Activation], [Auto.], [Éveil], ainsi que les cartes de votre main, elles se résolvent et produisent un effet. Les Capacités [Permanent] ne s’activent pas, elles produisent leur effet de façon continue.
+8-5-1. En activant les Capacités [Activation], [Auto.], [Éveil], [Voeu], ainsi que les cartes de votre main, elles se résolvent et produisent un effet. Les Capacités [Permanent] quant à elles ne s’activent pas, elles produisent leur effet de façon continue.
 8-5-2. Conformez-vous à la procédure suivante quand vous activez une Capacité.
 8-5-2-1. Indiquez la Capacité que vous voulez activer. Si la Capacité que vous voulez activer se trouve sur une carte dans votre main, révélez cette carte.
 8-5-2-2. Si l’activation requiert un coût de Capacité, déterminez ce coût et payez-le entièrement.
@@ -563,7 +574,7 @@ Sommaire
 10-5-7. Lorsque le terme « évolué » est utilisé, il indique que la carte jouée est considérée comme avoir été mise en jeu via la Capacité [Évolution] ([Évolution-EX], [Évolution-Xeno]).
 
 10-6. [Coup critique]
-10-6-1. [Coup critique] est une Capacité-clef [Permanent] avec : « Quand cette carte inflige des dégâts à votre adversaire, ce dernier place autant de cartes de points de vie dans sa Zone de Dispersion à la place de sa main. ».
+10-6-1. [Coup critique] est une Capacité-clef [Permanent] avec : « Quand cette carte inflige des dégâts à votre adversaire en attaquant, ce dernier place autant de cartes de points de vie dans sa Zone de Dispersion à la place de sa main. ».
 
 10-7. [Frappe]
 10-7-1. [Frappe] est une Capacité-clef [Permanent] avec : « Quand cette carte inflige des dégâts en attaquant, si ces dégâts sont égaux à X-1, elle inflige X dégât(s). ».
