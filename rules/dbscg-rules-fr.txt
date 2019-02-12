@@ -1,6 +1,6 @@
 DRAGON BALL SUPER Jeu de cartes à collectionner / Règles officielles
-Version 1.062
-Dernière mise à jour : 13/04/2018
+Version 1.064
+Dernière mise à jour : 27/07/2018
 
 
 Sommaire
@@ -68,6 +68,7 @@ Sommaire
 2-5-2. Cette information n’a aucune influence sur le jeu, mais peut être mentionnée dans le texte d’une carte.
 2-5-3. Certains textes indiquent un nom à l’intérieur des signes < > sans indication sur la nature de l’information. Ces textes indiquent le nom des personnages.
 2-5-4. Seules les cartes Leaders et les cartes de Combat possèdent des noms de personnages.
+
 2-6. Origine
 2-6-1. Information indiquant l’origine de la carte.
 2-6-2. Cette information n’a aucune influence sur le jeu, mais peut être mentionnée dans le texte d’une carte.
@@ -604,12 +605,15 @@ Sommaire
 10-14-2. La Capacité [Union-Potara] ne peut être activée que depuis votre main.
 10-14-3. [Union-Potara] est rédigée comme suit : « [Union-Potara] Coût de Capacité <Nom du personnage A> et <Nom du personnage B> ».
 10-14-4. Les cartes activant la Capacité [Union-Potara] sont placées par-dessus les deux cartes de Combat déjà en jeu et sont jouées en mode Action.
-10-14-4. Les cartes activant la Capacité [Union-Potara] sont placées par-dessus les deux cartes de Combat choisies lors de la règle 10-14-1 et sont jouées en mode Action.
+10-14-4. La carte ayant activé [Union-Potara] est mise en jeu en mode Action par-dessus les deux cartes de Combat choisies lors de la règle 10-14-1.
+10-14-4-1. Dans ce cas, la carte jouée avec [Union-Potara] conserve les effets altérant la puissance des cartes précédemment en jeu.
 
 10-15. [Union-Absorption]
-10-15-1. [Union-Absorption] est une Capacité-clef [Activation : Principale] activable en plaçant les cartes indiquées depuis les zones spécifiées par-dessus les cartes ayant activé [Union-Absorption] pour les mettre en jeu.
+10-15-1. [Union-Absorption] est une Capacité-clef [Activation : Principale] activable qui met en jeu une carte indiquée depuis une zone spécifiée par-dessus la carte ayant activé [Union-Absorption].
 10-15-2. La Capacité-clef [Union-Absorption] peut être activée lorsqu’elle se trouve dans la Zone de Combat.
 10-15-3. [Union-Absorption] est rédigée comme suit : « [Union-Absorption] Coût de Capacité : Effet ».
+10-15-4. Placez la carte choisie lors de la règle 10-15-1 par-dessus la carte de Combat qui a activé [Union-Absorption].
+10-15-4-1. Dans ce cas, la carte mise en jeu via [Union-Absorption] conserve l’orientement et les effets altérant la puissance de la carte précédemment en jeu.
 
 10-16. [Ultimate]
 10-16-1. [Ultimate] est une Capacité-clef [Permanent] concernant la construction du deck. Vous ne pouvez inclure dans votre deck qu’une seule carte possédant la Capacité [Ultimate].
@@ -619,7 +623,7 @@ Sommaire
 10-17-2. [Espace-temps] est rédigé comme suit : « [Espace-temps X] Coût de Capacité ».
 10-17-3. En activant [Espace-temps] quand il se trouve dans votre main, vous pouvez jouer la carte avec [Espace-temps] en transférant toutes les cartes de votre Zone de Dispersion dans votre Dimension parallèle.
 10-17-4. Si la carte que vous avez jouée avec [Espace-temps] se trouve en jeu dans votre Zone de Combat à la fin du tour où elle a été jouée, transférez-la dans votre Dimension parallèle.
-10-17-5. [Espace-temps] ne peut être activé qu’une fois par tour.
+10-17-5. [Espace-temps] et [Espace-temps obscur] ne peuvent être activés au total qu’une seule fois par tour.
 
 10-18. [Évolution-Xeno]
 10-18-1. [Évolution-Xeno] est une Capacité-clef [Activation : Principale] demandant de choisir une carte de Combat présente dans votre Zone de Combat avec le nom de personnage indiqué, activable en payant son coût de Capacité. Vous ne pouvez pas activer [Évolution-Xeno] si vous ne pouvez pas choisir la carte de Combat indiquée.
@@ -647,6 +651,30 @@ Sommaire
 10-22-1. Retirer de la partie signifie déplacer en dehors du jeu les cartes indiquées.
 10-22-2. Les cartes retirées de la partie n’existent plus dans aucune zone du jeu.
 10-22-3. Les cartes retirées de la partie doivent être placées de face et rester visibles à tous les joueurs.
+
+10-25. [Déflexion]
+10-25-1. [Déflexion] est une Capacité-clef [Permanent] avec : « Cette carte n’est pas affectée par les Capacités [Contre : Mise en jeu] ».
+10-25-2. [Déflexion] est valide à partir de la déclaration de la mise en jeu de la carte de Combat avec [Déflexion] jusqu’à sa mise en jeu.
+10-25-3. [Déflexion] est aussi valide pendant la résolution d’une Capacité mettant en jeu une carte de Combat avec [Déflexion].
+
+10-26. [Lien] ([Lien X])
+10-26-1. [Lien] est une Capacité-clef autorisant les Capacités avec [Lien] à prendre effet uniquement quand vous avez X cartes de Combat ou plus dans votre Zone de Combat.
+10-26-2. [Lien] est rédigé comme suit : « [Lien X] » ou « [Lien X] Carte de Combat indiquée ».
+10-26-2-1. Si une carte de Combat est indiquée, la Capacité avec [Lien] ne prendra effet que si vous avez X cartes de Combat ou plus de la carte indiquée dans votre Zone de Combat.
+
+10-27. [Échange] ([Échange X])
+10-27-1. [Échange] est une Capacité-clef [Activation : Principale].
+10-27-2. [Échange] est rédigé comme suit : « [Échange X] Coût de Capacité : Carte de Combat indiquée avec un coût d’énergie de X ».
+10-27-3. Quand vous activez [Échange], choisissez depuis votre main jusqu’à une carte de Combat indiquée avec un coût d’énergie de X, jouez-la, puis retournez la carte de Combat qui a activé [Échange] dans la main de son propriétaire.
+
+10-28. [Espace-temps obscur] ([Espace-temps obscur X])
+10-28-1. [Espace-temps obscur] est une Capacité-clef [Activation : Principale] activable quand vous avez X cartes noires ou plus dans votre Zone de Dispersion.
+10-28-2. [Espace-temps obscur] est rédigé comme suit : « [Espace-Temps obscur X] Coût de Capacité ».
+10-28-3. [Espace-temps obscur] peut être activé depuis votre main en transférant toutes les cartes de votre Zone de Dispersion dans votre Dimension parallèle et en mettant en jeu la carte avec [Espace-temps obscur].
+10-28-4. [Espace-temps] et [Espace-temps obscur] ne peuvent être activés au total qu’une seule fois par tour.
+
+10-30. [Vortex]
+10-30-1. [Vortex] est une Capacité-clef [Permanent] avec : « Vous pouvez activer [Espace-temps] et [Espace-temps obscur] jusqu’à un total de deux fois par tour. »
 
 
 11. Autre
