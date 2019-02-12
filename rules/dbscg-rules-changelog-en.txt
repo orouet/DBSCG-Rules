@@ -63,3 +63,24 @@ Update History
     10-27. Added section on [Swap].
     10-28. Added section on [Dark Over Realm].
     10-29. Add section on [Wormhole].
+
+11/02/2018 - ver. 1.070
+    2-11-3. Clarified energy costs in card text.
+    2-12-4 Added explanation of the term “skill-less.”
+    9-5 Changed how rules processing handles cards reaching zero power to prevent an infinite loop.
+    Merged sections on [Evolve] and [Union]. Section numbering has changed accordingly.
+    Added section on [Wish].
+    Added section on [Sparking].
+    Added section on [Burst].
+    Added section on [Dragon Ball].
+
+11/15/2018 - ver. 1.071
+    Clarified activation timing rules for [Wish].
+    Fixed a missing detail in [Critical]’s rules text.
+    Clarified which skills count as keyword skills.
+
+01/25/2019 - ver. 1.073
+    11-6. Clarified actions taken when looking at cards.
+
+02/08/2019 - ver. 1.074
+    Added 3-5-3.
