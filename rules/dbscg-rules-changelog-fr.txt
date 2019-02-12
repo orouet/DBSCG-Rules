@@ -13,7 +13,7 @@ Historique des mises à jour
     10-28. Section rajoutée : [Espace-Temps obscur].
     10-29. Section rajoutée : [Vortex].
 
-02/11/2018 ver. 1.070
+02/11/2018 - ver. 1.070
     2-11-3. Correction concernant le coût d’énergie indiqué dans le texte des cartes.
     2-14-4. Clarification concernant la notion « sans Capacité ».
     9-5. Modification de l’application de règle concernant la puissance d’une carte de Combat tombée à zéro, afin d’empêcher le déclenchement d’une boucle infinie.
@@ -22,3 +22,8 @@ Historique des mises à jour
     Section rajoutée : [Étincelle].
     Section rajoutée : [Explosion].
     Section rajoutée : [Dragon Ball].
+
+29/11/2018 - ver. 1.071
+    Clarification concernant la règle d'activation de [Voeu].
+    Correction d'un détail manquant dans la règle de [Coup critique].
+
