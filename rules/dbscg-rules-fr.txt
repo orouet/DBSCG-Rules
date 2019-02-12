@@ -1,6 +1,6 @@
 DRAGON BALL SUPER Jeu de cartes à collectionner / Règles officielles
-Version 1.064
-Dernière mise à jour : 27/07/2018
+Version 1.070
+Dernière mise à jour : 02/11/2018
 
 
 Sommaire
@@ -101,11 +101,14 @@ Sommaire
 2-11-1-2. Quand vous jouez une carte Extra depuis votre main, vous révélez tout d’abord cette carte depuis votre main, vous choisissez ensuite le nombre de cartes dans votre Zone d’Énergie correspondant au coût total et vous les passez en mode Inertie. Si le coût de la carte que vous voulez jouer possède un coût de couleur, les cartes que vous avez passées en mode Inertie doivent inclure autant de cartes de la couleur indiquée.
 2-11-1-2-1. Quand le coût de couleur de la carte Extra que vous voulez jouer est plus élevé que le coût total, vous devez choisir autant de cartes dans votre Zone d’Énergie de la même couleur que le coût de couleur, et les passer en mode Inertie.
 2-11-2. Seules les cartes de Combat et les cartes Extra possèdent un coût d’énergie.
+2-11-3. Lorsqu’un coût d’énergie est indiqué dans le texte d’une carte, il se réfère uniquement au coût total.
+2-11-3-1. Lorsqu’un coût de couleur est indiqué dans le texte d’une carte, il se réfère généralement au coût de couleur.
 
 2-12. Capacité (texte de la carte)
 2-12-1. Information indiquant la capacité propre à cette carte.
 2-12-2. Sauf indication contraire, les Capacités (texte de la carte) des cartes Leaders et des cartes de Combat sont uniquement valides dans la Zone du Leader ou dans la Zone de Combat.
 2-12-3. Certains textes possèdent des explications détaillées de Capacités-clefs ou de Capacités de cartes, rédigées entre parenthèses. Ce sont des notes explicatives. Les notes explicatives font partie du texte, mais leur objectif est de fournir l’explication d’une Capacité. Elles n’ont aucune influence sur la partie.
+2-12-4. Certains textes utilisent parfois l’expression « sans Capacité » pour désigner des cartes sans texte.
 
 2-13. Inscription des droits d’auteur
 2-13-1. Inscription indiquant les droits d’auteur de la carte.
@@ -519,8 +522,8 @@ Sommaire
 
 9-5. Application de règle lorsque la puissance d’une carte passe à zéro ou moins.
 9-5-1. Lorsque la puissance d’une carte de Combat passe à zéro ou moins, une application de règle confirmative est appliquée.
-9-5-2. Si la puissance d’une carte de Combat passe à zéro ou moins, cette carte est mise KO.
-9-5-2-1. Après qu’un effet ait altéré la puissance d’une carte, si la puissance de cette carte passe à zéro ou moins et est mise KO par l’application de règle qui stipulent que les cartes de Combat dont la puissance passant à zéro ou moins sont mises KO, cette carte est considérée comme avoir été mise KO par cet effet.
+9-5-2. Lorsque la puissance d’une carte de Combat passe à zéro ou moins, cette carte est placée dans la Zone de Dispersion de son propriétaire.
+9-5-2-1. Après qu’un effet ait altéré la puissance d’une carte de Combat, si la puissance de cette carte passe à zéro ou moins et que la carte est placée dans la Zone de Dispersion de son propriétaire via l’application de règle qui demande aux cartes de Combat dont la puissance passe à zéro ou moins d’être placées dans leur Zone de Dispersion, elle est considérée comme avoir été placée dans la Zone de Dispersion de son propriétaire par cet effet.
 
 
 10. Mots-clefs et Capacités-clefs
@@ -546,16 +549,18 @@ Sommaire
 10-4-1. [Bloqueur] est une Capacité-clef [Auto.] activable en passant en mode Inertie cette carte quand une de vos cartes autre que celle-ci se fait attaquer. Une fois activé, changez la carte ayant activé [Bloqueur] en carte de défense.
 10-4-2. « Annuler le [Bloqueur] » est une application particulière changeant à nouveau la carte de défense en carte attaquante ciblée en premier pour l’attaque.
 
-10-5. [Évolution] ([Évolution-EX])
-10-5-1. [Évolution] est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité lorsqu’une carte de Combat avec le nom du personnage indiqué est en jeu dans votre Zone de Combat.
-10-5-1. [Évolution] ([Évolution-EX]) est une Capacité-clef [Activation : Principale] demandant de choisir une carte de Combat présente dans votre Zone de Combat qui remplit les conditions de nom du personnage indiqué, activable en payant son coût de Capacité. Vous ne pouvez pas activer [Évolution] ([Évolution-EX]) si vous ne pouvez pas choisir la carte de Combat indiquée.
-10-5-2. [Évolution] ([Évolution-EX]) ne peut être activée que depuis votre main.
-10-5-3. [Évolution] ([Évolution-EX]) est rédigée comme suit : « [Évolution] Coût de Capacité : <Nom du personnage> ».
+10-5. [Évolution] ([Évolution-EX], [Évolution-Xeno])
+10-5-1. [Évolution] ([Évolution-EX], [Évolution-Xeno]) est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité et en choisissant une ou plusieurs cartes de Combat en jeu dans votre Zone de Combat remplissant les conditions de nom des personnages indiqués. Il est impossible d’activer [Évolution] ([Évolution-EX], [Évolution-Xeno]) si le joueur ne peut pas choisir la ou les cartes de Combat indiquées.
+10-5-2. [Évolution] ([Évolution-EX], [Évolution-Xeno]) ne peut être activée que depuis la main d’un joueur.
+10-5-3. [Évolution] ([Évolution-EX], [Évolution-Xeno]) est rédigée comme suit : « [Évolution] ([Évolution-EX], [Évolution-Xeno]) Coût de Capacité : Condition <Nom du personnage> ».
 10-5-3-1. Dans certains cas, aucune condition n’est spécifiée. Dans ce cas, aucune condition n’est requise.
 10-5-4. Une carte activée avec [Évolution] est mise en jeu par-dessus la carte de Combat déjà présente en jeu. Par la suite, toutes les cartes placées sous cette carte seront considérées uniquement comme la carte de Combat placée sur le dessus du tas, mais cette dernière conservera l’orientement et les effets qui affectaient la carte précédente.
+10-5-4-1. Il arrive qu’aucune condition ne soit rédigée. Dans ce cas, aucune condition n’est requise.
 10-5-4. Une carte activée avec [Évolution] ([Évolution-EX]) est mise en jeu par-dessus la carte de Combat choisie lors de la règle 10-5-1. Par la suite, toutes les cartes placées sous cette carte seront considérées uniquement comme la carte de Combat placée sur le dessus du tas, mais cette dernière conservera l’orientement et les effets qui affectaient la carte précédente.
-10-5-5. L’inscription « évoluer » indique la mise en jeu d’une carte via la Capacité [Évolution] ([Évolution-EX]).
-10-5-6. L’inscription « a évolué » indique qu’une carte a été mise en jeu via la Capacité [Évolution] ([Évolution-EX]).
+10-5-5. Une carte activée avec [Évolution] ([Évolution-EX]) est mise en jeu par-dessus la carte de Combat choisie en 10-5-1. Par la suite, toutes les cartes placées sous cette carte seront considérées uniquement comme la carte de Combat placée sur le dessus du tas, mais cette dernière conservera l’orientement et les effets qui affectaient la carte précédente.
+10-5-6. Quand vous activez [Évolution-Xeno], transférez la carte de Combat choisie en 10-5-1 dans la Dimension parallèle de son propriétaire, et mettez en jeu en mode Action la carte qui a activé [Évolution-Xeno].
+10-5-7. Lorsque le terme « évoluer » est utilisé, il indique que la carte jouée est considérée comme mise en jeu via la Capacité [Évolution] ([Évolution-EX], [Évolution-Xeno]).
+10-5-7. Lorsque le terme « évolué » est utilisé, il indique que la carte jouée est considérée comme avoir été mise en jeu via la Capacité [Évolution] ([Évolution-EX], [Évolution-Xeno]).
 
 10-6. [Coup critique]
 10-6-1. [Coup critique] est une Capacité-clef [Permanent] avec : « Quand cette carte inflige des dégâts à votre adversaire, ce dernier place autant de cartes de points de vie dans sa Zone de Dispersion à la place de sa main. ».
@@ -586,18 +591,35 @@ Sommaire
 10-10-5. « Annuler un [Contre] » indique le fait d’empêcher la résolution de l’effet d’un [Contre] activé.
 
 10-11. [Une fois par tour]
-10-11-1. [Une fois par tour] est un mot-clef indiquant qu’une Capacité [Auto.] ou [Activation] ne peut être activée qu’une seule fois durant le tour.
-10-11-2. La limitation à une fois par tour est définie individuellement pour chaque Capacité. S’il y a plusieurs cartes avec la même Capacité activable « une fois par tour », elles peuvent être activées chacune une fois par tour.
+10-11-1. [Une fois par tour] est un mot-clef indiquant qu’une Capacité [Auto.] ou [Activation] ne peut être résolue qu’une seule fois durant le tour.
+10-11-2. La limitation à une fois par tour est définie individuellement pour chaque Capacité. S’il y a plusieurs cartes avec la même Capacité activable « une fois par tour », elles peuvent être résolues chacune une fois par tour.
 10-11-3. Les Capacités sans limitation d’activation à une fois par tour peuvent être activées autant de fois que le joueur le souhaite, tant qu’il peut payer le coût de Capacité et que les conditions d’activation sont remplies.
+10-11-4. Lorsque la Capacité limitée à une activation par tour est une Capacité [Auto.], il arrive qu’elle puisse se mettre en suspens plusieurs fois en même temps. Dans ce cas, une fois que l’une d’entre elles est résolue, les autres disparaissent sans se résoudre.
+10-11-5. Après qu’une Capacité [Une fois par tour] se soit résolue, elle ne déclenche plus de tout le tour même si son coût et ses conditions se remplissent, et elle ne s’active pas.
 
 10-12. [Immortalité]
 10-12-1. [Immortalité] est une Capacité-clef [Permanent] avec : « Cette carte ne peut pas être mise KO par l’attaque ou les Capacités de cartes adverses, et ne peut pas quitter la Zone de Combat à cause du résultat d’un combat ou de Capacités adverses. ».
 
-10-13. [Union-Fusion]
-10-13-1. [Union-Fusion] est une Capacité-clef [Activation : Principale] activable quand vous avez dans votre main chacune des cartes de Combat dont le nom de personnage est indiqué, et que la puissance de chacune de ces cartes de Combat est identique.
-10-13-2. La Capacité [Union-Fusion] ne peut être activée que depuis votre main.
-10-13-3. [Union-Fusion] est rédigée comme suit : « [Union-Fusion] Coût de Capacité : <Nom du personnage A> et <Nom du personnage B> ».
-10-13-4. Quand vous activez [Union-Fusion], placez une après l’autre les cartes de Combat indiquées avec la même puissance dans votre Zone de Dispersion, et mettez en jeu la carte de Combat avec laquelle vous avez activé [Union-Fusion] en mode Action.
+10-13. [Union]
+10-13-1. [Union] est un terme général de Capacité mettant en jeu une carte de Combat dans la Zone de Combat depuis un endroit spécifié quand les coûts et conditions spécifiés sont remplis.
+10-13-2. [Union] est généralement rédigée comme suit : [Union-X].
+10-13-3. [Union-Fusion]
+10-13-3-1. [Union-Fusion] est une Capacité-clef [Activation : Principale] activable lorsqu’un joueur a dans sa main chacune des cartes de Combat dont le nom de personnage est indiqué, et que la puissance de chacune de ces cartes de Combat est identique.
+10-13-3-2. La Capacité [Union-Fusion] ne peut être activée que depuis la main d’un joueur.
+10-13-3-3. [Union-Fusion] est rédigée comme suit : « [Union-Fusion] Coût de Capacité : <Nom du personnage A> et <Nom du personnage B> ».
+10-13-4. Quand [Union-Fusion] est activée, le joueur place une après l’autre les cartes de Combat indiquées avec la même puissance depuis sa main dans sa Zone de Dispersion, et met en jeu en mode Action la carte de Combat qui a activé [Union-Fusion].
+10-13-4. [Union-Potara]
+10-13-4-1. [Union-Potara] est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité après avoir choisi chacune des cartes de Combat en jeu dans la Zone de Combat avec les noms de personnage indiqués. Il est impossible d’activer [Union-Potara] si le joueur ne peut pas choisir toutes les cartes de Combat indiquées.
+10-13-4-2. La Capacité [Union-Potara] ne peut être activée que depuis la main d’un joueur.
+10-13-4-3. [Union-Potara] est rédigée comme suit : « [Union-Potara] Coût de Capacité <Nom du personnage A> et <Nom du personnage B> ».
+10-13-4-4. La carte ayant activé [Union-Potara] est mise en jeu en mode Action par-dessus les deux cartes de Combat choisies en 10-13-4-1.
+10-13-4-4-1. Dans ce cas, la carte jouée avec [Union-Potara] conserve les effets altérant la puissance des cartes précédemment en jeu.
+10-13-5. [Union-Absorption]
+10-13-5-1. [Union-Absorption] est une Capacité-clef [Activation : Principale] mettant en jeu une carte indiquée depuis une zone spécifiée par-dessus la carte ayant activé [Union-Absorption].
+10-13-5-2. La Capacité-clef [Union-Absorption] peut être activée lorsqu’elle est en jeu dans la Zone de Combat.
+10-13-5-3. [Union-Absorption] est rédigée comme suit : « [Union-Absorption] Coût de Capacité : Effet ».
+10-13-5-4. Placez la carte choisie en 10-13-5-1 par-dessus la carte de Combat qui a activé [Union-Absorption].
+10-13-5-4-1. Dans ce cas, la carte mise en jeu via [Union-Absorption] conserve l’orientement et les effets altérant la puissance de la carte précédemment en jeu.
 
 10-14. [Union-Potara]
 10-14-1. [Union-Potara] est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité quand toutes les cartes de Combat dont le nom est indiqué sur la carte se trouvent en jeu dans votre Zone de Combat.
@@ -666,6 +688,30 @@ Sommaire
 10-27-1. [Échange] est une Capacité-clef [Activation : Principale].
 10-27-2. [Échange] est rédigé comme suit : « [Échange X] Coût de Capacité : Carte de Combat indiquée avec un coût d’énergie de X ».
 10-27-3. Quand vous activez [Échange], choisissez depuis votre main jusqu’à une carte de Combat indiquée avec un coût d’énergie de X, jouez-la, puis retournez la carte de Combat qui a activé [Échange] dans la main de son propriétaire.
+
+10.27. Choisissez X —
+10.27.1. Certaines Capacités [Activation] et [Auto.] vous permettent de choisir et de résoudre X options parmi une liste d’effets.
+10.27.2. Le choix s’effectue parmi les options séparées par un « ・ » après « Choisissez X — ».
+10.27.3. Lorsque plusieurs effets sont choisis, le joueur qui les a activés choisit l’ordre de leur résolution.
+
+10.28. [Voeu]
+10.28.1. [Voeu] est une Capacité-clef [Activation] activable lorsque ses conditions et son coût sont remplis.
+10.28.2. [Voeu] est rédigé comme suit : « [Voeu] Condition : (effet) ».
+10.28.3. Les cartes ayant utilisé la Capacité [Voeu] sont tournées sur le dos, mais sont considérées comme étant les mêmes cartes.
+10.28.3.1. Le terme « même carte » désigne une carte unique possédant des informations différentes de face et de dos.
+10.28.4. Quand une carte tournée sur le dos par la Capacité [Voeu] est tournée à nouveau de face, elle est toujours considérée comme la même carte.
+10.28.5. Quand une carte est tournée de l’autre côté par la Capacité [Voeu], elle conserve l’orientement et les effets altérant la puissance de la carte avant qu’elle soit tournée.
+
+10.29. [Étincelle]
+10.29.1. [Étincelle] est une Capacité-clef ne rendant valide(s) la/les Capacité(s) rattachée(s) à elle que lorsque vous avez autant ou plus de cartes dans votre Zone de Dispersion que le nombre de cartes spécifié par la Capacité [Étincelle].
+10.29.2. [Étincelle] est rédigée comme suit : « [Étincelle X] ».
+
+10.30. [Explosion]
+10.30.1. [Explosion] est une Capacité-clef avec un coût indiquant que vous devez placer X cartes depuis le dessus de votre deck dans votre Zone de Dispersion pour activer la/les Capacité(s) rattachée(s) à elle.
+10.29.2. [Explosion] est rédigée comme suit : « [Explosion X] ».
+
+10.31. [Dragon Ball]
+10.31.1. [Dragon Ball] est une Capacité-clef [Permanent] concernant la construction du deck, stipulant que lorsque vous incluez des cartes [Dragon Ball] dans votre deck, vous pouvez inclure à l’intérieur sept cartes du même nom avec [Dragon Ball], mais que vous ne pouvez inclure qu’un total maximum de sept cartes du même nom avec [Dragon Ball].
 
 10-28. [Espace-temps obscur] ([Espace-temps obscur X])
 10-28-1. [Espace-temps obscur] est une Capacité-clef [Activation : Principale] activable quand vous avez X cartes noires ou plus dans votre Zone de Dispersion.
