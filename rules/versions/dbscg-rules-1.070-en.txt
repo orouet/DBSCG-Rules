@@ -1,0 +1,746 @@
+DRAGON BALL SUPER CARD GAME OFFICIAL RULE MANUAL
+ver.1.070
+Last update: 11/2/2018
+
+
+Table of Contents
+1. Game Outline
+2. Card Data
+3. Game Areas
+4. Basic Terms
+5. Game Preparation
+6. Game Progression
+7. Card Attacking and Battle
+8. Activating and Resolving Skills
+9. Rule Processing
+10. Keywords and Keyword Skills
+11. Other
+
+
+General Rules
+
+1. Game Outline
+
+1-1. Number of Players
+1-1-1. This game is a 2-player competitive game. There are currently no written rules for games with 3 or more players.
+
+1-2. Victory Condition
+1-2-1. The game ends when either player loses the game. When a player’s opponent loses the game, and that player did not, they win the game.
+1-2-1-1. The game’s lose conditions are as follows.
+1-2-1-1-1. The number of cards in a player’s Life Area is 0.
+1-2-1-1-2. The number of cards in a player’s Deck Area is 0.
+1-2-2. When either player has fulfilled the loss conditions, that player loses the game via rule processing at the next rule processing timing.
+1-2-2-1. During the game, when the number of cards in either player’s Life is 0, that player fulfills loss conditions.
+1-2-2-2. During the game, when the number of cards in either player’s deck area is 0, that player fulfills loss conditions.
+1-2-3. When all players simultaneously fulfill loss conditions, the game is a draw.
+1-2-4. Either player may surrender during the game at any time of their liking. A surrendering player instantly loses without waiting the next checkpoint and the game is over.
+1-2-5. The act of surrendering is not affected by any cards. Players can never be forced to surrender due to card effects, and loss by surrendering is not subject to any replacement effects.
+1-2-6. Some cardｓ can either make a player win or lose the game. Such effects will instantaneously make the player win or lose without waiting the next checkpoint, ending the game during its resolution.
+
+1-3. Fundamental Principles
+1-3-1. Any card text that conflicts with the Official Rules will be prioritized over the rules.
+1-3-2. If a player is requested to perform and impossible act due to some reason, that act will not be carried out. Likewise, if an effect requests a player to carry out a certain amount of actions and some of those actions are not fully possible, conduct as much of the requested actions as possible.
+1-3-2-1. If an existing object is requested to be changed to some state yet it is already in that state, the object does not again become that state; the action itself is not carried out.
+1-3-2-2. If a player is requested to carry out some action 0 or a negative number of times due to some reason, that action is not carried out. Conducting a certain action negative times does not imply carrying out its opposite action.
+1-3-3. If a card effect directs a player to carry out a certain action, yet there is an active effect prohibiting that action, that effect is prioritized and the action is not conducted.
+1-3-4. If multiple players are simultaneously requested a choice due to some reason, the turn player makes their choice first. The non-turn player chooses after that.
+1-3-5. If a player is to name a number due to card effects or rules, if there are no indications the number must be an integral number above 0. Numbers lowers than 1, numbers that include fractions, or negative numbers cannot be chosen.
+1-3-5-1. If cards or rules indicate a maximum number such as “up to...,” if there are no indications of a minimum number the player can choose 0.
+1-3-6. If a card effect rewrites data on a card, if there are no special indications or if there are no definitions in the rules, numbers on a card do not become fractions lower than 1. If the numbers (other than the power) were to reach negative values, with the exception of situations where numbers are either added or subtracted, they are treated as 0.
+1-3-7. If not specified otherwise, card effects are resolved in the order they are described on the card.
+
+
+2. Card Data
+
+2-1. Card Name
+2-1-1. This is the card’s proper name.
+2-1-2. Some text will indicate nouns with {}, without descriptions on what kind of information it is. These texts are referring to card names.
+2-1-3. As an exception, some cards have [Permanent] skills that add card names to card text. Treat these cards as if they have this text by default, including during deck construction and when in secret areas.
+
+2-2. Illustrations
+2-2-1. This is the illustration depicting the card’s image.
+2-2-2. The illustration does not affect gameplay.
+
+2-3. Card Types
+2-3-1. This is an indication of the card type.
+2-3-2. There are 3 types of cards: Leader Cards, Battle Cards, and Extra Cards.
+2-3-2-1. Leader Cards are placed in the Leader Area.
+2-3-2-1-1. If a card text refers to a “Leader” or “Leader Card” it is referring to the Leader Card in the Leader Area.
+2-3-2-1-2. Leader Cards have descriptions on both the front and back of the card. During play, only the descriptions of the side facing up are relevant; the descriptions on the other side are regarded as absent.
+2-3-2-1-3. When the back of the card is facing up, all descriptions on that side are relevant and all descriptions on the front of the cards are irrelevant.
+2-3-2-2. Battle Cards are primarily placed in the Battle Area and Combo Area.
+2-3-2-2-1. If a card text refers to a “Battle Card,” it is referring to a card of the card type “Battle Card.”
+2-3-2-3. Extra Cards are cards that activate skills by being placed into the Drop Area from the hand.
+2-3-2-3-1. If a card text refers to an “Extra Card,” it is referring to a card of the card type “Extra Card.”
+
+2-4. Colors
+2-4-1. This information indicates the card’s color. A card’s color can be referred to in card text and cost payment.
+2-4-1-1. There are five colors: red, blue, green, yellow, and black.
+
+2-5. Character Names
+2-5-1. This information indicates the name of the card character.
+2-5-2. The information is not directly referenced by the rules, yet the data can be referred to in card text.
+2-5-3. Some text will indicate nouns with < >, without descriptions on what kind of information it is. This text is referring to cards with those character names.
+2-5-4. Only Leader Cards and Battle Cards have character names.
+2-5-5. As an exception, some cards have [Permanent] skills that add character names to card text. Treat these cards as if they have this text by default, including during deck construction and when in secret areas.
+
+2-6. Special Trait
+2-6-1. This is an indication of the card’s special trait.
+2-6-2. The information is not directly referenced by the rules, but the data can be referred to in card text
+2-6-3. Some cards will have multiple special traits. Multiple traits will be listed with /.
+2-6-4. Some text will indicate nouns with 《》, without descriptions on what kind of information it is. This text is referring to cards with those special traits.
+2-6-5. Only Leader Cards and Battle Cards have special traits.
+2-6-6. As an exception, some cards have [Permanent] skills that add special traits to card text. Treat these cards as if they have this text by default, including during deck construction and when in secret areas.
+
+2-7. Era
+2-7-1. This is an indication of which storyline or era the character appeared in.
+2-7-2. The information is not directly referenced by the rules, but the data can be referred to in card text.
+2-7-3. Only Leader Cards and Battle Cards have Era indications.
+
+2-8. Power
+2-8-1. This indicates the card’s power in battle. Check “7. Card Attacking and Battle” for details.
+2-8-2. Only Leader Cards and Battle Cards have power.
+2-8-3. Effects that reduce power can reduce power to less than 0 (negative values).
+
+2-9. Combo Power
+2-9-1. This indicates how much power this card adds in a combo. Check “7. Card Attacking and Battle” for details.
+2-9-2. Only Battle Cards have Combo Power.
+
+2-10. Combo Cost
+2-10-1. This indicates how much it costs to place this card from a player’s hand or Battle Area into the Combo Area. Check “7. Card Attacking and Battle” for details.
+2-10-2. Only Battle Cards have Combo cost.
+
+2-11. Energy Cost
+2-11-1. This is the cost necessary to play this card from a player’s hand or activate its skill. The cost can be separated into 2 types of cost: the total cost and specified cost.
+2-11-1-1. When playing Battle Cards from a player’s hand, first the player must reveal that card from their hand and switch the same number of cards in their Energy Area as its total cost to Rest Mode. If the cost of the card the player wishes to play includes a specified cost, the cards they switch to Rest Mode in the Energy Area must include that many cards of that color.
+2-11-1-1-1. When the specified cost of the card a player wishes to play is greater than the total cost, they must choose the same number of cards from their Energy Area with the same color as the specified cost, and switch them to Rest Mode.
+2-11-1-2. When activating Extra Card skills from a player’s hand, first they must reveal that card from their hand and switch the same number of cards in their Energy Area as its total cost to Rest Mode. If the cost of the card they wish to activate includes a specified cost, the cards they switch to Rest Mode in the Energy Area must include that many cards of that color.
+2-11-1-2-1. When the specified cost of the Extra Card a player wants to activate is greater than the total cost, they must choose the same number of cards from their energy area with the same color as the specified cost, and switch them to Rest Mode.
+2-11-2. Only Battle Cards and Extra Cards have Energy Costs.
+2-11-3. When card text refers to an energy cost, it refers only to total cost.
+2-11-3-1. When card text refers to specified costs, it generally represents specified cost.
+
+2-12. Skill (Card Text)
+2-12-1. This indicates the individual skill this card possesses.
+2-12-2. If not specified otherwise, the skills (card text) of Leader Cards and Battle Cards are only relevant in the Leader Area and Battle Area.
+2-12-3. Some text has detailed explanations of keyword skills and other card skills inside parentheses. These are called explanatory notes. Explanatory notes are part of the text, but their purpose is providing further explanations of skills and they themselves do not influence gameplay.
+2-12-3-1. In some specific cases, skill text is included in parentheses to make understanding the skill easier.
+2-12-4. In text, cards that lack card text are sometimes referred to as being “skill-less.”
+
+2-13. Copyright Inscription
+2-13-1. This is the card’s copyright inscription.
+2-13-2. It does not affect gameplay.
+
+2-14. Rarity
+2-14-1. This indicates the card’s rarity.
+2-14-2. It does not affect gameplay.
+
+2-15. Card Number
+2-15-1. This indicates the card’s number.
+2-15-2. The number is referenced in game preparation.
+2-15-2-1. When preparing for the game, a player can only include 4 or fewer copies of the same-numbered card in their deck.
+
+2-16. Block
+2-16-1. This indicates the block the card is part of.
+2-16-2. It does not affect gameplay.
+
+
+3. Game Areas
+
+3-1. Areas
+3-1-1. If not specified otherwise, both players possess one each of every area.
+3-1-2. The number of cards in each area is open information and each player can check the numbers whenever they want to.
+3-1-3. Cards in some areas are revealed to both players while others are not. Areas with revealed cards are called open areas while areas with hidden cards are called secret areas.
+3-1-4. When Cards move from the Battle Area to an area other than the Combo Area, they are regarded as new cards in those new areas (if not specified otherwise). Effects that were active on those cards in the original area will not be carried over to the new area.
+3-1-5. When Cards move from the Combo Area to an area other than the Battle Area, they are regarded as new cards in those new areas (if not specified otherwise). Effects that were active on those cards in the original area will not be carried over to the new area.
+3-1-6. If multiple cards are to be placed in a certain area simultaneously, the order in which they are placed into that area is decided by the owner of those cards.
+3-1-6-1. When the owner of multiple cards can decide the order of those cards being placed into a secret area from an open area, players other than the owner of the cards cannot confirm in what order those cards where placed into the secret area.
+3-1-7. If a card is directed to move to a certain area, but the directions do not include which player’s area, it moves to its owner’s corresponding area (if not specified otherwise).
+3-1-7-1. If a card is directed to move to a certain area of another player other than the Battle Area or Combo Area, that card moves to its owner’s corresponding area.
+
+3-2. Deck Area
+3-2-1. Place the deck here at the beginning of the game.
+3-2-2. The Deck Area is a secret area. The cards in this area are placed face-down, and neither player can check the contents or order of those cards, nor can they change their order.
+3-2-3. If cards in a deck are to move between areas, move the cards one by one.
+3-2-4. If a player is requested to shuffle their deck, they rearrange the order of the cards of their deck in a random fashion. This action is carried out by the owner of the deck, regardless to who activated or possesses the effect requesting the action.
+
+3-3. Hand
+3-3-1. This is the area where each player places the cards they drew from their deck.
+3-3-2. The hand is a secret area, but a player can freely view the contents and change the order of cards in their hand.
+3-3-3. Players cannot view the contents of cards in other player’s hands.
+
+3-4. Drop Area
+3-4-1. Place KO-ed Battle Cards and used (activated their skills) Extra Cards in this area. If the word “Drop” appears in card text, it is referring to the Drop Area.
+3-4-2. The Drop Area is an open area. Cards in the area are placed face-up, and either player can freely view the contents of these cards. Players may freely change the order of cards in their own Drop Area. When you place new cards in this area, place them on top of the cards originally in the area.
+
+3-5. Leader Area
+3-5-1. At the beginning of the game, place the Leader Card with its front side facing up in this area.
+3-5-2. The Leader Area is an open area.
+
+3-6. Battle Area
+3-6-1. Place Battle Cards and some Extra Cards in this Area.
+3-6-2. The Battle Area is an open area. Cards in this area are placed face-up.
+3-6-3. The act of placing Battle Cards in the Battle Area is called “play.”
+3-6-4. When placing cards into the Battle Area, place them in Active Mode if not specified otherwise.
+3-6-5. A player may place any number of Battle Cards in the Battle Area.
+3-6-6. You may place any number of Extra Cards in the Battle Area. However, only one Extra Card with [Field] may be present in your Battle Area at any given time.
+
+3-7. Combo Area
+3-7-1. Battle Cards players wish to combo with are placed in this area.
+3-7-2. The Combo Area is an open area. Cards in this area are placed face-up.
+3-7-3. The act of placing Battle Cards in the Combo Area is called “combo.”
+3-7-3-1. A player can only combo with cards that have both a combo cost and combo power.
+3-7-4. There is no limit to the number of Battle Cards a player can place into the Combo Area.
+
+3-8. Energy Area
+3-8-1. Place the cards that are used to pay costs with during the game in this area.
+3-8-2. The Energy Area is an open area. Cards in this area are placed upside-down facing up, and either player can freely view the contents of these cards. A player may freely change the order of cards in their own Energy Area. A player may choose any card of their preference (from their own Energy Area) when paying costs.
+3-8-3. When placing cards into the Energy Area, place them in Active Mode if not specified otherwise.
+
+3-9. Life Area
+3-9-1. Place the Leader’s life in this area.
+3-9-2. The Life Area is a secret area. The cards in this area are placed face down, and neither player can check the contents of those cards nor can they change their order. A player may choose any card of their preference when cards are moved from the Life Area to other areas.
+
+3-10. The Warp
+3-10-1. The Warp is an area where cards can be placed.
+3-10-2. The Warp is an open area. Cards sent to the Warp are placed face up and can be viewed by any player. A player may change the order of cards sent to their own Warp. When sending new cards in the Warp, place them on top of the cards that were originally in the area.
+
+
+4. Basic Terms
+
+4-1. Skills and Effects
+4-1-1. Skills are the descriptions given in the card text.
+4-1-1-1. Skills can be largely divided into 3 categories: [Activate], [Permanent], and [Auto].
+4-1-2. Effects are the actual details of the orders given to players by skills.
+4-1-2-1. Effects can be divided into immediate effects, continuous effects, and replacement effects.
+
+4-2. Owner
+4-2-1. The Owner is a card’s physical Owner.
+4-2-2. A card is owned by the player who originally had that card in their deck or their Leader Area.
+4-2-3. At the end of the game, both players recover all of the cards they own.
+
+4-3. Master
+4-3-1. The master is the player currently using cards, skills, or effects.
+4-3-2. The master of a card in a certain area is the player that area belongs to.
+4-3-3. The master of an [Activate] skill is the master of the card which has that skill or the master of the effect that generated that skill.
+4-3-4. The master of a [Permanent] skill is the master of the card which has that skill or the master of the effect that generated that skill.
+4-3-5. The master of an [Auto] skill is the master of the card which has that skill or the master of the effect that generated that skill.
+
+4-4. The Turn Player and the Non-Turn Player
+4-4-1. The turn player is the player currently proceeding with their turn.
+4-4-2. The non-turn player is the player currently not proceeding with their turn.
+
+4-5. Checkpoint
+4-5-1. Checkpoints are points of gameplay when rule processing and the activation of [Auto] skills are carried out.
+4-5-2. During checkpoints, all rule processing is carried out first. When all processing is resolved, activate and resolve any [Auto] skills that have fulfilled activation conditions.
+4-5-3. If a checkpoint occurs, follow the procedure below.
+4-5-3-1. All rules processing that currently needs to be carried out is resolved simultaneously. If a situation requiring new rules processing results, repeat this process as long as rules processing is required.
+4-5-3-2. If [Auto] activations for which the turn player is the Master are awaiting resolution, the turn player chooses one, activates and resolves it, and then returns to 4-5-3-1.
+4-5-3-3. If [Auto] activations for which the non-turn player is the Master are awaiting resolution, the non-turn player chooses one, activates and resolves it, and then returns to 4-5-3-1.
+4-5-3-4. End the checkpoint.
+
+4-6. Free Timing
+4-6-1. Free timing is a point in gameplay when the specified player is allowed to actively carry out actions.
+4-6-2. When either player is to be granted free timing, follow the procedure below.
+4-6-2-1. A checkpoint occurs.
+4-6-2-2. The player is granted free timing. They choose to carry out a possible action or none at all. If they choose to carry out an action, they are granted another free timing (unless specified otherwise).
+4-6-2-3. If the player granted free timing chooses to not carry out an action, the free timing ends, and the phase and/or step advances.
+
+4-7. Counter Timing
+4-7-1. Counter timing is a point in gameplay when the player can activate [Counter] skills (10-10.).
+4-7-2. Counter timing occurs when the following conditions have been met.
+4-7-2-1. A player declares that they’re going to play a card (6-3-1-2-1-2.).
+4-7-2-2. A player makes an attack (7-1-2.).
+4-7-2-3. After a player activates a skill, but before it resolves (8-5-2-4.).
+4-7-2-4. After a player resolves a skill (8-5-2-6.).
+4-7-2-5. During a counter timing, a new counter timing cannot occur.
+4-7-3. Counter timing proceeds in the following order.
+4-7-3-1. All rules processing that currently needs to be carried out is resolved simultaneously. If a situation requiring new rules processing results, repeat this process as long as rules processing is required.
+4-7-3-2. The master of the pending [Counter] proceeds to 4-7-3-6 or chooses to activate one of the pending [Counter] skills.
+4-7-3-3. The player who didn’t activate the [Counter] skill before either proceeds to 4-7-3-5 or activates one of the pending [Counter] skills.
+4-7-3-4. The player who didn’t activate the [Counter] skill before either proceeds to 4-7-3-5 or activates one of the pending [Counter] skills. If the [Counter] is activated, return to 4-7-3-3.
+4-7-3-5. Resolve activated [Counter] skills. Resolve the skills in the opposite order they were activated (start from the last one and proceed backwards) regardless of the turn player.
+4-7-3-6. End the counter timing, carry out the original action or skill that triggered the counter timing (if possible), then proceed with the game.
+
+4-8. Card Positions
+4-8-1. All cards in the Leader Area, Battle Area, and Energy Area are always in either of the following 2 positions during the game.
+4-8-1-1. Active Mode: A card positioned vertically from a player’s point of view.
+4-8-1-1-1. As an exception, cards in the Energy Area that are positioned vertically upside down are considered to be in Active Mode.
+4-8-1-2. Rest Mode: A card positioned horizontally from a player’s point of view.
+
+4-9. Draw a Card
+4-9-1. “Draw a card” is the act of adding the top card of a deck to the player’s hand.
+4-9-2. If a player is directed to “draw a card,” that player adds 1 card from the top of their deck to their hand without revealing it to their opponent.
+4-9-3. If a player is directed to “draw X cards,” nothing happens if X is 0. If X is 1 or higher, repeat the “draw a card” process that many times.
+4-9-4. If a player is directed to draw “up to X cards,” nothing happens is the X is 0. If X is 1 or higher, the player carries out the following actions.
+4-9-4-1. The player can end this action.
+4-9-4-2. The player draws a card.
+4-9-4-3. If a player has carried out 4-9-4-2. X times, end this action. If not, return to 4-9-4-1.
+
+4-10. Damage Processing
+4-10-1. The act of “inflicting damage (to the opponent’s life)” is called damage processing.
+4-10-2. If an action inflicts damages to a player, that player follows the procedure below.
+4-10-2-1. If the inflicted damage was 1, that player chooses 1 card from their Life Area and adds it to their hand.
+4-10-2-2. If the inflicted damage was N, and N is 0, nothing happens. If N was 1 or more, the player repeats the process of “taking 1 damage” that many times.
+
+4-11. Damage Source
+4-11-1. Some effects will question where the damage inflicted to the player came from. The answer to the question is called the damage source, and is defined as following.
+4-11-1-1. The source of the damage inflicted by attacking due to the rules during the Damage Step is the attacking card.
+4-11-1-2. The source of damage inflicted by a card’s skill is that card, if not specified otherwise.
+
+
+5. Game Preparation
+
+5-1. Preparing a Leader Card and a Deck
+5-1-1. Each player prepares their own Leader Card and deck before playing the game.
+5-1-2. A player requires exactly 1 Leader Card to play the game.
+5-1-3. A player requires a 50-card deck constructed out of Battle Cards and/or Extra Cards to play the game.
+5-1-3-1. A player’s deck can only include up to 4 copies of a card with the same card number.
+5-1-3-2. [Permanent] skills that affect deck construction rules are regarded as replacement effects which replace the above rules concerning deck construction.
+5-1-3-2-1. [Permanent] skills that affect deck construction refer to [Permanent] skills with text that specifies “You can include (X) copies of (a card) in your deck” or “You can only include (X) copies of (a card) in your deck.”
+5-1-3-2-2. [Permanent] skills that affect deck construction take effect during deck preparation.
+
+5-2. Before Playing the Game
+5-2-1. Before playing the game, each player must follow the procedure bellow.
+5-2-1-1. Present the Leader Card and deck they are going to use this game. This deck (at this timing) must fulfill the deck construction rules given in 5-1.
+5-2-1-2. Each player places their Leader Card with its front side facing up in the Leader Area.
+5-2-1-3. The trigger condition for “When this card is placed in the Leader Area” is fulfilled, and then a checkpoint occurs.
+5-2-1-4. Each player shuffles their deck. Then, each player places their deck face-down in their Deck Area.
+5-2-1-5. Decide which player goes first randomly using the following criteria:
+5-2-1-5-1. Deciding the first player cannot be in anyway a conscious choice. A player, even if chosen randomly, cannot have a choice on whether they play first or not.
+5-2-1-6. Each player draws 6 cards from their deck as their opening hand. Then, from the starting player, each player has 1 chance to redraw their hand following the procedure below.
+5-2-1-6-1. A player may return any number of cards to their deck. They shuffle their deck, then draw that many cards from their deck.
+5-2-1-7. Each player places the top 8 cards of their deck face-down in their Life Area.
+5-2-1-8. The first player begins the game and starts their turn.
+
+
+6. Game Progress
+
+6-1. Turn Flow
+6-1-1. The game is progressed by the turn player. The turn player performs the various phases of a turn following the procedure below. These phases complete a turn.
+
+6-2. Charge Phase
+6-2-1. The trigger conditions “At the beginning of the turn” and “at the beginning of the Charge Phase” occur, and then a checkpoint occurs.
+6-2-2. Players Switch all of their cards in the Leader Area, Battle Area, and Energy Area which are in Rest Mode to Active Mode.
+6-2-3. The turn player draws 1 card from their deck. The player playing first does not draw on their first turn.
+6-2-4. A checkpoint occurs.
+6-2-5. The turn player may place 1 card from their hand into the Energy Area.
+6-2-6. A checkpoint occurs. When all necessary processing is carried out for this checkpoint, proceed to the Main Phase.
+
+6-3. Main Phase
+6-3-1. The turn player can carry out various actions in the Main Phase. Proceed the Phase following the procedure below.
+6-3-1-1. The trigger condition “At the beginning of the Main Phase” occurs, and then a checkpoint occurs.
+6-3-1-2. The turn player is granted a free timing. Checkpoint and counter timings corresponding to each action also occur. The player can carry out any of the actions allowed during the Main Phase (stated below) during this free timing.
+6-3-1-2-1The turn player can place a Battle Card from their hand into the Battle Area and play it. Follow the procedure below to play a card.
+6-3-1-2-1-1. Players reveal the card they’re playing from your hand, switch the amount of energy necessary to play the card to Rest Mode, and declare that they’re playing the card. If they cannot switch the necessary energy to Rest Mode, they cannot declare to play that card.
+6-3-1-2-1-2. A counter timing occurs. The non-turn player can activate [Counter: Play] skills for which conditions have been fulfilled.
+6-3-1-2-1-3. Play the Battle Card.
+6-3-1-2-1-4. The trigger condition “when you play this card” occurs and a checkpoint occurs.
+6-3-1-2-2. The turn player can activate [Activate: Main] skills of their own Leader Cards, Battle Cards, or Extra Cards.
+6-3-1-2-2-1. A counter timing occurs before and after the skill is resolved. (Non-turn players can activate [Counter] skills for which they’ve met the conditions.)
+6-3-1-2-2-2. [Awaken] is one type of [Activate] ability. It can be activated at this timing.
+6-3-1-2-3. The turn player can attack their opponent’s cards with cards which they are the master of. Check the details for battle in the later “Card Attacking and Battle” section.
+6-3-1-2-4. The turn player can choose to end their Main Phase. If they do so, proceed to the Main Phase End Step.
+6-3-1-3. Main Phase End Step
+6-3-1-3-1. End the turn’s Main Phase in this step. Perform the step following the procedure below.
+6-3-1-3-1-1. The trigger conditions “At the end of the Main Phase” occurs and a checkpoint occurs.
+6-3-1-3-1-2. A checkpoint occurs. After resolving all necessary processing for the checkpoint, all effects that last “Until the end of the Main Phase” end.
+6-3-1-3-1-3. Proceed to the End Phase
+
+6-4. End Phase
+6-4-1. Carry out various processes that occur at the end of a turn in this phase. Carry out the End Phase following the procedure below.
+6-4-1-1. The trigger condition “At the end of the turn” occurs. However, any [Auto] that had their trigger conditions fulfilled this turn do not enter pending.
+6-4-1-2. A checkpoint occurs. After resolving all necessary processes for the checkpoint, all effects that last “Until the end of the turn” end.
+6-4-1-3. If at this timing there are no [Auto] skills with unfulfilled ”at the end of the turn” trigger conditions, the opposing player of the current turn player becomes the turn player, ending the turn and proceeding to the next turn’s Charge Phase. If not, carry out the End Phase procedure once again from the beginning.
+
+
+7. Card Attacking and Battle
+
+7-1. During the Main Phase, the turn player can switch an Active Mode Leader Card/Battle Card in their Leader Area or Battle Area to Rest Mode in order to attack the opponent’s Leader Card, or a Battle Card in Rest Mode. If the player chooses to attack, a battle occurs. The attacking card becomes an attack card and the attacked card becomes a guard card until the attack is negated or the battle ends. Then, follow procedures 7-1-1. to 7-1-3 in order.
+7-1-1. The trigger conditions “When this card attacks,” “When this card is attacked,” (the trigger conditions for [Blocker]) occur.
+7-1-2. A counter timing occurs. The non-turn player can activate a [Counter: Attack] skill which condition has been fulfilled.
+7-1-3. A checkpoint occurs.
+7-1-4. If the attack has been negated, proceed to 7-1-4-1. If the attack has not been negated, proceed to 7-2. Offense Step. If an effect has caused the number of Attack Cards or Guard Cards to be reduced to 0, proceed to 7-1-4-1. However, if a Battle Card has been played on top of the attack card or guard card, that card is treated as the new attack card or guard card.
+7-1-4-1. All Battle Cards in each player’s Combo Area are placed in their owner’s Drop Areas.
+7-1-4-2. The trigger condition “End of battle” occurs, and a checkpoint occurs.
+7-1-4-3. Effects that last for the duration of a battle end.
+7-1-4-4. The battle ends. Return to 6-3-1-2.
+
+7-2. Offence Step
+7-2-1. The turn player carries out various actions in this step. Proceed with the Offence Step following the procedure below.
+7-2-1-1. The trigger conditions “At the beginning of the Offence Step” occurs and a checkpoint occurs.
+7-2-1-2. The turn player is granted a free timing. Checkpoints and counter timing also occur if the player combos or activates skills. The player may choose and carry out the following actions at this free timing.
+7-2-1-2-1. The turn player can move any of their Active Mode Battle Cards other than their attack card to the Combo Area to combo.
+7-2-1-2-1-1. If they do so, the player must switch an amount of energy equal to the required combo cost to Rest Mode, and declare the combo. If they cannot do so, they cannot declare a combo.
+7-2-1-2-2. The turn player can place a Battle Card in their hand into the Combo Area to combo.
+7-2-1-2-2-1. If they do so, the player must switch an amount of energy equal to the required combo cost to Rest Mode, and declare the combo. If they cannot do so, they cannot declare a combo.
+7-2-1-2-3. The turn player can activate the [Activate: Battle] skills of their own Leader Card, Battle Card, or Extra Card.
+7-2-1-2-3-1. A counter timing occurs before and after the skill resolves. (The non-turn player can activate [Counter] skills for which conditions have been fulfilled.)
+7-2-1-2-3-2. [Awaken] is an [Activate] skill. It can be activated at this timing.
+7-2-1-3. If the turn player chooses to do nothing, proceed to the Defense Step.
+
+7-3. Defense Step
+7-3-1. The non-turn player carries out various actions in this step. Perform the Defense Step by following the procedure below.
+7-3-1-1. The trigger conditions “At the beginning of the Defense Step” occurs and a checkpoint occurs。
+7-3-1-2. The non-turn player is granted a free timing. Checkpoints and counter timing also occur if the player combos or activates skills. The player may choose and carry out the following actions at this free timing
+7-3-1-2-1. The non-turn player can move any of their Active Mode Battle Cards other than their guard card to the Combo Area to combo.
+7-3-1-2-1-1. If they do so, the player must switch the required cost worth of energy to Rest Mode. If they cannot do so, they cannot declare a combo.
+7-3-1-2-2. The non-turn player can place a Battle Card in their hand into the Combo Area to combo.
+7-3-1-2-2-1. If they do, the player must switch the required cost worth of energy to Rest Mode. If they cannot do so, they cannot declare a combo.
+7-3-1-2-3. The non-turn player can activate the [Activate: Battle] skills of their own Leader Card, Battle Card, or Extra Card.
+7-3-1-2-3-1. A counter-timing occurs before and after the skill resolves. (The turn player may activate [Counter] skills for which conditions have been fulfilled)
+7-3-1-2-3-2. [Awaken] is an [Activate] skill. It activates at this timing.
+7-3-1-3. If the non-turn player decides to do nothing, proceed to the Damage Step.
+
+7-4. Damage Step
+7-4-1. Each battle is resolved in a Damage Step. Resolve the step following the procedure below.
+7-4-1-1. The trigger condition “At the beginning of your Damage Step” occurs and a checkpoint occurs.
+7-4-1-2. Add all Combo Power of the turn player’s cards in the Combo Area to the power of the attack card.
+7-4-1-3. Add all Combo Power of the non-turn player’s cards in the Combo Area to the power of the guard card.
+7-4-1-4. Compare the power of the attack card and the guard card. If the attack card’s power is higher than or equal to the guard card's power, follow the procedure below. If not, do not carry out any procedures reflecting the result of the battle, but proceed to 7-4-1-5 instead.
+7-4-1-4-1. If the guard card is the Leader Card, the trigger condition “when you deal damage” occurs and a checkpoint occurs.
+7-4-1-4-1-1. The attack card inflicts 1 damage to the non-turn player.
+7-4-1-4-1-2. The trigger condition “when you dealt damage” occurs.
+7-4-1-4-2. If the guard card is a Battle Card, it is KO-ed and moved to the Drop Area. Refer to “10-1. KO” for further details.
+7-4-1-4-2-1. The trigger condition “when you KO a card” occurs.
+7-4-1-5. A checkpoint occurs.
+7-4-1-6. Place all Battle Cards in the Combo Area into their owner’s Drop Area.
+7-4-1-7. All power increases/decreases from combos on the attack cards and guard cards dissipate.
+7-4-1-8. The trigger condition “At the end of a battle” occurs and a checkpoint occurs.
+7-4-1-8-1. If cards with skills that have trigger conditions described as “the end of the battle after you combo with this card” are placed in the Drop Area from the Combo Area during 7-4-1-6, those skills enter pending in 7-4-1-8.
+7-4-1-9. All effects that last “during that battle” end.
+7-4-1-10. End the battle and return to 6-3-1-2.
+
+
+8. Activating and Resolving Skills
+
+8-1. Skill
+8-1-1. A skill refers to an order generated from card text and its cost.
+8-1-2. Skills can be divided into 3 categories: [Activate], [Permanent], and [Auto].
+8-1-3. [Activate] skills are skills that a player can activate by paying the skill cost and fulfilling its conditions when granted a free timing.
+8-1-3-1. [Activate] skills are described on card text in the following formats: “[Activate: Main] skill cost: effect” or [Activate: Battle] skill cost: effect.” The text before the colon is the skill cost necessary to activate the [Activate] skill, and the following text is the actual effect of the text.
+8-1-3-1-1. Some [Activate] skills of Battle Cards and Leader Cards do not have skill cost. Those skills can be activated by declaring them.
+8-1-3-1-2. Some [Activate] skills of Extra Cards do not have skill costs. Those skills can be activated by paying the Extra Card’s energy cost. Such skills are described on card text in the following formats: “[Activate: Main] effect” or “[Activate: Battle] effect.”
+8-1-4. [Permanent] skills are skills that constantly have some kind of effect on gameplay while they are active.
+8-1-4-1. 8-1-4-2. [Permanent] skills are described on card text in the following format: “[Permanent] (effect).”
+8-1-4-2. If some effect renders a certain target/object of a [Permanent] skills invalid of being a target/object of that skill, it cannot become the target/object of that same [permanent] skill for the duration of the turn.
+8-1-5. An [Auto] skill automatically activates when the event specified by the skill occurs during the game.
+8-1-5-1. [Auto] skills are described on card text in the following formats: “[Auto] When (condition) do (effect)” or “[Auto] At the beginning of the (phase or step), do (effect)” or “[Auto] At the end of the (phase or step), do (effect).” The (condition) and (phase or step) parts are called trigger conditions.
+
+8-2. Effects
+8-2-1. Effects are the actual details of the orders given to players by skills.
+8-2-2. Effects can be divided into immediate effects, continuous effects, and replacement effects.
+8-2-2-1. The directions of immediate effects are carried out and end during the resolution of the effect. The effects of skills such as “Draw 1 card” or “Place this card in the Drop Area” are immediate effects.
+8-2-2-2. Continuous effects last for a specific amount of time (including effects that don’t specify how long, such as “during the game” effects) during the game. The effects of skills such as “During the battle, this card gains +5000 power” are continuous effects.
+8-2-2-3. Replacement effects replace certain events during the game with the event specified in the effect.
+8-2-2-3-1. The effect of a skill directing to “When doing A, do B instead” is a replacement effect.
+
+8-3. Valid and Negated Skills
+8-3-1. Some effect may render other specific effects valid or invalid. In such an occasion, follow the procedure below.
+8-3-2. If an effect specifies that some effect is partially or totally negated under specific conditions, the negated effect (under those conditions) is recognized as a skill but their effects cannot be activated. If the negated effect requests a choice, the choice itself is not made.
+8-3-3. If some effect is specified as partially or totally valid under specific conditions, that part is negated if the specific conditions are not fulfilled.
+
+8-4. Skill Cost
+8-4-1. An [Activate] skill may have certain actions specified before a colon. Those actions are called skill costs.
+8-4-2. “To pay the skill cost” means to “carry out the action specified in the skill cost.”
+8-4-2-1. If a single skill cost includes multiple actions, carry them out from the beginning of the text.
+8-4-2-2. If a player cannot pay a part or all of a skill cost, that means the player cannot pay the cost at all.
+8-4-2-3. Some skill costs are described with symbols such as ①. This means to choose and switch that many of your energy to Rest Mode.
+8-4-2-4. Some skill costs are described with colored spheres. This means to choose and switch that many of your energy of that color to Rest Mode.
+
+8-5. Activating and Resolving
+8-5-1. [Activate], [Auto], [Awaken], and cards in a player’s hand are resolved by activating them, triggering their effects. [Permanent] skills do not activate; their effects are constantly active.
+8-5-2. Activate skills following the procedure below.
+8-5-2-1. The player specifies which skill they wish to activate. If they wish to activate the skill of a card in their hand, they reveal that card.
+8-5-2-2. If there is a necessary skill cost, determine that cost and they pay it entirely.
+8-5-2-2-1. When activating Extra Card skills, they determine the Extra Card’s cost and pay it.
+8-5-2-3. The skill is activated.
+8-5-2-4. A counter timing occurs.
+8-5-2-5. Resolve the skill.
+8-5-2-5-1. If a player activated an Extra Card skill, place the card in the Drop Area and carry out the skill’s effect.
+8-5-2-5-2. If a player activated the [Activate] or [Auto] of a card in the Leader Area, Battle Area, or Combo Area, carry out the skill’s effect.
+8-5-2-6. A counter timing occurs.
+8-5-3. If the skill describes to “choose...” choose the indicated target card or player (target) when required to do so during the resolution of the skill.
+8-5-3-1. If the number of targets a player chooses is specified, they must choose as close a number to that number as possible. They cannot purposefully choose fewer targets than the specified number.
+8-5-3-2. If the number is specified as “up to...” or “...or less,” they can select any number of targets from 0 to the specified number.
+8-5-3-3. If the number of targets is specified, but some of the targets cannot be chosen, the player chooses as many targets as possible and resolves the specified effect against them.
+8-5-3-4. If the number of targets is specified, but none of the targets can be chosen, no targets are chosen. All effects concerning those targets are ignored.
+8-5-3-5. If the specified target is a card in a secret area, and if the choice requires information of the card, players cannot guarantee that the target is a card that meets the required conditions. Thus, a player can decide not to choose a card from a secret area, even if it may fulfill the conditions.
+8-5-3-6. If the text does not specify a target, the following rules apply: if the effect concerns a card, it is targeting the source of the effect, or if the effect concerns a player it is targeting the master of the effect.
+8-5-3-7. When choosing a card from a deck, search while viewing the front face of the deck, then select the specified card from within.
+8-5-4. Unless specified otherwise, if the text refers to a “Battle Card,” it’s referring to a Battle Card in the Battle Area.
+8-5-5. If the text refers to an “Energy Card,” it’s referring to a card placed in the Energy Area.
+8-5-6. If the text refers to “Life,” it’s referring to a card placed in the Life Area.
+
+8-6. Resolving [Auto] Skills
+8-6-1. [Auto] skills are skills that automatically activate at the checkpoint which occurs when a specific trigger condition occurs.
+8-6-2. When the trigger condition of an [Auto] skill is fulfilled, that [Auto] skill is made pending.
+8-6-3. Unless specified otherwise, if the trigger condition of a [Auto] skill is fulfilled multiple times, that [Auto] skill is made pending that many times.
+8-6-4. When a checkpoint occurs, a player being requested to activate an [Auto] skill chooses 1 pending [Auto] which they are the master of and activates it. After resolving the activated skill, decrease the number of those pending [Auto] skills (of that skill) by 1.
+8-6-4-1. If for some reason the chosen pending [Auto] skill cannot be chosen, cancel 1 of those pending [Auto] skills (of that skill).
+8-6-5. There are [Auto] skills for which the trigger condition is a card moving areas. This is called an area movement trigger.
+8-6-5-1. An [Auto] skill activated by an area movement trigger may request information of the card that triggered the skill. In cases like these, track the information following the procedure below.
+8-6-5-1-1. If an [Auto] skill triggered by the movement of a card/cards from an open area to a secret area (or vice versa) requests information of the card, use the information of the card as it was/is in the open area.
+8-6-5-1-2. If an [Auto] skill triggered by the movement of a card/cards in the Battle Area to any other area or an [Auto] skill concerning the inter-player area movement requests information of the card, use the information of the card as it was/is in the Battle Area.
+8-6-5-1-3. If an [Auto] skill (other than those described in 8-6-5-1-2) triggered by the movement of a card/cards from an open area to an open area requests information of the card, use the information of the card as it is in the new area.
+8-6-6. An [Auto] may have a trigger condition of not a specific event but the fulfillment of a certain condition (example: When there are no cards in a player’s hand...). These kinds of conditions are called situation triggers.
+8-6-6-1. A situation trigger is made pending (only once) when the specified situation occurs. After this [Auto] skill is resolved, if the trigger condition is to be fulfilled once again, the skill too is put into pending once again unless specified otherwise.
+8-6-7. If a pending [Auto] skill activates, yet the card with that skill is no longer in the same area, or if the skill has been negated, the player must still resolve that [Auto] skill. However, if the effect of that [Auto] skill has become impossible to carry out due to the change of areas, the effect fails to resolve.
+
+8-7. Processing Immediate Effects
+8-7-1. If a player is requested to carry out an immediate effect, they must carry out the specified action at once.
+
+8-8. Processing Continuous Effects
+8-8-1. When information of a card is requested while some continuous effect is active, follow the procedure below to apply the continuous effect to that information.
+8-8-1-1. The information specified on a card itself will always be base reference for information.
+8-8-1-2. Next, apply all continuous effects except for effects that rewrite numerical information.
+8-8-1-3. Then, apply all continuous effects which rewrite numerical information.
+8-8-1-4. All continuous effects except for those generated by [Permanent] skills are not applied to cards that have moved to different areas from the Leader Area or Battle Area after the effect was resolved.
+8-8-1-5. Continuous effects that rewrite the information of cards in specific areas are applied immediately as cards enter that area.
+8-8-1-5-1. An [Auto] skill triggered by a card with specific information entering an area checks the said information after any continuous effects are applied to the area.
+
+8-9. Processing Replacement Effects
+8-9-1. If a replacement effect is active, the specified event is not processed when it occurs, and the event specified by the replacement effect is processed instead.
+8-9-1-1. Thus, the original event is treated as if it never happened.
+8-9-2. If there are multiple replacement effects concerning a single event, the player affected by the event decides which replacement effect to activate.
+8-9-2-1. If cards or skills are the subject of the replacement, the master of those cards or skills makes the choice.
+8-9-2-2. If actions during the game are the subject of the replacement, the player carrying out action or the master of the target card of the action makes the choice.
+8-9-2-3. Each replacement effect can only be applied once for the same subject event.
+8-9-3. If the replacement effect is a voluntary replacement effect (when X, you can do X instead. If so, do X), and a player is unable to make that choice, they cannot apply the replacement effect.
+
+8-10. The Final Information of a Card
+8-10-1. If some effect is referring to a specific card’s information or state, and if the card is moving from one area to another during the processing of the effect, the effect refers to the card’s information as it is in the final area to which it moved.
+
+
+9. Rule Processing
+
+9-1. Fundamental Rules
+9-1-1. Rule processing is a general term referring to various automatic processing by the rules for specific events throughout the game.
+9-1-2. Rule processing can be widely divided into interruptive rule processing and confirmative rule processing.
+9-1-2-1. Interruptive rule processing is immediately resolved when it occurs, even while carrying out other actions.
+9-1-2-2. Confirmative rule processing is carried out only during checkpoints and counter timing, and only if the conditions are fulfilled. Even if the conditions are fulfilled during another action, if the condition is not fulfilled during the checkpoint or counter timing the rule processing is not carried out.
+9-1-2-3. If multiple confirmative rule processing requests are made at the same time, carry them out simultaneously.
+
+9-2. Loss Judgement Processing
+9-2-1. Loss judgement processing is interruptive rule processing.
+9-2-2. At the beginning of rule processing, if any player fulfills the loss conditions below, all of those players lose the game.
+9-2-3. If any of the players has no cards in their Life Area, that player has fulfilled the loss conditions.
+9-2-4. If any of the players has no cards in their deck, that player has fulfilled the loss conditions.
+
+9-3. Invalid Combo Processing
+9-3-1. Invalid combo processing is confirmative rule processing.
+9-3-2. If a Battle Card/Cards is placed in the Combo Area at any other timing than battle, place all of those cards in their player’s Drop Area.
+
+9-4. Processes for when placed on top of specific cards.
+9-4-1. Placing card(s) on top of specific card(s) is interruptive rule processing.
+9-4-2. When a new card is placed on an existing card either in the Battle Area or Leader Area, continuous effects regarding additions/subtractions to the card’s power and position of the existing card are carried over to the card placed on top of it.
+
+9-5. Processing when a Battle Card’s power drops to 0 or below.
+9-5-1. Confirmative rules processing is used when a Battle Card’s power drops to 0 or below.
+9-5-2. If a Battle Card’s power drops to 0 or below, that card is placed in its owner’s Drop Area
+9-5-2-1. After an effect causes a card’s power to change, if that Battle Card’s power drops to 0 or below and is placed in its owner’s Drop Area as a result of rules processing dictating Battle Cards be placed in Drop Areas when their power drops to 0 or below, that Battle Card is considered to have been placed in its owner’s Drop Area by that effect.
+
+
+10. Keywords and Keyword Skills
+
+10-1. KO
+10-1-1. KO refers to the act of moving a Battle Card from the Battle Area to its owner’s Drop Area.
+10-1-2. A card is only KO-ed when an effect says to “KO” a card, or because of a rule that specifies to KO a card. Battle Cards in an owner’s Drop Area that were placed there for other reasons weren’t necessarily “KO”-ed.
+
+10-2. [Awaken]
+10-2-1. [Awaken] is an [Activate] skill that players can activate by fulfilling conditions and paying associated costs.
+10-2-2. [Awaken] is described as follows: “[Awaken] (condition) (effect).”
+10-2-3. A card for which [Awaken] is activated is turned over, but is treated as the same card.
+10-2-3-1. “The same card” means that the card is 1 card with different information on the front and back.
+10-2-4. If a card is turned over due to [Awaken], it is still treated as the same card.
+10-2-4-1. “The same card” means that the card is 1 card with different information on the front and back.
+10-2-5. When a card’s facing is flipped due to [Awaken], the card’s pre-flipped position and any continuous effects affecting the card’s power are carried over.
+
+10-3. [Field]
+10-3-1. [Field] is an [Activate: Main] effect of Extra Cards that reads “Place this card in the Battle Area in Active Mode.”
+10-3-2. Extra Cards with [Field] may have skills other than [Field]. Those skills are generally only valid when the card is placed in the Battle Area, and they are activated/active without placing the card in the Drop Area (if not specified otherwise).
+10-3-3. When activating another [Field] effect, after it resolves, all other Extra Cards with [Field] in a player’s Battle Area other than the one they activated are placed in the Drop Area.
+
+10-4. [Blocker]
+10-4-1. [Blocker] is an [Auto] keyword skill which is activated by switching the card to Rest Mode when any other of a player’s cards is attacked. When activated, switch the guard card of the attack to the card which activated [Blocker].
+10-4-2. “Negate [Blocker]” is a special procedure in which the target of the attack is switched back to the original target.
+
+10-5. [Evolve] ([EX-Evolve] [Xeno-Evolve])
+10-5-1. [Evolve] ([EX-Evolve] [Xeno-Evolve]) is an [Activate: Main] keyword skill that can be activated by paying the skill cost and choosing a Battle Card(s) of the specified name fulfilling the specified conditions in play in your Battle Area. If a player cannot choose the specified Battle Card, they cannot activate [Evolve] ([EX-Evolve] [Xeno-Evolve]).
+10-5-2. [Evolve] ([EX-Evolve] [Xeno-Evolve]) can only be activated from a player’s hand.
+10-5-3. [Evolve] ([EX-Evolve] [Xeno-Evolve]) is described as the following: [Evolve] ([EX-Evolve] [Xeno-Evolve]): skill cost condition <character name>
+10-5-3-1. Sometimes conditions are not specified. In these cases, no condition is required.
+10-5-4. A card which activated [Evolve] ([EX-Evolve] ) is played on top of the Battle Card chosen in 10-5-1. Henceforth, the whole stack of cards is treated as 1 card, but the position and any effects affecting the prior card’s power are carried on.
+10-5-5. A card which activated [Xeno-Evolve] is played in Active Mode after sending the Battle Card chosen in 10-5-1. to its owner’s Warp.
+10-5-6. When a card says to “evolve” it means to play the card as if you were to play it with [Evolve] ([EX-Evolve] [Xeno-Evolve]).
+10-5-7. When a card says “evolved” it means a card that was played with [Evolve] ([EX-Evolve] [Xeno-Evolve]).
+
+10-6. [Critical]
+10-6-1. [Critical] is a [Permanent] effect which is described, “When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.”
+
+10-7. [Strike]
+10-7-1. [Strike] is a [Permanent] skill which is described, “When this card attacks, if it deals x-1 damage, this card inflicts X damage instead.”
+10-7-1-1. The X of [Double Strike] is 2.
+10-7-1-2. The X of [Triple Strike] is 3.
+10-7-1-3. The X of [Quadruple Strike] is 4.
+
+10-8. [Dual Attack] ([X Attack])
+10-8-1. [Dual Attack] is an [Once per turn] [Auto] skill which is described, “When this card attacks, switch this card to Active Mode after the battle.” The skill activates X-1 times per turn.
+10-8-1-1. The X of [Dual Attack] is 2.
+10-8-1-2. The X of [Triple Attack] is 3.
+
+10-9. [Revenge]
+10-9-1. [Revenge] is an [Auto] skill which is described, “At the end of the battle when this card is attacked by a Battle Card, or when this card is KO-ed in battle by a Battle Card, KO the opponent’s card after the battle.”
+
+10-10. [Counter]
+10-10-1. [Counter] is a keyword skill that can be activated only at counter timing by paying its energy and skill cost.
+10-10-2. [Counter] can only be activated from a player’s hand.
+10-10-3. [Counter] is described as follows: “[Counter: Activation condition] Skill cost: Effect.”
+10-10-3-1. [Counter: Play] skills enter pending when the opponent pays the energy cost and declares to play a card, when the opponent activates a skill that has descriptions such as “Play” or “When played,” or after the opponent resolves an effect that has descriptions such as “Play” or “When played.”
+10-10-3-2. [Counter: Attack] skills enter pending when the opponent declares an attack or when the opponent activates or resolves a skill that has descriptions such as “Attack” or “When attacking.”
+10-10-3-3. [Counter: Counter] skills enter pending when the opponent activates of a [Counter] skill.
+10-10-3-4. [Counter] skills leave pending when a player activates the [Counter] or when counter timing ends.
+10-10-4. Cards which activated [Counter] are placed in the Drop Area (if not specified otherwise).
+10-10-5. “Negate [Counter]” refers to preventing the effect from an already active [Counter] skill from resolving.
+
+10-11. [Once per Turn]
+10-11-1. [Once per turn] is a keyword that specifies an [Auto] or [Activate] skill can only be activated once during a turn.
+10-11-2. The “once per turn” limitation is set individually for each skill. If there are multiple cards with the same “once per turn” skill, they can each be activated once during a turn.
+10-11-3. Skills without “once per turn” limitations can be activated as many times as a player wishes, as long as they can pay the skill cost and the conditions are fulfilled.
+10-11-4. When an [Auto] skill with [Once per turn] enters pending simultaneously multiple times, only one of the skills is resolved, and the rest are nullified.
+10-11-5. After a skill with [Once per turn] is resolved once, it won’t be triggered for the rest of the turn even if its cost and conditions are fulfilled, and can’t be activated.
+
+10-12. [Indestructible]
+10-12-1. [Indestructible] is a [Permanent] keyword skill. Cards with [Indestructible] cannot be KO-ed nor can be removed from the Battle Area by card Skills of the owner's opponent or battle results.
+
+10-13. [Union]
+10-13-1. [Union] is a shorthand for a subset of skills that play Battle Cards from specific areas when certain costs and conditions are met.
+10-13-2. [Union] skills are generally formatted [Union-X].
+10-13-3. [Union-Fusion]
+10-13-3-1. [Union-Fusion] is an [Activate: Main] keyword skill that can be activated when a player has one of each specified character’s Battle Cards in their hand, and each Battle Card’s power is equal.
+10-13-3-2. [Union-Fusion] can only be activated from a player’s hand.
+10-13-3-3. [Union-Fusion] is described in [Union-Fusion] skill cost: <Character Name A> and <Character Name B>.
+10-13-3-4. When activating [Union-Fusion], players place 1 each of the specified Battle Cards with the same power from their hand in the Drop Area and play the Battle Card in Active Mode.
+10-13-4. [Union-Potara]
+10-13-4-1. [Union-Potara] is an [Activate: Main] keyword skill that can be activated by paying a skill cost and choosing each specified character’s Battle Card is in the Battle Area. If the player cannot choose all of the specified Battle Cards, they cannot activate [Union-Potara].
+10-13-4-2. [Union-Potara] can only be activated from a player’s hand.
+10-13-4-3. [Union-Potara] is described as “[Union-Potara] Skill Cost] <Character Name A> and <Character Name B>.”
+10-13-4-4. Cards that activate [Union-Potara] are placed on top of the two Battle Cards chosen in 10-14-1, and appear in Activate Mode.
+10-13-4-4-1. All permanent effects affecting power on each of the below Battle Cards carries over.
+10-13-5. [Union-Absorb]
+10-13-5-1. [Union-Absorb] is an [Activate: Main] keyword skill that can be activated by placing specified cards from specified areas onto cards that have activated [Union-Absorb].
+10-13-5-2. [Union-Absorb] can be activated from the Battle Area.
+10-13-5-3. [Union-Absorb] is described as “[Union-Absorb] Skill Cost: Effect.”
+10-13-5-4. Place the card chosen in 10-15-1. on top of the Battle Card which activated [Union-Absorb].
+10-13-5-4-1. All permanent effects affecting power on each of the below Battle Cards carries over, along with their position (Active or Rest Mode).
+
+10-14. [Ultimate]
+10-14-1. [Ultimate] is a [Permanent] keyword skill related to deck construction. A player may only have one card with [Ultimate] in their deck.
+
+10-15. [Over Realm] ([Over Realm X])
+10-15-1. [Over Realm] is an [Activate: Main] keyword skill that can be activated when a player has X or more cards in thieir Drop Area.
+10-15-2. [Over Realm] is described as follows: “[Over Realm X] skill cost.”
+10-15-3. When a player activates [Over Realm] when it’s in their hand, they can play the card with [Over Realm] by sending all cards in their Drop Area to their Warp.
+10-15-4. If the card played with [Over Realm] is still in the Battle Area at the end of the turn it was played with [Over Realm], it is sent to the Warp.
+10-15-5. [Over Realm] and [Dark Over Realm] can only be activated a combined total of once per turn.
+
+10-16. [Barrier]
+10-16-1. [Barrier] is a permanent keyword skill that reads “This card can't be chosen by the skills of your opponent's cards.”
+
+10-17. [Super Combo] is a permanent keyword skill affecting deck construction that states “When including cards with [Super Combo] in a deck, you can only include four cards total with [Super Combo].”
+
+10-18. Token
+10-18-1. A token is a Battle Card created by the ability processing of cards.
+10-18-2. Tokens have the same information as cards. When referencing the token’s information for skills, etc., refer to the specified information of the effect when creating the token.
+10-18-3. If nothing is particularly specified, the token appears in the Battle Area of the Owner of the effect that created the Token.
+10-18-4. When creating a ‘(Name) Token,’ the token will have the same name as the (Name).
+10-18-5. Unless particularly regulated by rules, tokens will be dealt with similarly as cards.
+10-18-6. When selecting a card from a specific area, a player may also select a token. Similarly, when effects are applied to cards in a specific area, the effect will also be applied to tokens.
+10-18-7. When tokens are moved from the Battle Area or Combo Area to different areas, remove the token from its current area. The token will no longer exist in any areas of the game.
+
+10-19. Remove from the game
+10-19-1. Remove from the game means to remove specified cards outside of the game.
+10-19-2. Cards removed from the game do not exist in any areas.
+10-19-3. Cards removed from the game must be faced up, and open to all players to see.
+
+10-20. [Victory Strike]
+10-20-1. [Victory Strike] is a [Permanent] keyword skill that reads, “When you deal life damage by attacking with this card, you win the game.”
+
+10-21. [Warrior of Universe 7]
+10-21-1. [Warrior of Universe 7] is a [Permanent] keyword skill that reads, “Treat 《Universe 7》 in all areas as if they had no specified cost.”
+
+10-22. [Deflect]
+10-22-1. [Deflect] is a [Permanent] keyword skill that reads, “This card isn't affected by [Counter : Play] skills.”
+10-22-2. [Deflect] remains in effect in the time between when a player announces they’re going to play a Battle Card with [Deflect] to the Battle Card actually coming into play.
+10-22-3. [Deflect] remains in effect when a Battle Card with [Deflect] is played with a skill.
+
+10-23. [Bond] ([Bond X])
+10-23-1. [Bond] is a keyword skill that only allows skills with [Bond] to take effect when you have X or more Battle Cards in your Battle Area.
+10-23-2. [Bond] skills are written as either “[Bond X]” or “[Bond X] Specified Battle Card”.
+10-23-2-1. If a specified Battle Card is mentioned, the skill with [Bond] only takes effect when you have X or more of the specified Battle Cards in your Battle Area.
+
+10-24. [Swap] ([Swap X])
+10-24-1. [Swap] is an [Activate : Main] keyword skill.
+10-24-2. [Swap] is described as follows: “[Swap X] skill cost: specified Battle Card with energy cost X.”
+10-24-3. When activating [Swap], choose up to 1 specified Battle Card from your hand with an energy cost of X and play it, then return the Battle Card that activated [Swap] to its owner’s hand.
+
+10-25. [Dark Over Realm] ([Dark Over Realm X])
+10-25-1. [Dark Over Realm] is an [Activate : Main] keyword skill that can be activated when you have X or more black cards in your Drop Area.
+10-25-2. [Dark Over Realm] is described as follows: “[Dark Over Realm X] skill cost.”
+10-25-3. [Dark Over Realm] can be activated from your hand, sending all of the cards in your Drop Area to your Warp and putting the card with [Dark Over Realm] into play.
+10-25-4. [Over Realm] and [Dark Over Realm] can only be activated a combined total of once per turn.
+
+10-26. [Wormhole]
+10-26-1. [Wormhole] is a [Permanent] keyword skill that reads “(You can activate [Over Realm] and [Dark Over Realm] up to a total of 2 times a turn.)”
+
+10-27. “Choose X”
+10-27-1. Some [Activate] and [Auto] skills allow you to choose one or more options from a list of effects to activate.
+10-27-2. Choose X skills break up each of the selectable options with bullet points ( ・)
+10-27-3. When choosing multiple effects, the player activating the skill chooses which effects they want to activate and in what order.
+
+10-28. [Wish]
+10-28-1. [Wish] is a keyword skill that can be activated by meeting conditions and paying costs.
+10-28-2. [Wish] is described as follows: “[Wish] condition: (effect)”
+10-28-3. A card for which [Wish] is activated is flipped over to its back side, but is treated as the same card.
+10-28-3-1. “The same card” means that the card is 1 card with different information on the front and back.
+10-28-4. If a card is flipped to it’s front side due to [Wish], it is still treated as the same card..
+10-28-5. When a card’s facing is flipped due to [Wish], the card’s pre-flipped position and any continuous effects affecting the card’s power are carried over.
+
+10-29. [Sparking]
+10-29-1. [Sparking] is a keyword skill that modifies other skills, preventing them from activating unless the number of cards in their owner’s Drop Area is greater than or equal to a specified number.
+10-29-2. [Sparking] is described as follows: “[Sparking X].”
+
+10-30. [Burst]
+10-30-1. A skill with [Burst] can only be activated if its owner chooses to place the specified number of cards from the top of their deck into their Drop Area.
+10-30-2. [Burst] is described as follows: “[Burst X].”
+
+10-31. [Dragon Ball]
+10-31-1. [Dragon Ball] is a keyword skill that has a permanent effect on deckbuilding, which reads as follows: “You can include as many copies of cards with [Dragon Ball] in your deck as you like, as long as the total number doesn't exceed 7.”
+
+10-32. Infinite Loop
+10-32-1. When carrying out some processes, there may be some occasions where an action can be or must be carried out infinitely. This is called an infinite loop, and 1 cycle of action from the start to the end of loop is called a loop action. If such an event occurs, follow the procedure below.
+10-32-1-1. If neither player can stop that infinite loop, the game ends as draw.
+10-32-1-2. If only one player has the choice to stop the infinite loop within the loop action, that player declares how many times they wish to carry out the loop action. Carry out the loop action that many times and finish it at the timing with which that player can make a choice to stop the infinite loop. The player cannot choose to restart the loop even if in the exactly same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
+10-32-1-3. If both players have the choice to stop the infinite loop within the loop action, the turn player first decides how many times they wish to carry out the loop action. Then the non-turn player decides how many times they wish to carry out the loop action. Carry out the loop action the fewer amount of times declared by the players and finish it at the timing which that player can make a choice to stop the infinite loop. The player that decided on a larger number cannot choose to restart the loop even if in the exact same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
+
+10-33. Revealing Cards
+10-33-1. When moving cards from a Secret Area to another Secret Area in certain conditions, such as “Add <Son Goku> from the deck to your hand,” moved cards must be revealed, even when there is no direction that specifically states so.
+
+
+11. Other
+
+11-3. Cards on the Bottom
+11-3-1. Depending on Skills, etc., cards in the Battle Area, Combo Area, and Leader Area, may have cards placed on top or below them.
+11-3-2. The Skills of cards placed beneath specific cards will be nullified, and will be treated as the same card as the card placed on top of it as a single card.
+11-3-2-1. When referring to cards placed under other cards, those cards are treated as different cards from the card placed on top of them.
+11-3-3. When new cards are placed underneath cards with a card already underneath it, the new card will be placed on the very bottom.
+11-3-4. When cards are moved from the Battle Area to anywhere else than the Combo Area, or if cards are moved from the Combo Area to anywhere else than the Battle Area, cards underneath that card will be moved from its original area to the Drop Area. During this time, the bottom card’s [Auto] abilities, triggered by Area Movement, do not activate.
+11-3-5. When a specific card is moved from one player’s area to another player’s area, all of the cards placed beneath the card move with it.
+11-3-6. When only the card on top is to be moved, the bottom card will not move from the area where the card on top was in, and will gain any effects concerning additions/subtractions to the top card’s power and its position.
+
+10-4. Send to the Warp
+10-4-1. Sending a card to the Warp means to place the specified card face up in its Owner’s Warp.
+
+10-5. Gain Control
+10-5-1. To gain control of a card means to move a player’s card to the area of the skill’s owner and become its master.
+10-5-1-1. A card retains its original positioning after you gain control of it. Any effects in place on the card remain as well.
