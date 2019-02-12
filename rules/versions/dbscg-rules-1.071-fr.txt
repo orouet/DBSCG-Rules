@@ -1,0 +1,762 @@
+DRAGON BALL SUPER Jeu de cartes à collectionner / Règles officielles
+Version 1.071
+Dernière mise à jour : 12/12/2018
+
+
+Sommaire
+1. Généralités
+2. Informations des cartes
+3. Zones de jeu
+4. Vocabulaire de base
+5. Préparations de jeu
+6. Progression du jeu
+7. Combat et attaque des cartes
+8. Activation et résolution des Capacités
+9. Application de règle
+10. Mots-clefs et Capacités-clefs
+11. Autres
+
+
+1. Généralités
+
+1-1. Nombre de joueurs
+1-1-1. Ce jeu est un jeu mettant deux joueurs en confrontation. Il n’existe à l’heure actuelle aucune règle officielle pour des parties à trois joueurs ou plus.
+
+1-2. Conditions de victoire
+1-2-1. La partie s’achève lorsque l’un des joueurs perd. Quand l’adversaire d’un joueur perd la partie mais que ce joueur ne perd pas, la victoire revient à ce dernier.
+1-2-1-1. Les conditions de défaite d’une partie sont au nombre de deux :
+1-2-1-1-1. Nombre de cartes dans votre Zone de Vie égal à zéro.
+1-2-1-1-2. Nombre de cartes dans votre Zone du Deck égal à zéro.
+1-2-2. Quand l’un des deux joueurs remplit une de ces conditions de défaite, il perd la partie via l’application de règle correspondante au moment de l’application de règle suivante.
+1-2-2-1. Durant une partie, quand un des deux joueurs voit le nombre de ses cartes dans sa Zone de Vie passer à zéro, il remplit une condition de défaite.
+1-2-2-1. Durant une partie, quand un des deux joueurs voit le nombre de ses cartes dans sa Zone du Deck passer à zéro, il remplit une condition de défaite.
+1-2-3. Quand tous les joueurs remplissent simultanément une condition de défaite, la partie se termine sur un match nul.
+1-2-4. Les joueurs peuvent abandonner la partie à n’importe quel moment de leur choix. Un joueur abandonnant la partie perd immédiatement, mettant ainsi fin au jeu.
+1-2-5. L’abandon ne peut être influencé par aucune carte. Il est également impossible de forcer un joueur à abandonner via l’effets de cartes, de même que la défaite par abandon n’est sujette à aucun effet de remplacement.
+1-2-6. Certains effets de carte font gagner ou perdre l’un des joueurs. Ces effets font immédiatement gagner ou perdre le joueur sans attendre le point de contrôle suivant et mettent fin à la partie lors de leur application.
+
+1-3. Principes fondamentaux
+1-3-1. Lorsque le texte d’une carte contredit directement les règles officielles, c’est le texte de la carte qui l’emporte.
+1-3-2. S’il est demandé à un joueur pour n’importe quelle raison d’effectuer une action impossible, cette action ne sera pas réalisée. De même, si un effet demande à un joueur de réaliser une série d’actions, et que certaines de ces actions sont impossibles à réaliser, seules les actions possibles seront réalisées.
+1-3-2-1. Si une action vous demande de changer l’état de quelque chose se trouvant déjà dans l’état demandé, l’état de ce quelque chose ne se modifiera pas à nouveau et l’action ne sera pas réalisée.
+1-3-2-2. Si pour une raison quelconque, une action doit être effectuée zéro fois ou un nombre de fois négatif, cette action ne sera pas réalisée. Un nombre négatif d’action ne permet pas de réaliser l’action de façon inverse.
+1-3-3. Si l’effet d’une carte ordonne à un joueur de réaliser une certaine action, mais que dans le même temps un autre effet interdit cette action, c’est toujours l’effet interdisant l’action qui l’emporte et l’action ne sera pas réalisée.
+1-3-4. Si pour une raison quelconque, il est demandé à plusieurs joueurs de réaliser un certain choix simultanément, c’est le joueur actif qui fait son choix en premier. Le joueur non-actif fait son choix après.
+1-3-5. Si un effet de cartes ou de règles demande à choisir un nombre et qu’aucune instruction n’est donnée, ce nombre doit être un nombre entier supérieur à zéro. Il n’est pas possible de choisir un nombre inférieur à un, négatif ou fractionnaire.
+1-3-5-1. Lorsqu’une carte ou une règle indique un nombre maximum avec « jusqu’à… », tant qu’il n’y a pas d’indication sur le nombre minimum, il est possible de choisir le nombre zéro.
+1-3-6. Si l’effet d’une carte modifie les informations d’une autre carte, tant qu’il n’y a pas d’indications ou de définitions dans les règles, les nombres sur les cartes ne peuvent pas devenir des nombres fractionnaires inférieurs à un. Si ces nombres (autres que la puissance) deviennent négatifs, ils sont traités comme zéro (sauf quand ils sont sujets à des augmentations ou des diminutions ultérieures.).
+1-3-7. Sauf indication contraire, les effets d’une carte sont effectués dans l’ordre inscrit sur la carte.
+
+
+2. Informations des cartes
+
+2-1. Nom de la carte
+2-1-1. Nom propre à la carte.
+2-1-2. Certains textes indiquent un nom à l’intérieur des signes { } sans indication sur la nature de l’information. Ces textes indiquent le nom des cartes.
+
+2-2. Illustration
+2-2-1. Dessin illustrant le contenu de la carte.
+2-2-2. Les illustrations n’ont aucune influence sur le jeu.
+
+2-3. Type de la carte
+2-3-1. Information indiquant le type de la carte.
+2-3-2. Il existe trois types de carte : les « cartes Leaders », les « cartes de Combat » et les « cartes Extra ».
+2-3-2-1. Les cartes de type « Leader » sont placées dans la Zone du Leader.
+2-3-2-1-1. Si le texte d’une carte fait référence à un « Leader » ou une « carte Leader », il indique une carte de type « Leader » placée dans la Zone du Leader.
+2-3-2-1-2. Les cartes Leaders possèdent des inscriptions sur leur face et leur dos. Durant le jeu, seules les inscriptions du côté visible sont valides. Les inscriptions du côté caché sont considérées comme inexistantes.
+2-3-2-1-3. Quand une carte est de dos, toutes les inscriptions de son dos sont valides mais les inscriptions de sa face deviennent invalides.
+2-3-2-2. Les cartes de type « Combat » sont des cartes principalement placées dans la Zone de Combat et la Zone de Combo.
+2-3-2-2-1. Si le texte d’une carte fait référence à une « carte de Combat », il indique une carte de type « Combat ».
+2-3-2-3. Les cartes de type « Extra » sont des cartes qui peuvent être activées en étant placées dans la Zone de Dispersion depuis la main.
+2-3-2-3-1. Si le texte d’une carte fait référence à une « carte Extra », il indique une carte de type « Extra ».
+
+2-4. Couleur
+2-4-1. Information indiquant la couleur de la carte. La couleur d’une carte peut être mentionnée dans le texte ou le coût d’une carte.
+2-4-1-1. Il existe cinq couleurs : rouge, bleu, vert, jaune et noir.
+
+2-5. Nom du personnage
+2-5-1. Information indiquant le nom du personnage de la carte.
+2-5-2. Cette information n’a aucune influence sur le jeu, mais peut être mentionnée dans le texte d’une carte.
+2-5-3. Certains textes indiquent un nom à l’intérieur des signes < > sans indication sur la nature de l’information. Ces textes indiquent le nom des personnages.
+2-5-4. Seules les cartes Leaders et les cartes de Combat possèdent des noms de personnages.
+
+2-6. Origine
+2-6-1. Information indiquant l’origine de la carte.
+2-6-2. Cette information n’a aucune influence sur le jeu, mais peut être mentionnée dans le texte d’une carte.
+2-6-3. Une carte peut posséder plusieurs origines. Ces origines sont séparées par un « / ».
+2-6-4. Certains textes indiquent un nom à l’intérieur des signes《》sans indication sur la nature de l’information. Ces textes indiquent l’origine des cartes.
+2-6-5. Seules les cartes Leaders et les cartes de Combat possèdent une/des origines.
+
+2-7. Ère
+2-7-1. Information indiquant le nom de la saga ou de l’histoire dans laquelle le personnage apparaît.
+2-7-2. Cette information n’a aucune influence sur le jeu, mais peut être mentionnée dans le texte d’une carte.
+2-7-3. Seules les cartes Leaders et les cartes de Combat possèdent une indication d’ère.
+
+2-8. Puissance
+2-8-1. Information indiquant la puissance en combat d’une carte. Consultez le paragraphe 7 « Combat et attaque des cartes » pour les détails.
+2-8-2. Seules les cartes Leaders et les cartes de Combat possèdent une puissance.
+2-8-3. Les effets altérant la puissance d’une carte peuvent la réduire à moins de zéro (valeurs négatives).
+
+2-9. Puissance de Combo
+2-9-1. Information indiquant la puissance additionnée par cette carte lors d’une Combo. Consultez le paragraphe 7 « Combat et attaque des cartes » pour les détails.
+2-9-2. Seules les cartes de Combat possèdent une puissance de Combo.
+
+2-10. Coût de Combo
+2-10-1. Chiffre indiquant le coût nécessaire pour placer cette carte depuis votre main ou votre Zone de Combat dans votre Zone de Combo. Consultez le paragraphe 7 « Combat et attaque des cartes » pour les détails.
+2-10-2. Seules les cartes de Combat possèdent un coût de Combo.
+
+2-11. Coût d’énergie
+2-11-1. Chiffre indiquant le coût nécessaire pour jouer cette carte depuis votre main ou activer sa Capacité. Le coût d’énergie est divisé en deux types : le « coût total » et le « coût de couleur ».
+2-11-1-1. Quand vous jouez une carte de Combat depuis votre main, vous révélez tout d’abord cette carte depuis votre main, vous choisissez ensuite le nombre de cartes dans votre Zone d’Énergie correspondant au coût total et vous les passez en mode Inertie. Si le coût de la carte que vous voulez jouer possède un coût de couleur, les cartes que vous avez passées en mode Inertie doivent inclure autant de cartes de la couleur indiquée.
+2-11-1-1-1. Quand le coût de couleur de la carte que vous voulez jouer est plus élevé que le coût total, vous devez choisir autant de cartes dans votre Zone d’Énergie de la même couleur que le coût de couleur, et les passer en mode Inertie.
+2-11-1-2. Quand vous jouez une carte Extra depuis votre main, vous révélez tout d’abord cette carte depuis votre main, vous choisissez ensuite le nombre de cartes dans votre Zone d’Énergie correspondant au coût total et vous les passez en mode Inertie. Si le coût de la carte que vous voulez jouer possède un coût de couleur, les cartes que vous avez passées en mode Inertie doivent inclure autant de cartes de la couleur indiquée.
+2-11-1-2-1. Quand le coût de couleur de la carte Extra que vous voulez jouer est plus élevé que le coût total, vous devez choisir autant de cartes dans votre Zone d’Énergie de la même couleur que le coût de couleur, et les passer en mode Inertie.
+2-11-2. Seules les cartes de Combat et les cartes Extra possèdent un coût d’énergie.
+2-11-3. Lorsqu’un coût d’énergie est indiqué dans le texte d’une carte, il se réfère uniquement au coût total.
+2-11-3-1. Lorsqu’un coût de couleur est indiqué dans le texte d’une carte, il se réfère généralement au coût de couleur.
+
+2-12. Capacité (texte de la carte)
+2-12-1. Information indiquant la capacité propre à cette carte.
+2-12-2. Sauf indication contraire, les Capacités (texte de la carte) des cartes Leaders et des cartes de Combat sont uniquement valides dans la Zone du Leader ou dans la Zone de Combat.
+2-12-3. Certains textes possèdent des explications détaillées de Capacités-clefs ou de Capacités de cartes, rédigées entre parenthèses. Ce sont des notes explicatives. Les notes explicatives font partie du texte, mais leur objectif est de fournir l’explication d’une Capacité. Elles n’ont aucune influence sur la partie.
+2-12-4. Certains textes utilisent parfois l’expression « sans Capacité » pour désigner des cartes sans texte.
+
+2-13. Inscription des droits d’auteur
+2-13-1. Inscription indiquant les droits d’auteur de la carte.
+2-13-2. Elle n’a aucune influence sur le jeu.
+
+2-14. Rareté
+2-14-1. Indication de la rareté de la carte.
+2-14-2. Elle n’a aucune influence sur le jeu.
+
+2-15. Numéro de carte
+2-15-1. Indication du numéro de la carte.
+2-15-2. Sert de référence lors de la préparation du jeu.
+2-15-2-1. Lorsque vous vous préparez à jouer, assurez-vous que votre deck ne contient pas plus de quatre cartes avec le même numéro.
+
+2-16. Bloc
+2-16-1. Indication du bloc auquel la carte appartient.
+2-16-2. Elle n’a aucune influence sur le jeu.
+
+
+3. Zones de jeu
+
+3-1. Zones
+3-1-1. Sauf indication contraire, chaque joueur possède une de chacune des zones existantes.
+3-1-2. Le nombre des cartes présentes dans chacune des zones est une information accessible et vérifiable par tous les joueurs à tout moment.
+3-1-3. Suivant la zone, le contenu des cartes placées est parfois accessible à tous les joueurs, et parfois non. Les zones dans lesquelles les cartes sont visibles se nomment les zones ouvertes, celles dans lesquelles les cartes ne sont pas visibles se nomment les zones cachées.
+3-1-4. Quand une carte est déplacée depuis la Zone de Combat vers une zone autre que la Zone de Combo, sauf indication contraire, elle est alors considérée comme une nouvelle carte dans cette nouvelle zone. Les effets touchant cette carte dans la zone précédente ne s’appliquent plus dans la nouvelle zone.
+3-1-5. Quand une carte est déplacée depuis la Zone de Combo vers une zone autre que la Zone de Combat, sauf indication contraire, elle est alors considérée comme une nouvelle carte dans cette nouvelle zone. Les effets touchant cette carte dans la zone précédente ne s’appliquent plus dans la nouvelle zone.
+3-1-6. Quand plusieurs cartes doivent être placées simultanément dans une certaine zone, sauf indication contraire, c’est le propriétaire de ces cartes qui décide de leur ordre de placement dans cette nouvelle zone.
+3-1-6-1. Quand plusieurs cartes doivent être placées depuis une zone ouverte vers une zone cachée, et que leur propriétaire a la possibilité de choisir leur ordre de placement, les joueurs autres que le propriétaire ne peuvent pas connaître cet ordre de placement.
+3-1-7. Si une carte se voit ordonner un déplacement vers une zone dont le propriétaire n’est pas précisé, sauf indication contraire, la carte doit être déplacée dans la zone correspondante de son propriétaire.
+3-1-7-1. Si une carte, sous le contrôle d’un joueur autre que son propriétaire, se voit ordonner un déplacement vers une zone dont le propriétaire est précisé, la carte doit être déplacée dans la zone correspondante de son propriétaire.
+
+3-2. Zone du Deck
+3-2-1. Zone d’emplacement de votre deck au début de la partie.
+3-2-2. La Zone du Deck est une zone cachée. Les cartes dans cette zone sont placées de dos, et aucun des joueurs ne peut ni vérifier leur contenu ou leur ordre, ni modifier ce dernier.
+3-2-3. Quand plusieurs cartes doivent être déplacées simultanément, leur déplacement doit être effectué carte par carte.
+3-2-4. Quand vous devez mélanger votre deck, modifiez l’ordre des cartes de ce deck au hasard. C’est le joueur propriétaire du deck qui effectue cette action, peu importe le maître à l’origine de l’effet ordonnant l’action.
+
+3-3. Main
+3-3-1. Zone d’emplacement des cartes piochées par chaque joueur depuis leur deck.
+3-3-2. La main est une zone cachée, mais chaque joueur peut regarder les cartes de sa main et en changer l’ordre librement.
+3-3-3. Il est impossible de regarder le contenu des cartes de la main d’un autre joueur.
+
+3-4. Zone de Dispersion
+3-4-1. Zone d’emplacement des cartes de Combat mises KO, ou des cartes Extra ayant activé leurs Capacités. Si le texte d’une carte indique le mot « Dispersion », il indique la Zone de Dispersion.
+3-4-2. La Zone de Dispersion est une zone ouverte. Les cartes de cette zone sont superposées de face, et n’importe quel joueur peut en vérifier le contenu librement. Vous pouvez changer librement l’ordre des cartes placées dans votre Zone de Dispersion. Quand vous placez une carte dans cette zone, posez-la par-dessus les cartes qui s’y trouvent déjà.
+
+3-5. Zone du Leader
+3-5-1. Zone d’emplacement de votre carte Leader de face au début de la partie.
+3-5-2. La Zone du Leader est une zone ouverte.
+
+3-6. Zone de Combat
+3-6-1. Zone d’emplacement de vos cartes de Combat et de certaines de vos cartes Extra.
+3-6-2. La Zone de Combat est une zone ouverte. Les cartes de cette zone sont placées de face.
+3-6-3. Placer une carte de Combat dans la Zone de Combat est nommé « jouer ».
+3-6-4. Quand vous placez des cartes dans votre Zone de Combat, sauf indication contraire, placez-les en mode Action.
+3-6-5. Vous pouvez placer dans votre Zone de Combat autant de cartes de Combat que vous le souhaitez.
+3-6-6. Vous pouvez placer dans votre Zone de Combat autant de cartes Extra que vous le souhaitez. Cependant, vous ne pouvez placer qu’une seule carte Extra avec [Terrain].
+
+3-7. Zone de Combo
+3-7-1. Zone d’emplacement des cartes de Combat avec lesquelles vous effectuez des Combos.
+3-7-2. La Zone de Combo est une zone ouverte. Les cartes de cette zone sont placées de face.
+3-7-3. Placer une carte de Combat dans la Zone de Combo est nommé « effectuer une Combo ».
+3-7-3-1. Vous ne pouvez effectuer de Combos qu’avec des cartes possédant un coût de Combo et une puissance de Combo.
+3-7-4. Vous pouvez placer dans votre Zone de Combo autant de cartes de Combat que vous le souhaitez.
+
+3-8. Zone d’Énergie
+3-8-1. Zone d’emplacement des cartes avec lequelles vous payez les coûts durant la partie.
+3-8-2. La Zone d’Énergie est une zone ouverte. Les cartes dans cette zone sont placées à l’envers. N’importe quel joueur peut vérifier le contenu des cartes de cette zone librement. Vous pouvez modifier librement l’ordre des cartes de votre Zone d’Énergie. Vous pouvez choisir la carte de votre choix (depuis votre propre Zone d’Énergie) lors du paiement d’un coût.
+3-8-3. Quand vous placez des cartes dans votre Zone d’Énergie, sauf indication contraire, placez-les en mode Action.
+
+3-9. Zone de Vie
+3-9-1. Zone d’emplacement des points de vie de votre Leader.
+3-9-2. La Zone de Vie est une zone cachée. Les cartes de cette zone sont placées de dos, et aucun joueur ne peut en vérifier le contenu ni en changer l’ordre. Quand vous changez de zone les cartes de vos points de vie, vous pouvez choisir la carte de votre choix.
+
+3-10. Dimension parallèle
+3-10-1. Zone d’emplacement des cartes transférées dans la Dimension parallèle.
+3-10-2. La Dimension parallèle est une zone ouverte. Les cartes de cette zone sont superposées de face, et n’importe quel joueur peut en vérifier le contenu librement. Vous pouvez changer librement l’ordre des cartes placées dans votre Dimension parallèle. Quand vous placez une carte dans cette zone, posez-la par-dessus les cartes qui s’y trouvent déjà.
+
+
+4. Vocabulaire de base
+
+4-1. Capacités et effets
+4-1-1. Les Capacités sont des ordres générés par le texte de cartes ou par certains effets.
+4-1-1-1. Il existe trois types de Capacités : [Activation], [Permanent] et [Auto.].
+4-1-2. Le terme d’effet désigne le contenu des ordres donnés par les Capacités.
+4-1-2-1. Il existe trois types d’effets : les « effets immédiats », les « effets continus » et les « effets de remplacement ».
+
+4-2. Propriétaire
+4-2-1. Le terme de propriétaire désigne le détenteur physique d’une carte.
+4-2-2. Le propriétaire d’une carte est le joueur qui débute une partie avec cette carte dans son deck ou dans sa Zone du Leader.
+4-2-3. À la fin de la partie, chaque joueur récupère toutes les cartes dont il est le propriétaire.
+
+4-3. Maître
+4-3-1. Le terme de maître désigne le joueur en train d’utiliser une carte, une Capacité ou un effet.
+4-3-2. Le maître d’une carte placée dans une certaine zone est le joueur auquel cette zone appartient.
+4-3-3. Le maître d’une Capacité [Activation] est le maître de la carte possédant la Capacité et le maître de l’effet généré par cette Capacité.
+4-3-4. Le maître d’une Capacité [Permanent] est le maître de la carte possédant la Capacité et le maître de l’effet généré par cette Capacité.
+4-3-5. Le maître d’une Capacité [Auto.] est le maître de la carte possédant la Capacité et le maître de l’effet généré par cette Capacité.
+
+4-4. Joueur actif et joueur non-actif
+4-4-1. Le joueur actif est le joueur en train d’effectuer son tour.
+4-4-2. Le joueur non-actif est le joueur qui n’est pas en train d’effectuer son tour.
+
+4-5. Point de contrôle
+4-5-1. Un point de contrôle est un point pendant la partie durant lequel une application de règle ou une activation de Capacité [Auto.] est exécutée.
+4-5-2. Lors d’un point de contrôle, les applications de règle se résolvent en premier. Une fois qu’il n’y a plus d’application de règle à résoudre, les Capacités [Auto.] aux conditions de déclenchement remplies s’activent et se résolvent.
+4-5-3. Lorsqu’un point de contrôle se présente, conformez-vous à la procédure suivante.
+4-5-3-1. Toutes les applications de règle en cours devant être exécutées s’effectuent simultanément. Si de nouvelles applications de règle apparaissent, répétez la procédure tant qu’il en reste.
+4-5-3-2. Quand le joueur actif est le maître de Capacités [Auto.] en suspens, ce joueur en choisit une, résout son activation et retourne ensuite à la règle 4-5-3-1.
+4-5-3-3. Quand le joueur non-actif est le maître de Capacités [Auto.] en suspens, ce joueur en choisit une, résout son activation et retourne ensuite à la règle 4-5-3-1.
+4-5-3-4. Le point de contrôle s’achève.
+
+4-6. Timing libre
+4-6-1. Un timing libre est un point pendant la partie durant lequel le joueur indiqué peut décider d’effectuer ou non des actions.
+4-6-2. Lorsqu’un timing libre se présente à n’importe quel joueur, conformez-vous à la procédure suivante.
+4-6-2-1. Un point de contrôle se présente.
+4-6-2-2. Un timing libre est donné au joueur. Ce joueur choisit alors d’effectuer une action possible ou de ne rien faire. Si ce joueur choisit d’effectuer une action, sauf indication contraire, il reçoit à nouveau un timing libre.
+4-6-2-3. Si le joueur ayant reçu le timing libre choisit de ne rien faire, son timing libre s’achève et la phase ou l’étape se poursuit.
+
+4-7. Fenêtre de contre
+4-7-1. Une fenêtre de contre est un point pendant la partie durant lequel il est possible d’activer la Capacité [Contre] (10-10.).
+4-7-2. Une fenêtre de contre se présente sous les conditions suivantes.
+4-7-2-1. Quand un des joueurs déclare une mise en jeu (6-3-1-2-1-2.).
+4-7-2-2. Quand un des joueurs effectue une attaque (7-1-2.).
+4-7-2-3. Quand un des joueurs active une Capacité, avant sa résolution (8-5-2-4.).
+4-7-2-4. Quant un des joueurs active une Capacité, après sa résolution (8-5-2-6.).
+4-7-2-5. Pendant une fenêtre de contre, aucune autre fenêtre de contre ne peut se présenter.
+4-7-3. Une fenêtre de contre se déroule dans l’ordre suivant.
+4-7-3-1. Toutes les applications de règle en cours devant être exécutées s’effectuent simultanément. Si de nouvelles applications de règle apparaissent, répétez la procédure tant qu’il en reste.
+4-7-3-2. Le maître du [Contre] en suspens va à la règle 4-7-3-6, ou active un des [Contres] en suspens.
+4-7-3-3. Le joueur qui n’est pas le joueur ayant activé le [Contre] juste avant va à la règle 4-7-3-5, ou active un des [Contres] en suspens.
+4-7-3-4. Si le [Contre] est activé, retour en 4-7-3-3.
+4-7-3-5. Résolution du [Contre] activé. Résolvez les activations des [Contres] en partant du dernier, sans tenir compte du tour des joueurs.
+4-7-3-6. La fenêtre de contre s’achève. Effectuez l’action à l’origine de la fenêtre de contre et la résolution de sa Capacité si elle est possible.
+
+4-8. Orientement des cartes
+4-8-1. Toutes les cartes dans la Zone du Leader, de Combat et d’Énergie doivent être orientées d’une des deux façons suivantes.
+4-8-1-1. Mode Action : la carte devant vous doit être orientée verticalement.
+4-8-1-1-1. Exception : les cartes placées dans la Zone d’Énergie verticalement et en sens inverse sont considérées être en mode Action.
+4-8-1-2. Mode Inertie : la carte devant vous doit être orientée horizontalement.
+
+4-9. Piocher une carte
+4-9-1. « Piocher une carte » désigne l’action de déplacer une carte depuis le dessus de votre deck dans votre main.
+4-9-2. Quand un joueur reçoit l’ordre de « piocher une carte », ce joueur rajoute la première carte du dessus de son deck dans sa main sans la dévoiler.
+4-9-3. Quand un joueur reçoit l’instruction de « piocher X cartes », si X est égal à 0, il ne se passe rien. Si X est supérieur ou égal à 1, le joueur indiqué répète l’action « piocher une carte » X fois.
+4-9-4. Quand un joueur reçoit l’instruction de « piocher jusqu’à X cartes », si X est égal à 0, il ne se passe rien. Si X est supérieur ou égal à 1, le joueur indiqué effectue les actions suivantes.
+4-9-4-1. Le joueur indiqué peut mettre fin à cette action.
+4-9-4-2. Le joueur indiqué pioche une carte.
+4-9-4-3. Une fois la règle 4-9-4-2 effectuée X fois, mettez fin à cette action. Sinon, retournez à la règle 4-9-4-1.
+
+4-10. Application de dégât
+4-10-1. L’action d’« infliger des dégâts (aux points de vie de l’adversaire) » est désignée par le terme « application de dégât ».
+4-10-2. Si une action inflige des dégâts à un joueur, ce joueur doit se conformer à la procédure suivante.
+4-10-2-1. Si le nombre des dégâts subis est de 1, le joueur touché choisit une carte de sa Zone de Vie et la rajoute à sa main sans la dévoiler à son adversaire.
+4-10-2-2. Si le nombre de dégât subis est de X, et que X est égal à 0, il ne se passe rien. Si X est supérieur ou égal à 1, le joueur touché répète la procédure « subir 1 dégât » X fois.
+
+4-11. Source des dégâts
+4-11-1. Certains effets interrogent sur la provenance des dégâts infligés au joueur. La réponse à cette question est définie par le terme « source des dégâts » de la façon suivante.
+4-11-1-1. La source des dégâts infligés par une attaque suivant les règles lors de l’étape des Dégâts est la carte attaquante à l’origine de ces dégâts.
+4-11-1-2. La source des dégâts infligés par la Capacité d’une carte est, sauf indication contraire, cette même carte.
+
+
+5. Préparations de jeu
+
+5-1. Préparer sa carte Leader et son deck
+5-1-1. Chaque joueur prépare sa propre carte Leader et son propre deck avant le début de la partie.
+5-1-2. Vous avez besoin d’une carte Leader.
+5-1-3. Vous avez besoin d’un deck de cinquante cartes composé de cartes de Combat et/ou de cartes Extra.
+5-1-3-1. Vous ne pouvez pas inclure plus de quatre cartes avec le même numéro dans votre deck.
+5-1-3-2. Les Capacités [Permanent] affectant la construction d’un deck sont considérées commes des effets de remplacement se substituant aux règles de construction d’un deck.
+5-1-3-2-1. Les Capacités [Permanent] affectant la construction d’un deck désignent les Capacités [Permanent] indiquant que « vous pouvez inclure (X) exemplaires de (une carte) dans votre deck » et que « vous ne pouvez inclure que (X) exemplaires de (une carte) dans votre deck ».
+5-1-3-2-2. Les Capacités [Permanent] affectant la construction du deck prennent effet lors de sa préparation.
+
+5-2. Avant de commencer à jouer
+5-2-1. Avant de commencer une partie, chaque joueur doit se conformer à la procédure suivante.
+5-2-1-1. Montrer la carte Leader et le deck utilisés pour la partie. Les decks doivent remplir les conditions imposées par les règles 5-1.
+5-2-1-2. Chaque joueur place son Leader de face dans sa Zone du Leader.
+5-2-1-3. La condition de déclenchement « Quand cette carte est placée dans la Zone du Leader » se lance et un point de contrôle se présente.
+5-2-1-4. Chaque joueur mélange son deck. Puis, chaque joueur place son deck de dos dans sa Zone du Deck.
+5-2-1-5. Les joueurs décident au hasard du joueur qui va jouer en premier comme suit.
+5-2-1-5-1. Décider du joueur qui va jouer en premier ne peut pas être fait sciemment. Un joueur ne peut pas décider par lui-même s’il joue en premier ou en second, même en utilisant une méthode de décision au hasard.
+5-2-1-6. Chaque joueur pioche six cartes de son deck et en fait sa main de départ. Puis, en commençant par le joueur qui va jouer en premier, chaque joueur peut repiocher sa main une fois en se conformant à la procédure suivante.
+5-2-1-6-1. Remettre n’importe quel nombre de cartes de sa main dans son deck et le remélanger. Puis piocher le même nombre de cartes qui ont été remises dans le deck.
+5-2-1-7. Chaque joueur place les huit premières cartes du dessus de son deck de dos dans sa Zone de Vie.
+5-2-1-8. Le joueur qui joue en premier commence la partie en tant que joueur actif.
+
+
+6. Progression du jeu
+
+6-1. Déroulement d’un tour
+6-1-1. Durant une partie, le jeu est mené par le joueur actif. Le joueur actif effectue les phases suivantes. Ces phases forment un tour.
+
+6-2. Phase de Recharge
+6-2-1. Les conditions de déclenchement « Au début du tour » et « Au début de la phase de Recharge» se lancent, puis un point de contrôle se présente.
+6-2-2. Le joueur actif passe en mode Action toutes les cartes qui se trouvent en mode Inertie dans sa Zone du Leader, de Combat et d’Énergie.
+6-2-3. Le joueur actif pioche une carte de son deck. Le joueur qui joue en premier ne peut pas piocher lors de son premier tour.
+6-2-4. Un point de contrôle se présente.
+6-2-5. Le joueur actif place jusqu’à une carte de sa main dans sa Zone d’Énergie.
+6-2-6. Un point de contrôle se présente. Une fois que toutes les applications devant être résolues à ce point de contrôle sont terminées, vous passez à la phase principale.
+
+6-3. Phase principale
+6-3-1. Phase durant laquelle le joueur actif peut effectuer différentes actions. La phase principale se déroule comme suit.
+6-3-1-1. Les conditions de déclenchement « Au début de la phase principale » se lancent, puis, un point de contrôle se présente.
+6-3-1-2. Le joueur actif reçoit un timing libre. De plus, à chacune des actions qu’il effectue, un point de contrôle et une fenêtre de contre se présentent. Durant ce timing libre, le joueur peut effectuer n’importe quelles actions suivantes autorisées pendant la phase principale.
+6-3-1-2-1. Le joueur actif peut placer une carte de Combat depuis sa main dans sa Zone de Combat et la jouer. La mise en jeu s’effectue comme suit.
+6-3-1-2-1-1. Révélez la carte que vous voulez jouer. Passez ensuite en mode Inertie le nombre de sources d’énergie correspondant au coût de la carte en question, déclarez sa mise en jeu et jouez-la. Si vous ne pouvez pas passer en mode Inertie le nombre de sources d’énergie nécessaire, vous ne pouvez pas déclarer de mise en jeu.
+6-3-1-2-1-2. Une fenêtre de contre se présente. (Le joueur non-actif peut activer une Capacité [Contre : Mise en jeu] aux conditions de jeu remplies.)
+6-3-1-2-1-3. Mise en jeu de la carte de Combat.
+6-3-1-2-1-4. Les conditions de déclenchement « Quand vous jouez cette carte » se lancent, et un point de contrôle se présente.
+6-3-1-2-2. Le joueur actif peut activer les Capacités [Activation : Principale] de sa carte Leader, de ses cartes de Combat et Extra.
+6-3-1-2-2-1. Une fenêtre de contre se présente avant et après l’activation de la Capacité. (Le joueur non-actif peut activer une Capacité [Contre] aux conditions de jeu remplies.)
+6-3-1-2-2-2. [Éveil] et [Voeu] sont des types de Capacité [Activation]. Ils peuvent être activés à cet instant.
+6-3-1-2-3. Le joueur actif peut attaquer les cartes de son adversaire avec les cartes dont il est le maître. Pour les détails concernant les combats, consultez le paragraphe 7 « Combat et attaque des cartes ».
+6-3-1-2-4. Le joueur actif peut choisir de mettre fin à sa phase principale. S’il le fait, il passe à l’étape de Fin de la phase principale.
+6-3-1-3. Étape de Fin de la phase principale
+6-3-1-3-1. Étape mettant fin à la phase principale de ce tour. Cette étape se déroule comme suit.
+6-3-1-3-1-1. Parmi les conditions de déclenchement s’activant « à la fin de la phase principale », celles des Capacités [Auto.] encore non remplies durant ce tour se lancent.
+6-3-1-3-1-2. Un point de contrôle se présente. Une fois que les applications de règle nécessaires à ce point de contrôle ont été exécutées, les effets qui devaient continuer « pour toute le durée de la phase principale » se dissipent.
+6-3-1-3-1-3. Passer à la phase de Fin.
+
+6-4. Phase de Fin
+6-4-1. Phase durant laquelle sont effectuées les différentes applications devant être réalisées à la fin du tour. La phase de Fin se déroule comme suit.
+6-4-1-1. Parmi les conditions de déclenchement s’activant « à la fin du tour », celles des Capacités [Auto.] encore non remplies durant ce tour se lancent.
+6-4-1-2. Un point de contrôle se présente. Une fois que les applications de règle nécessaires à ce point de contrôle ont été exécutées, les effets qui devaient continuer « pour toute la durée du tour » se dissipent.
+6-4-1-3. Si à ce point, lors du point de contrôle de la règle 6-4-1-2, des Capacités [Auto.] ou des applications de règle ne sont pas résolues, et que parmi les conditions de déclenchement s’activant « à la fin du tour », il n’y a pas de conditions de déclenchement de Capacités [Auto] non-remplies ou de conditions de déclenchement d’autres Capacités [Auto.], l’adversaire du joueur actif devient le joueur actif, met fin au tour et passe à la phase de Recharge du tour suivant. Sinon, recommencez la phase de Fin depuis le début.
+
+
+7. Combat et attaque des cartes
+
+7-1. Pendant la phase principale, le joueur actif peut passer en mode Inertie sa carte Leader ou ses cartes de Combat en mode Action présentes dans sa Zone du Leader ou de Combat, afin de lancer une attaque contre la carte Leader, ou les cartes de Combat en mode Inertie de son adversaire (qui sont présentes dans sa Zone du Leader ou de Combat). Si le joueur choisit d’attaquer, un combat se lance. La carte qui effectue l’attaque devient la carte attaquante et la carte qui se fait attaquer devient la carte de défense jusqu’à ce que le combat soit annulé ou se termine. Puis, exécutez les règles 7-1-1 à 7-1-3 comme suit.
+7-1-1. Les conditions de déclenchement « Quand cette carte attaque » et « Quand cette carte se fait attaquer » ainsi que celles des Capacités [Bloqueur] se lancent.
+7-1-2. Une fenêtre de contre se présente. (Le joueur non-actif peut activer un [Contre : Attaque] aux conditions de jeu remplies.)
+7-1-3. Un point de contrôle se présente.
+7-1-4. Si l’attaque n’a pas été annulée, allez à la règle 7-2 « Étape d’Attaque ». Si durant l’attaque, un effet quelconque réduit à zéro le nombre de cartes attaquantes ou de cartes de défense, passez à la règle 7-1-4-1. Si l’attaque est annulée, passez à la règle 7-1-4-1.
+7-1-4. Si l’attaque est annulée, passez à la règle 7-1-4-1. Si l’attaque n’a pas été annulée, allez à la règle 7-2 « Étape d’Attaque ». Si durant l’attaque, un effet quelconque réduit à zéro le nombre de cartes attaquantes ou de cartes de défense, passez à la règle 7-1-4-1. Cependant, si une carte de Combat est jouée par-dessus une carte attaquante ou une carte de défense, cette carte de Combat est alors considérée comme une nouvelle carte attaquante ou de défense.
+7-1-4-1. Toutes les cartes de Combat placées dans la Zone de Combo sont placées dans la Zone de Dispersion de leur propriétaire.
+7-1-4-2. Les conditions de déclenchement avec « À la fin du combat » se lancent, et un point de contrôle se présente.
+7-1-4-3. Les effets avec « Pour toute la durée du combat » se dissipent.
+7-1-4-4. Le combat se termine, retournez à la règle 6-3-1-2.
+
+7-2. Étape d’Attaque
+7-2-1. Étape durant laquelle le joueur actif peut effectuer différentes actions. L’étape d’Attaque se déroule comme suit.
+7-2-1-1. Les conditions de déclenchement « Au début de votre étape d’Attaque » se lancent, et un point de contrôle se présente.
+7-2-1-2. Le joueur actif reçoit un timing libre. De plus, à chaque fois qu’il effectue une Combo ou qu’il active une Capacité, un point de contrôle et une fenêtre de contre se présentent. Durant ce timing libre, le joueur peut effectuer n’importe quelle action autorisée parmi les suivantes.
+7-2-1-2-1. Le joueur actif peut déplacer dans sa Zone de Combo pour effectuer des Combos n’importe laquelle de ses cartes de Combat en mode Action autre que sa carte attaquante.
+7-2-1-2-1-1. Le joueur passe en mode Inertie le nombre de sources d’énergie correspondant au coût de Combo nécessaire, déclare une Combo et l’effectue. S’il ne peut pas passer le nombre de sources d’énergie nécessaire en mode Inertie, il ne peut pas déclarer de Combo.
+7-2-1-2-2. Le joueur actif peut placer une carte de Combat depuis sa main dans sa Zone de Combo pour effectuer une Combo.
+7-2-1-2-2-1. Le joueur passe en mode Inertie le nombre de sources d’énergie correspondant au coût de Combo nécessaire, déclare une Combo et l’effectue. S’il ne peut pas passer le nombre de sources d’énergie nécessaire en mode Inertie, il ne peut pas déclarer de Combo.
+7-2-1-2-3. Le joueur actif peut activer les Capacités [Activation : Combat] de son Leader, de ses cartes de Combat ou de ses cartes Extra.
+7-2-1-2-3-1. Une fenêtre de contre se présente avant et après la résolution de la Capacité (Le joueur non-actif peut activer les Capacités [Contre] aux conditions de jeu remplies.).
+7-2-1-2-3-2. [Éveil] et [Voeu] sont des types de Capacité [Activation]. Ils peuvent être activés à cet instant.
+7-2-1-3. Si le joueur actif choisit de ne rien faire, passez à l’étape de Défense.
+
+7-3. Étape de Défense
+7-3-1. Étape durant laquelle le joueur non-actif peut effectuer différentes actions. L’étape de Défense se déroule comme suit.
+7-3-1-1. Les conditions de déclenchement « Au début de votre étape de Défense » se lancent, et un point de contrôle se présente.
+7-3-1-2. Le joueur non-actif reçoit un timing libre. De plus, à chaque fois qu’il effectue une Combo ou qu’il active une Capacité, un point de contrôle et une fenêtre de contre se présentent. Durant ce timing libre, le joueur peut effectuer n’importe quelle action autorisée parmi les suivantes.
+7-3-1-2-1. Le joueur non-actif peut déplacer dans sa Zone de Combo n’importe laquelle de ses cartes de Combat en mode Action autre que sa carte de défense pour effectuer des Combos.
+7-3-1-2-1-1. Le joueur passe en mode Inertie le nombre de sources d’énergie correspondant au coût de Combo nécessaire, déclare une Combo et l’effectue. S’il ne peut pas passer le nombre de sources d’énergie correspondante en mode Inertie, il ne peut pas déclarer de Combo.
+7-3-1-2-2. Le joueur non-actif peut placer une carte de Combat depuis sa main dans sa Zone de Combo pour effectuer une Combo.
+7-3-1-2-2-1. Le joueur passe en mode Inertie le nombre de sources d’énergie correspondant au coût de Combo nécessaire, déclare une Combo et l’effectue. S’il ne peut pas passer le nombre de sources d’énergie correspondant en mode Inertie, il ne peut pas déclarer de Combo.
+7-3-1-2-3. Le joueur non-actif peut activer la Capacité [Activation : Combat] de son Leader, de ses cartes de Combat ou de ses cartes Extra.
+7-3-1-2-3-1. Une fenêtre de contre se présente. (Le joueur actif peut activer les Capacités [Contre] aux conditions de jeu remplies.)
+7-3-1-2-3-2. [Éveil] et [Voeu] sont des types de Capacité [Activation]. Ils peuvent être activés à cet instant.
+7-3-1-2-3-1. Une fenêtre de contre se présente avant et après la résolution de la Capacité (Le joueur actif peut activer les Capacités [Contre] aux conditions de jeu remplies.).
+7-3-1-3. Si le joueur non-actif choisit de ne rien faire, passez à l’étape des Dégâts.
+
+7-4. Étape des Dégâts
+7-4-1. Étape durant laquelle chaque combat est résolu comme suit.
+7-4-1-1. Les conditions de déclenchement « Au début de votre étape des Dégâts » se lancent, et un point de contrôle se présente.
+7-4-1-2. Additionnez toutes les puissances de Combo des cartes présentes dans la Zone de Combo du joueur actif à la puissance de sa carte attaquante.
+7-4-1-3. Additionnez toutes les puissances de Combo des cartes présentes dans la Zone de Combo du joueur non-actif à la puissance de sa carte de défense.
+7-4-1-4. Comparez la puissance de la carte attaquante et de la carte de défense. Si la puissance de la carte attaquante est égale ou supérieure à la puissance de la carte de défense, conformez-vous à la procédure suivante. Autrement, aucune application ne résulte du combat, passez à la règle 7-4-1-5.
+7-4-1-4-1. Si la carte de défense est une carte Leader, la carte attaquante inflige 1 dégât au joueur non-actif. Le joueur non-actif choisit une carte de sa Zone de Vie et la rajoute à sa main.
+7-4-1-4-1. Si la carte de défense est une carte Leader, les conditions de déclenchement « Quand cette carte inflige des dégâts » se lancent, et un point de contrôle se présente.
+7-4-1-4-1-1. La carte attaquante inflige 1 dégât au joueur non-actif.
+7-4-1-4-1-2. Les conditions de déclenchement « Quand cette carte a infligé des dégâts » se lancent, et un point de contrôle se présente.
+7-4-1-4-2. Si la carte de défense est une carte de Combat, mettez-la KO. Consultez la règle 10-1 « KO » pour plus de détails sur la notion de KO.
+7-4-1-4-2-1. Les conditions de déclenchement « Quand cette carte a mis KO » se lancent, et un point de contrôle se présente.
+7-4-1-5. Un point de contrôle se présente.
+7-4-1-6. Placez toutes les cartes de Combat présentes dans les Zones de Combo dans la Zone de Dispersion de leur propriétaire.
+7-4-1-7. Toutes les altérations de puissance reçues par les cartes attaquantes et de défense via des Combos se dissipent.
+7-4-1-8. Les conditions de déclenchement « À la fin du Combat» se lancent, et un point de contrôle se présente.
+7-4-1-8-1. Lorsqu’une carte possédant la condition de déclenchement « À la fin du combat durant lequel vous avez effectué une Combo avec cette carte » est déplacée depuis la zone de Combo dans votre Zone de Dispersion par la règle 7-4-1-6, sa Capacité se met en suspens par la règle 7-4-1-8.
+7-4-1-9. Les effets « Pour toute la durée du combat » se dissipent.
+7-4-1-10. Le combat s’achève, retournez à la règle 6-3-1-2.
+
+
+8. Activation et résolution des Capacités
+
+8-1. Capacité
+8-1-1. Une Capacité est un ordre généré par le texte d’une carte ainsi que son coût.
+8-1-2. Les Capacités sont divisées en trois catégories : [Activation], [Permanent] et [Auto.].
+8-1-3. Les Capacités [Activation] sont des capacités qu’un joueur peut utiliser sciemment en payant leur coût de Capacité et en remplissant leurs conditions de jeu quand il reçoit un timing libre.
+8-1-3-1. Les Capacités [Activation] sont rédigées sur les cartes comme suit : « [Activation : Principale] Coût de Capacité : Effet », ou bien « [Activation : Combat] Coût de Capacité : Effet ». Le texte devant les deux points « : » indique le coût nécessaire pour activer la Capacité [Activation], et le texte qui suit indique son effet.
+8-1-3-1-1. Certaines Capacités [Activation] de cartes de Combat ou Leaders ne possèdent pas de coût de Capacité. Il est possible de les activer en les déclarant.
+8-1-3-1-2. Certaines Capacités [Activation] de cartes Extra ne possèdent pas de coût de Capacité. Il est possible de les activer en payant leur coût d’énergie. Ces Capacités sont rédigées sur les cartes comme suit : « [Activation : Principale] Effet », ou « [Activation : Combat] Effet ».
+8-1-4. Les Capacités [Permanent] sont des capacités générant un certain effet sur le jeu de façon continue, tant qu’elles sont valides.
+8-1-4-1. Les Capacités [Permanent] sont rédigées sur les cartes comme suit : « [Permanent] Effet ».
+8-1-5. Les Capacités [Auto.] s’activent automatiquement lorsqu’un évènement précisé par la Capacité se lance durant la partie.
+8-1-5-1. Les Capacités [Auto.] sont rédigées sur les cartes comme suit : « [Auto.] Quand (telle condition) se remplit, (tel effet) se réalise. » ou « [Auto.] Au début de (telle phase ou telle étape), (tel effet) se réalise. » ou « [Auto.] À la fin de (telle phase ou telle étape), (tel effet) se réalise. ». La partie des (conditions) et des (phases / étapes) se nomme « conditions de déclenchement ».
+
+8-2. Effet
+8-2-1. On appelle « effet » le contenu des ordres donnés par une Capacité.
+8-2-2. Les effets sont divisés en trois catégories : les « effets immédiats », les « effets continus » et les « effets de remplacement ».
+8-2-2-1. Un effet immédiat est un effet dont l’ordre est effectué pendant sa résolution et dont l’effet prend fin de suite. Les effets des Capacités comme : « Piochez une carte », « Placez cette carte dans votre Zone de Dispersion » sont des effets immédiats.
+8-2-2-2. Un effet continu est un effet valide le temps d’une durée déterminée (incluant les durées non précisées comme « Pour toute la durée de la partie »). Les effets des Capacités suivantes : « Pour toute la durée du combat, cette carte gagne +5000 de puissance » sont des effets continus.
+8-2-2-3. Un effet de remplacement est un effet qui, lorsqu’un certain évènement se lance durant la partie, effectue un autre évènement à la place.
+8-2-2-3-1. Les effets des Capacités suivantes : « Quand (A) se lance, effectuez (B) à la place » sont des effets de remplacement.
+
+8-3. Validité et invalidité des Capacités
+8-3-1. Certains effets peuvent rendre valides ou invalides d’autres effets. Dans ces cas-là, conformez-vous à la procédure suivante.
+8-3-2. Si un effet est stipulé partiellement ou entièrement invalide sous certaines conditions spécifiques, cette partie existe toujours en tant que Capacité sous ces conditions mais ne produira aucun effet. Si cet effet demande à faire un choix, ce choix ne sera pas réalisé.
+8-3-3. Si un effet est stipulé partiellement ou entièrement valide sous certaines conditions spécifiques, cette partie sera considérée invalide si ces conditions ne sont pas remplies.
+
+8-4. Coût de Capacité
+8-4-1. Une action est parfois ordonnée devant les deux points « : » du texte d’une Capacité [Activation]. C’est le coût de Capacité de la Capacité en question.
+8-4-2. « Payer le coût de Capacité » signifie « effectuer l’action indiquée par le coût de Capacité ».
+8-4-2-1. Si un coût de Capacité indique plusieurs actions, effectuez-les dans l’ordre de la phrase en partant du début du texte.
+8-4-2-2. Si vous ne pouvez pas payer une partie ou le total du coût de Capacité, vous ne pouvez pas payer du tout le coût de Capacité pour activer cette Capacité.
+8-4-2-3. Certains coûts de Capacité possèdent un cercle avec un chiffre à l’intérieur (exemple : ①). Ce symbole indique le nombre de sources d’énergie à choisir et à passer en mode Inertie.
+8-4-2-4. Certains coûts de Capacité possèdent un ou plusieurs cercles de couleur. Ce symbole indique la couleur des sources d’énergie à choisir et à passer en mode Inertie.
+
+8-5. Activation et résolution
+8-5-1. En activant les Capacités [Activation], [Auto.], [Éveil], [Voeu], ainsi que les cartes de votre main, elles se résolvent et produisent un effet. Les Capacités [Permanent] quant à elles ne s’activent pas, elles produisent leur effet de façon continue.
+8-5-2. Conformez-vous à la procédure suivante quand vous activez une Capacité.
+8-5-2-1. Indiquez la Capacité que vous voulez activer. Si la Capacité que vous voulez activer se trouve sur une carte dans votre main, révélez cette carte.
+8-5-2-2. Si l’activation requiert un coût de Capacité, déterminez ce coût et payez-le entièrement.
+8-5-2-2-1. Quand vous activez la Capacité d’une carte Extra, déterminez son coût d’énergie et payez-le.
+8-5-2-4. La Capacité s’active.
+8-5-2-5. Une fenêtre de contre se présente.
+8-5-2-6. La Capacité se résout.
+8-5-2-6-1. Si la Capacité activée était celle d’une carte Extra, placez cette carte dans votre Zone de Dispersion et effectuez l’effet indiqué par la Capacité.
+8-5-2-6-2. Si la Capacité activée était celle d’une Capacité [Activation] ou [Auto.] d’une carte de votre Zone du Leader, de Combat ou de Combo, effectuez l’effet indiqué par la Capacité.
+8-5-2-7. Une fenêtre de contre se présente.
+8-5-3. S’il est écrit « choisissez … » dans la Capacité, choisissez lors de sa résolution la carte ou le joueur indiqué (la « cible ») lorsque vous en recevez l’instruction.
+8-5-3-1. Si le nombre de cibles à choisir est indiqué, vous avez l’obligation de choisir un nombre de cibles le plus proche possible de ce nombre. Si vous avez la possibilité de choisir, vous ne pouvez pas choisir de ne pas effectuer de choix.
+8-5-3-2. Si le nombre à choisir est rédigé comme suit : « choisissez jusqu’à … », vous pouvez choisir n’importe quel nombre de cibles entre zéro et le nombre indiqué.
+8-5-3-3. Si le nombre à choisir est indiqué mais que certaines cibles ne peuvent pas être choisies, choisissez le plus de cibles possibles et résolvez l’effet indiqué sur elles.
+8-5-3-4. Si le nombre à choisir est indiqué mais qu’aucune de ces cibles ne peut être choisies, vous n’en choisissez aucune. Tous les effets devant les affecter sont ignorés.
+8-5-3-5. Si la carte à choisir est une carte se trouvant dans une zone cachée et que ce choix nécessite les informations de cette carte, il n’est pas obligatoire de fournir ou révéler ces informations. Le joueur effectuant le choix peut donc décider de ne pas choisir une carte d’une zone secrète même si elle remplit les conditions demandées.
+8-5-3-6. Quand le texte n’indique pas spécialement de cible : si l’effet concerne une carte, il cible la carte source de l’effet ; si l’effet concerne un joueur, il cible le maître de l’effet.
+8-5-3-7. Quand vous choisissez une carte d’un deck, vérifiez-le de face et choisissez la carte indiquée à l’intérieur.
+8-5-4. Sauf indication contraire, si le texte se réfère à une « carte de Combat », il désigne une carte de Combat présente dans la Zone de Combat.
+8-5-5. Si le texte se réfère à une « source d’énergie », il désigne une carte présente dans la Zone d’Énergie.
+8-5-6. Si le texte se réfère à un « point de vie », il désigne une carte présente dans la Zone de Vie.
+
+8-6. Résolution des Capacités [Auto.]
+8-6-1. Les Capacités [Auto.] sont des Capacités s’activant automatiquement lors du point de contrôle généré par certaines conditions de déclenchement spécifiques.
+8-6-2. Une fois la condition de déclenchement de la Capacité [Auto.] remplie, cette Capacité se met en suspens.
+8-6-3. Lorsque la condition de déclenchement de la Capacité [Auto.] se remplit plusieurs fois, cette Capacité se met en suspens autant de fois.
+8-6-4. À l’apparition du point de contrôle, le joueur devant activer la Capacité [Auto.] dont il est le maître en choisit une parmi celles en suspens et l’active. Une fois la capacité activée résolue, le nombre des Capacités [Auto.] en suspens (pour cette Capacité) diminue de un.
+8-6-4-1. Si pour une raison quelconque, la Capacité [Auto.] en suspens choisie ne peut pas être activée, annulez-en une (pour cette Capacité).
+8-6-5. Il existe des Capacités [Auto.] de cartes dont la condition de déclenchement est le déplacement d’une zone à une autre : c’est le « déclenchement par déplacement de zone ».
+8-6-5-1. Une Capacité [Auto.] activée par un déclenchement par déplacement de zone peut nécessiter les informations de la carte ayant déclenché la Capacité. Dans ce cas, vérifiez les informations comme suit.
+8-6-5-1-1. Si les informations d’une carte dont la Capacité [Auto.] s’est déclenchée en étant déplacée d’une zone ouverte à une zone cachée, ou d’une zone cachée à une zone ouverte, vous sont demandées, utilisez les informations de la carte comme si elle se trouvait dans une zone ouverte.
+8-6-5-1-2. Si les informations d’une carte dont la Capacité [Auto.] se déclenche en étant déplacée de la Zone de Combat à une autre zone, ou dont la Capacité [Auto.] implique des déplacements de zone générant des changements de maîtres, vous sont demandées, utilisez les informations de la carte comme si elle se trouvait dans la Zone de Combat.
+8-6-5-1-3. Si les informations d’une carte dont la Capacité [Auto.] s’est déclenchée en étant déplacée d’une zone ouverte à une autre zone ouverte (situations autres que celles indiquées à la règle 8-6-5-1-2) vous sont demandées, utilisez les informations de la carte comme si elle se trouvait dans la zone après son déplacement.
+8-6-6. Une Capacité [Auto.] peut posséder des conditions de déclenchement non basées sur un évènement spécifique, mais sur le remplissage d’une condition spécifique (exemple : « Quand vous n’avez plus de carte en main, ... ») : ce sont des « déclenchements d’état ».
+8-6-6-1. Un déclenchement d’état se met en suspens une unique fois quand la situation se produit. Une fois la Capacité [Auto.] résolue, si la condition de déclenchement se remplit à nouveau, la Capacité se met à nouveau en suspens.
+8-6-7. Si une Capacité [Auto.] en suspens s’active, même si la zone de la carte avec cette Capacité change ou si elle a été rendue invalide, vous devez toujours activer la Capacité [Auto.]. Cependant, s’il est devenu impossible de réaliser l’effet de la Capacité à cause de ce changement de zone, l’effet échoue à sa résolution.
+
+8-7. Application d’effet immédiat
+8-7-1. Quand on vous demande d’effectuer un effet immédiat, effectuez l’action indiquée par l’effet une unique fois.
+
+8-8. Application d’effet continu
+8-8-1. Quand on vous demande de fournir une information sur une carte lors d’un effet continu, appliquez l’effet continu à cette information comme suit.
+8-8-1-1. L’information indiquée sur une carte sera toujours considérée comme la référence.
+8-8-1-2. Puis, appliquez tous les effets continus exceptés les effets altérant les informations chiffrées.
+8-8-1-3. Ensuite, appliquez tous les effets continus altérant les informations chiffrées.
+8-8-1-4. Les effets continus, exceptés ceux générés par les Capacités [Permanent], ne sont pas appliqués aux cartes ayant été déplacées de la Zone du Leader ou de Combat vers une autre zone après la résolution de l’effet.
+8-8-1-5. Les effets continus modifiant les informations de cartes dans certaines zones spécifiques sont immédiatement appliqués au moment où ces cartes rentrent dans la zone en question.
+8-8-1-5-1. Une Capacité [Auto.] déclenchée par l’arrivée dans une zone d’une carte aux informations spécifiques, se réfère à ces informations après que les effets continus aient été appliqués à la zone.
+
+8-9. Application d’effet de remplacement
+8-9-1. Quand un effet de remplacement se lance, au moment où l’évènement concerné par l’effet de remplacement doit se produire, il ne se produit pas, et c’est l’évènement indiqué par l’effet de remplacement qui se produit à sa place.
+8-9-1-1. De ce fait, l’évènement original remplacé est considéré comme ne s’étant jamais produit.
+8-9-2. Quand plusieurs effets de remplacement se lancent sur un même évènement, le joueur concerné par cet évènement décide de l’effet de remplacement à appliquer.
+8-9-2-1. Quand des cartes ou des Capacités sont sujettes à des effets de remplacement, c’est le maître de ces cartes ou de ces Capacités qui effectue le choix.
+8-9-2-2. Quand des actions durant la partie sont sujettes à des effets de remplacement, c’est le joueur effectuant ces actions ou le maître des cartes concernées par ces actions qui effectue le choix.
+8-9-2-3. Chaque effet de remplacement ne peut être appliqué qu’une seule fois sur un même évènement.
+8-9-3. Si l’effet de remplacement est un effet de remplacement volontaire (« Quand X, vous pouvez faire X à la place. Si vous le faites, faites X. ») et que vous ne pouvez pas effectuer ce choix, l’effet de remplacement ne peut pas s’appliquer.
+
+8-10. Information finale d’une carte
+8-10-1. Si un effet se réfère à une information ou un état spécifique d’une carte, et que cette carte a été déplacée d’une zone vers une autre pendant l’application de l’effet, cet effet se réfère à l’information et à l’orientement de la carte dans la dernière zone où elle se trouvait.
+
+
+9. Application de règle
+
+9-1. Bases de l’application de règle
+9-1-1. Le terme d’application de règle définit l’exécution automatique de mécanismes générés par les règles lors d’évènements spécifiques durant la partie.
+9-1-2. Il existe deux catégories d’application de règle : l’« application interruptive de règle » et l’« application confirmative de règle ».
+9-1-2-1. L’application interruptive de règle se résout immédiatement, même en plein milieu de la réalisation d’autres actions.
+9-1-2-2. L’application confirmative de règle ne s’effectue que lorsqu’un point de contrôle ou une fenêtre de contre se présente, et seulement si, après vérification, ses conditions de jeu sont remplies. Même si ses conditions de jeu sont remplies durant la réalisation d’une autre action, si elles ne le sont pas durant le point de contrôle ou la fenêtre de contre de l’action présente, l’application de règle ne sera pas effectuée.
+9-1-2-3. S’il vous est demandé de procéder à plusieurs applications confirmatives de règle simultanément, effectuez-les toutes en même temps.
+
+9-2. Application de l’évaluation de défaite
+9-2-1. L’application de l’évalation de défaite est une application interruptive de règle.
+9-2-2. Au début de l’application de règle, si un des joueurs remplit une des conditions de défaite ci-dessous, il perd la partie.
+9-2-2-1. Si un des joueurs n’a plus que zéro carte dans sa Zone de Vie, ce joueur remplit les conditions de défaite.
+9-2-2-2. Si un des joueurs n’a plus que zéro carte dans son deck, ce joueur remplit les conditions de défaite.
+
+9-3. Application de Combo invalide
+9-3-1. L’application de Combo invalide est une application confirmative de règle.
+9-3-2. Si une ou des cartes de Combat sont placées dans la Zone de Combo pendant un moment autre qu’un combat, placez toutes ces cartes dans la Zone de Dispersion de son propriétaire.
+
+9-4. Application lors de placement par-dessus une carte spécifique.
+9-4-1. Placer une carte par-dessus une carte spécifique est une application interruptive de règle.
+9-4-2. Quand une nouvelle carte est placée sur une carte déjà présente dans la Zone de Combat ou dans la Zone du Leader, les altérations d’informations et l’orientement de la carte déjà présente sont appliqués à la nouvelle carte.
+
+9-5. Application de règle lorsque la puissance d’une carte passe à zéro ou moins.
+9-5-1. Lorsque la puissance d’une carte de Combat passe à zéro ou moins, une application de règle confirmative est appliquée.
+9-5-2. Lorsque la puissance d’une carte de Combat passe à zéro ou moins, cette carte est placée dans la Zone de Dispersion de son propriétaire.
+9-5-2-1. Après qu’un effet ait altéré la puissance d’une carte de Combat, si la puissance de cette carte passe à zéro ou moins et que la carte est placée dans la Zone de Dispersion de son propriétaire via l’application de règle qui demande aux cartes de Combat dont la puissance passe à zéro ou moins d’être placées dans leur Zone de Dispersion, elle est considérée comme avoir été placée dans la Zone de Dispersion de son propriétaire par cet effet.
+
+
+10. Mots-clefs et Capacités-clefs
+
+10-1. KO
+10-1-1. Mettre KO signifie placer une carte de Combat dans la Zone de Dispersion de son propriétaire.
+10-1-2. Une carte ne peut être mise KO que par un effet ou une règle stipulant qu’elle met KO. Les cartes de Combat mises dans la Zone de Dispersion de leur propriétaire d’une autre façon n’ont pas été forcément mises KO.
+
+10-2. [Éveil]
+10-2-1. [Éveil] est une Capacité-clef [Activation] activable en payant son coût et en remplissant ses conditions de jeu.
+10-2-2. [Éveil] est rédigé comme suit : « [Éveil] Condition : Effet ».
+10-2-3. Quand [Éveil] est activé, la carte est tournée de l’autre côté mais reste considérée comme la même carte.
+10-2-3-1. L’expression « la même carte » signifie que la carte est considérée comme une carte unique possédant des informations différentes de face et de dos.
+10-2-4. Quand une carte tournée sur le dos avec [Éveil] est tournée à nouveau de face, elle reste considérée comme la même carte.
+10-2-5. Quand une carte est tournée avec [Éveil], elle conserve son orientement ainsi que les effets continus affectant sa puissance avant d’être tournée.
+
+10-3. [Terrain]
+10-3-1. [Terrain] est une Capacité-clef [Activation : Principale] de carte Extra avec : « Placez cette carte dans la Zone de Combat en mode Action. ».
+10-3-2. Les cartes Extra avec [Terrain] peuvent posséder d’autres Capacités que [Terrain]. Cette Capacité n’est par principe valide que lorsque la carte se trouve dans la Zone de Combat, et s’active sans avoir à placer la carte dans la Zone de Dispersion, sauf indication contraire.
+10-3-3. Quand vous activez et résolvez un autre [Terrain], s’il se résout, placez dans votre Zone de Dispersion toutes vos autres cartes Extra avec [Terrain] présentes dans votre Zone de Combat autres que celle que vous venez d’activer.
+
+10-4. [Bloqueur]
+10-4-1. [Bloqueur] est une Capacité-clef [Auto.] activable en passant en mode Inertie cette carte quand une de vos cartes autre que celle-ci se fait attaquer. Une fois activé, changez la carte ayant activé [Bloqueur] en carte de défense.
+10-4-2. « Annuler le [Bloqueur] » est une application particulière changeant à nouveau la carte de défense en carte attaquante ciblée en premier pour l’attaque.
+
+10-5. [Évolution] ([Évolution-EX], [Évolution-Xeno])
+10-5-1. [Évolution] ([Évolution-EX], [Évolution-Xeno]) est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité et en choisissant une ou plusieurs cartes de Combat en jeu dans votre Zone de Combat remplissant les conditions de nom des personnages indiqués. Il est impossible d’activer [Évolution] ([Évolution-EX], [Évolution-Xeno]) si le joueur ne peut pas choisir la ou les cartes de Combat indiquées.
+10-5-2. [Évolution] ([Évolution-EX], [Évolution-Xeno]) ne peut être activée que depuis la main d’un joueur.
+10-5-3. [Évolution] ([Évolution-EX], [Évolution-Xeno]) est rédigée comme suit : « [Évolution] ([Évolution-EX], [Évolution-Xeno]) Coût de Capacité : Condition <Nom du personnage> ».
+10-5-3-1. Dans certains cas, aucune condition n’est spécifiée. Dans ce cas, aucune condition n’est requise.
+10-5-4. Une carte activée avec [Évolution] est mise en jeu par-dessus la carte de Combat déjà présente en jeu. Par la suite, toutes les cartes placées sous cette carte seront considérées uniquement comme la carte de Combat placée sur le dessus du tas, mais cette dernière conservera l’orientement et les effets qui affectaient la carte précédente.
+10-5-4-1. Il arrive qu’aucune condition ne soit rédigée. Dans ce cas, aucune condition n’est requise.
+10-5-4. Une carte activée avec [Évolution] ([Évolution-EX]) est mise en jeu par-dessus la carte de Combat choisie lors de la règle 10-5-1. Par la suite, toutes les cartes placées sous cette carte seront considérées uniquement comme la carte de Combat placée sur le dessus du tas, mais cette dernière conservera l’orientement et les effets qui affectaient la carte précédente.
+10-5-5. Une carte activée avec [Évolution] ([Évolution-EX]) est mise en jeu par-dessus la carte de Combat choisie en 10-5-1. Par la suite, toutes les cartes placées sous cette carte seront considérées uniquement comme la carte de Combat placée sur le dessus du tas, mais cette dernière conservera l’orientement et les effets qui affectaient la carte précédente.
+10-5-6. Quand vous activez [Évolution-Xeno], transférez la carte de Combat choisie en 10-5-1 dans la Dimension parallèle de son propriétaire, et mettez en jeu en mode Action la carte qui a activé [Évolution-Xeno].
+10-5-7. Lorsque le terme « évoluer » est utilisé, il indique que la carte jouée est considérée comme mise en jeu via la Capacité [Évolution] ([Évolution-EX], [Évolution-Xeno]).
+10-5-7. Lorsque le terme « évolué » est utilisé, il indique que la carte jouée est considérée comme avoir été mise en jeu via la Capacité [Évolution] ([Évolution-EX], [Évolution-Xeno]).
+
+10-6. [Coup critique]
+10-6-1. [Coup critique] est une Capacité-clef [Permanent] avec : « Quand cette carte inflige des dégâts à votre adversaire en attaquant, ce dernier place autant de cartes de points de vie dans sa Zone de Dispersion à la place de sa main. ».
+
+10-7. [Frappe]
+10-7-1. [Frappe] est une Capacité-clef [Permanent] avec : « Quand cette carte inflige des dégâts en attaquant, si ces dégâts sont égaux à X-1, elle inflige X dégât(s). ».
+10-7-1-1. Dans le cas de [Double frappe], X est égal à 2.
+10-7-1-2. Dans le cas de [Triple frappe], X est égal à 3.
+10-7-1-3. Dans le cas de [Quadruple frappe], X est égal à 4.
+
+10-8. Attaque à répétition : [Réplique], [Tri-offensive]
+10-8-1. Une attaque à répétition est une Capacité-clef [Auto.] avec : « À la fin du combat durant lequel cette carte a attaqué, passez-la en mode Action. ». Cette Capacité s’active X-1 fois par tour.
+10-8-1-1. Dans le cas de [Réplique], X est égal à 2.
+10-8-1-2. Dans le cas de [Tri-offensive], X est égal à 3.
+
+10-9. [Vengeance]
+10-9-1. [Vengeance] est une Capacité-clef [Auto.] avec : « À la fin du combat durant lequel cette carte est attaquée par une carte de Combat, ou quand cette carte est mise KO par une carte de Combat en combat, mettez KO la carte attaquante. ».
+
+10-10. [Contre]
+10-10-1. [Contre] est une Capacité-clef [Auto.] activable uniquement lorsqu’une fenêtre de contre se présente, en payant son coût d’énergie et son coût de Capacité.
+10-10-2. [Contre] ne peut être activé que depuis votre main.
+10-10-3. [Contre] est rédigé comme suit : « [Contre : Condition d’activation] Coût de Capacité : Effet ».
+10-10-3-1. Les Capacités [Contre : Mise en jeu] passent en état de suspens quand l’adversaire paie le coût d’énergie et déclare la mise en jeu d’une carte, ou quand l’adversaire active ou résout une Capacité avec un effet incluant « Mettez en jeu », « Quand mis en jeu ».
+10-10-3-2. Les Capacités [Contre : Attaque] passent en état de suspens quand l’adversaire déclare une attaque ou active une Capacité avec un effet incluant « Attaquez », « Quand vous attaquez ».
+10-10-3-3. Les Capacités [Contre : Contre] passent en état de suspens quand l’adversaire déclare l’activation d’une Capacité [Contre].
+10-10-3-4. La Capacité [Contre] sort de son état de suspens quand vous activez le [Contre] ou quand la fenêtre de contre se termine.
+10-10-4. Les cartes dont la Capacité [Contre] a été activée sont placées dans la Zone de Dispersion, sauf indication contraire.
+10-10-5. « Annuler un [Contre] » indique le fait d’empêcher la résolution de l’effet d’un [Contre] activé.
+
+10-11. [Une fois par tour]
+10-11-1. [Une fois par tour] est un mot-clef indiquant qu’une Capacité [Auto.] ou [Activation] ne peut être résolue qu’une seule fois durant le tour.
+10-11-2. La limitation à une fois par tour est définie individuellement pour chaque Capacité. S’il y a plusieurs cartes avec la même Capacité activable « une fois par tour », elles peuvent être résolues chacune une fois par tour.
+10-11-3. Les Capacités sans limitation d’activation à une fois par tour peuvent être activées autant de fois que le joueur le souhaite, tant qu’il peut payer le coût de Capacité et que les conditions d’activation sont remplies.
+10-11-4. Lorsque la Capacité limitée à une activation par tour est une Capacité [Auto.], il arrive qu’elle puisse se mettre en suspens plusieurs fois en même temps. Dans ce cas, une fois que l’une d’entre elles est résolue, les autres disparaissent sans se résoudre.
+10-11-5. Après qu’une Capacité [Une fois par tour] se soit résolue, elle ne déclenche plus de tout le tour même si son coût et ses conditions se remplissent, et elle ne s’active pas.
+
+10-12. [Immortalité]
+10-12-1. [Immortalité] est une Capacité-clef [Permanent] avec : « Cette carte ne peut pas être mise KO par l’attaque ou les Capacités de cartes adverses, et ne peut pas quitter la Zone de Combat à cause du résultat d’un combat ou de Capacités adverses. ».
+
+10-13. [Union]
+10-13-1. [Union] est un terme général de Capacité mettant en jeu une carte de Combat dans la Zone de Combat depuis un endroit spécifié quand les coûts et conditions spécifiés sont remplis.
+10-13-2. [Union] est généralement rédigée comme suit : [Union-X].
+10-13-3. [Union-Fusion]
+10-13-3-1. [Union-Fusion] est une Capacité-clef [Activation : Principale] activable lorsqu’un joueur a dans sa main chacune des cartes de Combat dont le nom de personnage est indiqué, et que la puissance de chacune de ces cartes de Combat est identique.
+10-13-3-2. La Capacité [Union-Fusion] ne peut être activée que depuis la main d’un joueur.
+10-13-3-3. [Union-Fusion] est rédigée comme suit : « [Union-Fusion] Coût de Capacité : <Nom du personnage A> et <Nom du personnage B> ».
+10-13-4. Quand [Union-Fusion] est activée, le joueur place une après l’autre les cartes de Combat indiquées avec la même puissance depuis sa main dans sa Zone de Dispersion, et met en jeu en mode Action la carte de Combat qui a activé [Union-Fusion].
+10-13-4. [Union-Potara]
+10-13-4-1. [Union-Potara] est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité après avoir choisi chacune des cartes de Combat en jeu dans la Zone de Combat avec les noms de personnage indiqués. Il est impossible d’activer [Union-Potara] si le joueur ne peut pas choisir toutes les cartes de Combat indiquées.
+10-13-4-2. La Capacité [Union-Potara] ne peut être activée que depuis la main d’un joueur.
+10-13-4-3. [Union-Potara] est rédigée comme suit : « [Union-Potara] Coût de Capacité <Nom du personnage A> et <Nom du personnage B> ».
+10-13-4-4. La carte ayant activé [Union-Potara] est mise en jeu en mode Action par-dessus les deux cartes de Combat choisies en 10-13-4-1.
+10-13-4-4-1. Dans ce cas, la carte jouée avec [Union-Potara] conserve les effets altérant la puissance des cartes précédemment en jeu.
+10-13-5. [Union-Absorption]
+10-13-5-1. [Union-Absorption] est une Capacité-clef [Activation : Principale] mettant en jeu une carte indiquée depuis une zone spécifiée par-dessus la carte ayant activé [Union-Absorption].
+10-13-5-2. La Capacité-clef [Union-Absorption] peut être activée lorsqu’elle est en jeu dans la Zone de Combat.
+10-13-5-3. [Union-Absorption] est rédigée comme suit : « [Union-Absorption] Coût de Capacité : Effet ».
+10-13-5-4. Placez la carte choisie en 10-13-5-1 par-dessus la carte de Combat qui a activé [Union-Absorption].
+10-13-5-4-1. Dans ce cas, la carte mise en jeu via [Union-Absorption] conserve l’orientement et les effets altérant la puissance de la carte précédemment en jeu.
+
+10-14. [Union-Potara]
+10-14-1. [Union-Potara] est une Capacité-clef [Activation : Principale] activable en payant son coût de Capacité quand toutes les cartes de Combat dont le nom est indiqué sur la carte se trouvent en jeu dans votre Zone de Combat.
+10-14-1. [Union-Potara] est une Capacité-clef [Activation : Principale] demandant de choisir chacune des cartes de Combat présentes dans votre Zone de Combat avec le nom de personnage indiqué, activable en payant son coût de Capacité. Vous ne pouvez pas activer [Union-Potara] si vous ne pouvez pas choisir toutes les cartes de Combat indiquées.
+10-14-2. La Capacité [Union-Potara] ne peut être activée que depuis votre main.
+10-14-3. [Union-Potara] est rédigée comme suit : « [Union-Potara] Coût de Capacité <Nom du personnage A> et <Nom du personnage B> ».
+10-14-4. Les cartes activant la Capacité [Union-Potara] sont placées par-dessus les deux cartes de Combat déjà en jeu et sont jouées en mode Action.
+10-14-4. La carte ayant activé [Union-Potara] est mise en jeu en mode Action par-dessus les deux cartes de Combat choisies lors de la règle 10-14-1.
+10-14-4-1. Dans ce cas, la carte jouée avec [Union-Potara] conserve les effets altérant la puissance des cartes précédemment en jeu.
+
+10-15. [Union-Absorption]
+10-15-1. [Union-Absorption] est une Capacité-clef [Activation : Principale] activable qui met en jeu une carte indiquée depuis une zone spécifiée par-dessus la carte ayant activé [Union-Absorption].
+10-15-2. La Capacité-clef [Union-Absorption] peut être activée lorsqu’elle se trouve dans la Zone de Combat.
+10-15-3. [Union-Absorption] est rédigée comme suit : « [Union-Absorption] Coût de Capacité : Effet ».
+10-15-4. Placez la carte choisie lors de la règle 10-15-1 par-dessus la carte de Combat qui a activé [Union-Absorption].
+10-15-4-1. Dans ce cas, la carte mise en jeu via [Union-Absorption] conserve l’orientement et les effets altérant la puissance de la carte précédemment en jeu.
+
+10-16. [Ultimate]
+10-16-1. [Ultimate] est une Capacité-clef [Permanent] concernant la construction du deck. Vous ne pouvez inclure dans votre deck qu’une seule carte possédant la Capacité [Ultimate].
+
+10-17. [Espace-temps] ([Espace-temps X])
+10-17-1. [Espace-temps] est une Capacité-clef [Activation : Principale] activable lorsque vous avez X cartes ou plus dans votre Zone de Dispersion.
+10-17-2. [Espace-temps] est rédigé comme suit : « [Espace-temps X] Coût de Capacité ».
+10-17-3. En activant [Espace-temps] quand il se trouve dans votre main, vous pouvez jouer la carte avec [Espace-temps] en transférant toutes les cartes de votre Zone de Dispersion dans votre Dimension parallèle.
+10-17-4. Si la carte que vous avez jouée avec [Espace-temps] se trouve en jeu dans votre Zone de Combat à la fin du tour où elle a été jouée, transférez-la dans votre Dimension parallèle.
+10-17-5. [Espace-temps] et [Espace-temps obscur] ne peuvent être activés au total qu’une seule fois par tour.
+
+10-18. [Évolution-Xeno]
+10-18-1. [Évolution-Xeno] est une Capacité-clef [Activation : Principale] demandant de choisir une carte de Combat présente dans votre Zone de Combat avec le nom de personnage indiqué, activable en payant son coût de Capacité. Vous ne pouvez pas activer [Évolution-Xeno] si vous ne pouvez pas choisir la carte de Combat indiquée.
+10-18-2. [Évolution-Xeno] ne peut être activée que depuis votre main.
+10-18-3. [Évolution-Xeno] est rédigé comme suit : « [Évolution-Xeno] Coût de Capacité : <Nom du personnage> » .
+10-18-2. Quand vous activez la Capacité [Évolution-Xeno], vous transférez dans votre Dimension parallèle la carte de Combat choisie lors de la règle 10-18-1, et jouez en mode Action la carte ayant activé [Évolution-Xeno].
+10-18-3-1-1. Considérez ceci comme si le joueur avait joué la carte avec [Évolution].
+
+10-19. Barrière
+10-19-1. [Barrière] est une Capacité-clef [Permanent] avec : « Cette carte ne peut pas être choisie par les Capacités de cartes adverses. ».
+
+10-20. Super Combo
+10-20-1. [Super Combo] est une Capacité-clef [Permanent] concernant la construction du deck. Lorsque vous construisez votre deck, vous ne pouvez inclure au maximum que quatre cartes avec [Super Combo] dans celui-ci.
+
+10-21. Jeton
+10-21-1. Un jeton est une carte de Combat créée par l’application d’un effet de carte.
+10-21-2. Les jetons possèdent les mêmes informations que les cartes. Quand vous voulez consulter par exemple les informations de Capacités du jeton, référez-vous aux informations indiquées par l’effet qui a créé le jeton.
+10-21-3. Sauf indication contraire, le jeton est mis en jeu dans la Zone de Combat du propriétaire de l’effet ayant créé le jeton.
+10-21-4. Quand vous créez un « jeton (Nom) », ce nom devient son nom de carte.
+10-21-5. Sauf règle particulière, les jetons sont traités comme des cartes.
+10-21-6. Quand vous choisissez une carte d’une zone spécifique, vous pouvez également choisir un jeton. De même, quand des effets sont appliqués sur les cartes d’une zone spécifique, ces effets sont également appliqués sur les jetons.
+10-21-7. Quand vous devez déplacer un jeton depuis la Zone de Combat ou de Combo vers une autre zone, retirez-le de la zone où il se trouve. Il n’existe plus dans aucune zone du jeu.
+
+10-22. Retirer de la partie
+10-22-1. Retirer de la partie signifie déplacer en dehors du jeu les cartes indiquées.
+10-22-2. Les cartes retirées de la partie n’existent plus dans aucune zone du jeu.
+10-22-3. Les cartes retirées de la partie doivent être placées de face et rester visibles à tous les joueurs.
+
+10-25. [Déflexion]
+10-25-1. [Déflexion] est une Capacité-clef [Permanent] avec : « Cette carte n’est pas affectée par les Capacités [Contre : Mise en jeu] ».
+10-25-2. [Déflexion] est valide à partir de la déclaration de la mise en jeu de la carte de Combat avec [Déflexion] jusqu’à sa mise en jeu.
+10-25-3. [Déflexion] est aussi valide pendant la résolution d’une Capacité mettant en jeu une carte de Combat avec [Déflexion].
+
+10-26. [Lien] ([Lien X])
+10-26-1. [Lien] est une Capacité-clef autorisant les Capacités avec [Lien] à prendre effet uniquement quand vous avez X cartes de Combat ou plus dans votre Zone de Combat.
+10-26-2. [Lien] est rédigé comme suit : « [Lien X] » ou « [Lien X] Carte de Combat indiquée ».
+10-26-2-1. Si une carte de Combat est indiquée, la Capacité avec [Lien] ne prendra effet que si vous avez X cartes de Combat ou plus de la carte indiquée dans votre Zone de Combat.
+
+10-27. [Échange] ([Échange X])
+10-27-1. [Échange] est une Capacité-clef [Activation : Principale].
+10-27-2. [Échange] est rédigé comme suit : « [Échange X] Coût de Capacité : Carte de Combat indiquée avec un coût d’énergie de X ».
+10-27-3. Quand vous activez [Échange], choisissez depuis votre main jusqu’à une carte de Combat indiquée avec un coût d’énergie de X, jouez-la, puis retournez la carte de Combat qui a activé [Échange] dans la main de son propriétaire.
+
+10.27. Choisissez X —
+10.27.1. Certaines Capacités [Activation] et [Auto.] vous permettent de choisir et de résoudre X options parmi une liste d’effets.
+10.27.2. Le choix s’effectue parmi les options séparées par un « ・ » après « Choisissez X — ».
+10.27.3. Lorsque plusieurs effets sont choisis, le joueur qui les a activés choisit l’ordre de leur résolution.
+
+10.28. [Voeu]
+10.28.1. [Voeu] est une Capacité-clef [Activation] activable lorsque ses conditions et son coût sont remplis.
+10.28.2. [Voeu] est rédigé comme suit : « [Voeu] Condition : (effet) ».
+10.28.3. Les cartes ayant utilisé la Capacité [Voeu] sont tournées sur le dos, mais sont considérées comme étant les mêmes cartes.
+10.28.3.1. Le terme « même carte » désigne une carte unique possédant des informations différentes de face et de dos.
+10.28.4. Quand une carte tournée sur le dos par la Capacité [Voeu] est tournée à nouveau de face, elle est toujours considérée comme la même carte.
+10.28.5. Quand une carte est tournée de l’autre côté par la Capacité [Voeu], elle conserve l’orientement et les effets altérant la puissance de la carte avant qu’elle soit tournée.
+
+10.29. [Étincelle]
+10.29.1. [Étincelle] est une Capacité-clef ne rendant valide(s) la/les Capacité(s) rattachée(s) à elle que lorsque vous avez autant ou plus de cartes dans votre Zone de Dispersion que le nombre de cartes spécifié par la Capacité [Étincelle].
+10.29.2. [Étincelle] est rédigée comme suit : « [Étincelle X] ».
+
+10.30. [Explosion]
+10.30.1. [Explosion] est une Capacité-clef avec un coût indiquant que vous devez placer X cartes depuis le dessus de votre deck dans votre Zone de Dispersion pour activer la/les Capacité(s) rattachée(s) à elle.
+10.29.2. [Explosion] est rédigée comme suit : « [Explosion X] ».
+
+10.31. [Dragon Ball]
+10.31.1. [Dragon Ball] est une Capacité-clef [Permanent] concernant la construction du deck, stipulant que lorsque vous incluez des cartes [Dragon Ball] dans votre deck, vous pouvez inclure à l’intérieur sept cartes du même nom avec [Dragon Ball], mais que vous ne pouvez inclure qu’un total maximum de sept cartes du même nom avec [Dragon Ball].
+
+10-28. [Espace-temps obscur] ([Espace-temps obscur X])
+10-28-1. [Espace-temps obscur] est une Capacité-clef [Activation : Principale] activable quand vous avez X cartes noires ou plus dans votre Zone de Dispersion.
+10-28-2. [Espace-temps obscur] est rédigé comme suit : « [Espace-Temps obscur X] Coût de Capacité ».
+10-28-3. [Espace-temps obscur] peut être activé depuis votre main en transférant toutes les cartes de votre Zone de Dispersion dans votre Dimension parallèle et en mettant en jeu la carte avec [Espace-temps obscur].
+10-28-4. [Espace-temps] et [Espace-temps obscur] ne peuvent être activés au total qu’une seule fois par tour.
+
+10-30. [Vortex]
+10-30-1. [Vortex] est une Capacité-clef [Permanent] avec : « Vous pouvez activer [Espace-temps] et [Espace-temps obscur] jusqu’à un total de deux fois par tour. »
+
+
+11. Autre
+
+11-1. Boucle infinie
+11-1-1. Lors de certaines applications de règle, certaines situations présentent le cas d’actions pouvant ou devant se répéter indéfiniment. Cette situation se nomme « boucle infinie », et un cycle complet de ces actions depuis le début jusqu’à la fin de la boucle se nomme « actions en boucle ». Dans ce cas de jeu, conformez-vous à la procédure suivante.
+11-1-1-1. Si aucun des joueurs ne peut stopper la boucle infinie, la partie s’achève sur un match nul.
+11-1-1-2. Si durant les actions, seulement un joueur a le choix de stopper la boucle infinie, ce joueur déclare combien de fois il souhaite répéter les actions en boucle, répète ces actions en boucle autant de fois que déclaré et stoppe la boucle infinie au moment où il en a le choix. Il est ensuite impossible au joueur de relancer la boucle même si l’état du jeu est le même (toutes les cartes dans les mêmes zones), à moins qu’une Capacité [Auto.] par exemple l’y oblige.
+11-1-1-3. Si durant les actions, les deux joueurs ont le choix de stopper la boucle infinie, le joueur actif déclare combien de fois il souhaite répéter les actions en boucle. Puis le joueur non-actif déclare combien de fois il souhaite répéter les actions en boucle. Répétez-les autant de fois que le plus petit nombre de répétitions déclaré par les joueurs. Puis le joueur qui a déclaré ce nombre stoppe la boucle infinie au moment où il en a le choix. Il est ensuite impossible au joueur qui a déclaré le plus grand nombre de répétitions de relancer la boucle même si l’état du jeu est le même (toutes les cartes dans les mêmes zones), à moins qu’une Capacité [Auto.] par exemple l’y oblige.
+
+11-2. Révéler une carte
+11-2-1. Quand vous déplacez des cartes depuis une zone cachée vers une autre zone cachée sous certaines conditions comme : « Ajoutez <Son Goku> depuis votre deck dans votre main », les cartes déplacées doivent être révélées, même si aucun ordre n’est donné.
+
+11-3. Cartes placées sous d’autres cartes
+11-3-1. Via certaines Capacités (entre autres), des cartes peuvent être placées sous ou par-dessus des cartes présentes dans la Zone de Combat, de Combo et du Leader.
+11-3-2. Les cartes placées sous une carte spécifique voient leur Capacités invalidées, et sont considérées comme la carte qui se trouve au-dessus d’elles, en tant que carte unique.
+11-3-2-1. Lorsque vous vous référez via des Capacités par exemple à une carte placée sous une autre carte , considérez-la comme une carte différente de la carte placée au-dessus du tas.
+11-3-3. Quand de nouvelles cartes doivent être placées sous une carte possèdant déjà des cartes sous elle, elles sont placées tout en bas du tas.
+11-3-4. Quand des cartes sont déplacées depuis la Zone de Combat vers une zone autre que la Zone de Combo, ou si des cartes sont déplacées depuis la Zone de Combo vers une zone autre que la Zone de Combat, les cartes placées sous ces cartes seront placées depuis leur zone d’origine dans la Zone de Dispersion. Pendant ce moment, les Capacités [Auto.] avec déclenchement par déplacement de zone des cartes placées au-dessous ne s’activent pas.
+11-3-5. Quand une carte spécifique est déplacée d’une zone d’un joueur à la zone d’un autre joueur, toutes les cartes placées au-dessous de celle-ci sont déplacées avec.
+11-3-6. Quand seule la carte du dessus est déplacée, les cartes du dessous ne se déplacent pas de la zone d’origine où se trouvait la carte du dessus, et acquièrent ses altérations d’informations et son orientement.
+
+11-4. Transférer dans la Dimension parallèle
+11-4-1. Transférer dans la Dimension parallèle signifie placer de face la carte indiquée dans la Dimension parallèle de son propriétaire.
+
+11-5. Prendre le contrôle
+11-5-1. Prendre le contrôle d’une carte signifie déplacer une carte d’un autre joueur dans une de ses propres zones et en devenir le maître.
+11-5-1-1. Une carte dont le contrôle a été pris conserve son orientement original, et les effets continus l’affectant restent valides.
