@@ -1,6 +1,6 @@
 DRAGON BALL SUPER CARD GAME OFFICIAL RULE MANUAL
-ver.1.073
-Last update: 1/25/2019
+ver.1.074
+Last update: 2/8/2019
 
 
 Table of Contents
@@ -176,6 +176,7 @@ General Rules
 3-5. Leader Area
 3-5-1. At the beginning of the game, place the Leader Card with its front side facing up in this area.
 3-5-2. The Leader Area is an open area.
+3-5-3. A card placed in the Leader Area which is treated as a Leader Card cannot be moved from the Leader Area via any card effects or rules, and does not leave the Leader Area under any circumstances.
 
 3-6. Battle Area
 3-6-1. Place Battle Cards and some Extra Cards in this Area.
