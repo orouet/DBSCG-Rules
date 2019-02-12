@@ -1,6 +1,6 @@
 DRAGON BALL SUPER CARD GAME OFFICIAL RULE MANUAL
-ver.1.070
-Last update: 11/2/2018
+ver.1.071
+Last update: 11/15/2018
 
 
 Table of Contents
@@ -57,11 +57,11 @@ General Rules
 2-1-2. Some text will indicate nouns with {}, without descriptions on what kind of information it is. These texts are referring to card names.
 2-1-3. As an exception, some cards have [Permanent] skills that add card names to card text. Treat these cards as if they have this text by default, including during deck construction and when in secret areas.
 
-2-2. Illustrations
+2-2. Illustration
 2-2-1. This is the illustration depicting the card’s image.
 2-2-2. The illustration does not affect gameplay.
 
-2-3. Card Types
+2-3. Card Type
 2-3-1. This is an indication of the card type.
 2-3-2. There are 3 types of cards: Leader Cards, Battle Cards, and Extra Cards.
 2-3-2-1. Leader Cards are placed in the Leader Area.
@@ -77,7 +77,7 @@ General Rules
 2-4-1. This information indicates the card’s color. A card’s color can be referred to in card text and cost payment.
 2-4-1-1. There are five colors: red, blue, green, yellow, and black.
 
-2-5. Character Names
+2-5. Character Name
 2-5-1. This information indicates the name of the card character.
 2-5-2. The information is not directly referenced by the rules, yet the data can be referred to in card text.
 2-5-3. Some text will indicate nouns with < >, without descriptions on what kind of information it is. This text is referring to cards with those character names.
@@ -338,7 +338,7 @@ General Rules
 6-3-1-2-1-4. The trigger condition “when you play this card” occurs and a checkpoint occurs.
 6-3-1-2-2. The turn player can activate [Activate: Main] skills of their own Leader Cards, Battle Cards, or Extra Cards.
 6-3-1-2-2-1. A counter timing occurs before and after the skill is resolved. (Non-turn players can activate [Counter] skills for which they’ve met the conditions.)
-6-3-1-2-2-2. [Awaken] is one type of [Activate] ability. It can be activated at this timing.
+6-3-1-2-2-2. [Awaken] and [Wish] are types of [Activate] skills. They can be activated at this timing.
 6-3-1-2-3. The turn player can attack their opponent’s cards with cards which they are the master of. Check the details for battle in the later “Card Attacking and Battle” section.
 6-3-1-2-4. The turn player can choose to end their Main Phase. If they do so, proceed to the Main Phase End Step.
 6-3-1-3. Main Phase End Step
@@ -376,7 +376,7 @@ General Rules
 7-2-1-2-2-1. If they do so, the player must switch an amount of energy equal to the required combo cost to Rest Mode, and declare the combo. If they cannot do so, they cannot declare a combo.
 7-2-1-2-3. The turn player can activate the [Activate: Battle] skills of their own Leader Card, Battle Card, or Extra Card.
 7-2-1-2-3-1. A counter timing occurs before and after the skill resolves. (The non-turn player can activate [Counter] skills for which conditions have been fulfilled.)
-7-2-1-2-3-2. [Awaken] is an [Activate] skill. It can be activated at this timing.
+7-2-1-2-3-2. [Awaken] and [Wish] are types of [Activate] skills. They can be activated at this timing.
 7-2-1-3. If the turn player chooses to do nothing, proceed to the Defense Step.
 
 7-3. Defense Step
@@ -389,7 +389,7 @@ General Rules
 7-3-1-2-2-1. If they do, the player must switch the required cost worth of energy to Rest Mode. If they cannot do so, they cannot declare a combo.
 7-3-1-2-3. The non-turn player can activate the [Activate: Battle] skills of their own Leader Card, Battle Card, or Extra Card.
 7-3-1-2-3-1. A counter-timing occurs before and after the skill resolves. (The turn player may activate [Counter] skills for which conditions have been fulfilled)
-7-3-1-2-3-2. [Awaken] is an [Activate] skill. It activates at this timing.
+7-3-1-2-3-2. [Awaken] and [Wish] are types of [Activate] skills. They activate at this timing.
 7-3-1-3. If the non-turn player decides to do nothing, proceed to the Damage Step.
 
 7-4. Damage Step
@@ -449,7 +449,7 @@ General Rules
 8-4-2-4. Some skill costs are described with colored spheres. This means to choose and switch that many of your energy of that color to Rest Mode.
 
 8-5. Activating and Resolving
-8-5-1. [Activate], [Auto], [Awaken], and cards in a player’s hand are resolved by activating them, triggering their effects. [Permanent] skills do not activate; their effects are constantly active.
+8-5-1. [Activate], [Auto], [Awaken], [Wish], and cards in a player’s hand are resolved by activating them and triggering their effects. [Permanent] skills do not activate; their effects are constantly active.
 8-5-2. Activate skills following the procedure below.
 8-5-2-1. The player specifies which skill they wish to activate. If they wish to activate the skill of a card in their hand, they reveal that card.
 8-5-2-2. If there is a necessary skill cost, determine that cost and they pay it entirely.
@@ -548,7 +548,7 @@ General Rules
 10-1-2. A card is only KO-ed when an effect says to “KO” a card, or because of a rule that specifies to KO a card. Battle Cards in an owner’s Drop Area that were placed there for other reasons weren’t necessarily “KO”-ed.
 
 10-2. [Awaken]
-10-2-1. [Awaken] is an [Activate] skill that players can activate by fulfilling conditions and paying associated costs.
+10-2-1. [Awaken] is an [Activate] keyword skill that players can activate by fulfilling conditions and paying associated costs.
 10-2-2. [Awaken] is described as follows: “[Awaken] (condition) (effect).”
 10-2-3. A card for which [Awaken] is activated is turned over, but is treated as the same card.
 10-2-3-1. “The same card” means that the card is 1 card with different information on the front and back.
@@ -557,7 +557,7 @@ General Rules
 10-2-5. When a card’s facing is flipped due to [Awaken], the card’s pre-flipped position and any continuous effects affecting the card’s power are carried over.
 
 10-3. [Field]
-10-3-1. [Field] is an [Activate: Main] effect of Extra Cards that reads “Place this card in the Battle Area in Active Mode.”
+10-3-1. [Field] is an [Activate: Main] keyword skill on Extra Cards that reads “Place this card in the Battle Area in Active Mode.”
 10-3-2. Extra Cards with [Field] may have skills other than [Field]. Those skills are generally only valid when the card is placed in the Battle Area, and they are activated/active without placing the card in the Drop Area (if not specified otherwise).
 10-3-3. When activating another [Field] effect, after it resolves, all other Extra Cards with [Field] in a player’s Battle Area other than the one they activated are placed in the Drop Area.
 
@@ -576,21 +576,21 @@ General Rules
 10-5-7. When a card says “evolved” it means a card that was played with [Evolve] ([EX-Evolve] [Xeno-Evolve]).
 
 10-6. [Critical]
-10-6-1. [Critical] is a [Permanent] effect which is described, “When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.”
+10-6-1. [Critical] is a [Permanent] keyword skill which reads, “When this card inflicts damage to your opponent's life by attacking, they place that many cards in their Drop Area instead of their hand.”
 
 10-7. [Strike]
-10-7-1. [Strike] is a [Permanent] skill which is described, “When this card attacks, if it deals x-1 damage, this card inflicts X damage instead.”
+10-7-1. [Strike] is a [Permanent] keyword skill which is described, “When this card attacks, if it deals x-1 damage, this card inflicts X damage instead.”
 10-7-1-1. The X of [Double Strike] is 2.
 10-7-1-2. The X of [Triple Strike] is 3.
 10-7-1-3. The X of [Quadruple Strike] is 4.
 
 10-8. [Dual Attack] ([X Attack])
-10-8-1. [Dual Attack] is an [Once per turn] [Auto] skill which is described, “When this card attacks, switch this card to Active Mode after the battle.” The skill activates X-1 times per turn.
+10-8-1. [Dual Attack] is a [Once per turn] [Auto] keyword skill which is described, “When this card attacks, switch this card to Active Mode after the battle.” The skill activates X-1 times per turn.
 10-8-1-1. The X of [Dual Attack] is 2.
 10-8-1-2. The X of [Triple Attack] is 3.
 
 10-9. [Revenge]
-10-9-1. [Revenge] is an [Auto] skill which is described, “At the end of the battle when this card is attacked by a Battle Card, or when this card is KO-ed in battle by a Battle Card, KO the opponent’s card after the battle.”
+10-9-1. [Revenge] is an [Auto] keyword skill which is described, “At the end of the battle when this card is attacked by a Battle Card, or when this card is KO-ed in battle by a Battle Card, KO the opponent’s card after the battle.”
 
 10-10. [Counter]
 10-10-1. [Counter] is a keyword skill that can be activated only at counter timing by paying its energy and skill cost.
@@ -711,36 +711,36 @@ General Rules
 10-29-2. [Sparking] is described as follows: “[Sparking X].”
 
 10-30. [Burst]
-10-30-1. A skill with [Burst] can only be activated if its owner chooses to place the specified number of cards from the top of their deck into their Drop Area.
+10-30-1. [Burst] is a keyword skill that states a skill with [Burst] can only be activated if its owner chooses to place the specified number of cards from the top of their deck into their Drop Area.
 10-30-2. [Burst] is described as follows: “[Burst X].”
 
 10-31. [Dragon Ball]
 10-31-1. [Dragon Ball] is a keyword skill that has a permanent effect on deckbuilding, which reads as follows: “You can include as many copies of cards with [Dragon Ball] in your deck as you like, as long as the total number doesn't exceed 7.”
 
-10-32. Infinite Loop
-10-32-1. When carrying out some processes, there may be some occasions where an action can be or must be carried out infinitely. This is called an infinite loop, and 1 cycle of action from the start to the end of loop is called a loop action. If such an event occurs, follow the procedure below.
-10-32-1-1. If neither player can stop that infinite loop, the game ends as draw.
-10-32-1-2. If only one player has the choice to stop the infinite loop within the loop action, that player declares how many times they wish to carry out the loop action. Carry out the loop action that many times and finish it at the timing with which that player can make a choice to stop the infinite loop. The player cannot choose to restart the loop even if in the exactly same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
-10-32-1-3. If both players have the choice to stop the infinite loop within the loop action, the turn player first decides how many times they wish to carry out the loop action. Then the non-turn player decides how many times they wish to carry out the loop action. Carry out the loop action the fewer amount of times declared by the players and finish it at the timing which that player can make a choice to stop the infinite loop. The player that decided on a larger number cannot choose to restart the loop even if in the exact same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
-
-10-33. Revealing Cards
-10-33-1. When moving cards from a Secret Area to another Secret Area in certain conditions, such as “Add <Son Goku> from the deck to your hand,” moved cards must be revealed, even when there is no direction that specifically states so.
-
 
 11. Other
 
-11-3. Cards on the Bottom
+11-1. Infinite Loops
+11-1-1. When carrying out some processes, there may be some occasions where an action can be or must be carried out infinitely. This is called an infinite loop, and 1 cycle of action from the start to the end of loop is called a loop action. If such an event occurs, follow the procedure below.
+11-1-2. If neither player can stop that infinite loop, the game ends as draw.
+11-1-2-1. If only one player has the choice to stop the infinite loop within the loop action, that player declares how many times they wish to carry out the loop action. Carry out the loop action that many times and finish it at the timing with which that player can make a choice to stop the infinite loop. The player cannot choose to restart the loop even if in the exactly same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
+11-1-2-2. If both players have the choice to stop the infinite loop within the loop action, the turn player first decides how many times they wish to carry out the loop action. Then the non-turn player decides how many times they wish to carry out the loop action. Carry out the loop action the fewer amount of times declared by the players and finish it at the timing which that player can make a choice to stop the infinite loop. The player that decided on a larger number cannot choose to restart the loop even if in the exact same state (all cards are in the same areas) as before the loop unless they are forced to do so due to effects such as [Auto] effects.
+
+11-2. Revealing Cards
+11-2-1. When moving cards from a Secret Area to another Secret Area in certain conditions, such as “Add <Son Goku> from the deck to your hand,” moved cards must be revealed, even when there is no direction that specifically states so.
+
+11-3. Cards Below Other Cards.
 11-3-1. Depending on Skills, etc., cards in the Battle Area, Combo Area, and Leader Area, may have cards placed on top or below them.
 11-3-2. The Skills of cards placed beneath specific cards will be nullified, and will be treated as the same card as the card placed on top of it as a single card.
-11-3-2-1. When referring to cards placed under other cards, those cards are treated as different cards from the card placed on top of them.
-11-3-3. When new cards are placed underneath cards with a card already underneath it, the new card will be placed on the very bottom.
-11-3-4. When cards are moved from the Battle Area to anywhere else than the Combo Area, or if cards are moved from the Combo Area to anywhere else than the Battle Area, cards underneath that card will be moved from its original area to the Drop Area. During this time, the bottom card’s [Auto] abilities, triggered by Area Movement, do not activate.
-11-3-5. When a specific card is moved from one player’s area to another player’s area, all of the cards placed beneath the card move with it.
-11-3-6. When only the card on top is to be moved, the bottom card will not move from the area where the card on top was in, and will gain any effects concerning additions/subtractions to the top card’s power and its position.
+11-3-3. When referring to cards placed under other cards, those cards are treated as different cards from the card placed on top of them.
+11-3-4. When new cards are placed underneath cards with a card already underneath it, the new card will be placed on the very bottom.
+11-3-5. When cards are moved from the Battle Area to anywhere else than the Combo Area, or if cards are moved from the Combo Area to anywhere else than the Battle Area, cards underneath that card will be moved from its original area to the Drop Area. During this time, the bottom card’s [Auto] abilities, triggered by Area Movement, do not activate.
+11-3-6. When a specific card is moved from one player’s area to another player’s area, all of the cards placed beneath the card move with it.
+11-3-7. When only the card on top is to be moved, the bottom card will not move from the area where the card on top was in, and will gain any effects concerning additions/subtractions to the top card’s power and its position.
 
-10-4. Send to the Warp
-10-4-1. Sending a card to the Warp means to place the specified card face up in its Owner’s Warp.
+11-4. Sending Cards to the Warp
+11-4-1. Sending a card to the Warp means to place the specified card face up in its Owner’s Warp.
 
-10-5. Gain Control
-10-5-1. To gain control of a card means to move a player’s card to the area of the skill’s owner and become its master.
-10-5-1-1. A card retains its original positioning after you gain control of it. Any effects in place on the card remain as well.
+11-5. Gaining Control of Cards
+11-5-1. To gain control of a card means to move a player’s card to the area of the skill’s owner and become its master.
+11-5-1-1. A card retains its original positioning after you gain control of it. Any effects in place on the card remain as well.
